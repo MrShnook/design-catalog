@@ -1,0 +1,103 @@
+{
+  "name": "Logo Loop",
+  "slug": "logo-loop",
+  "url": "https://reactbits.dev/animations/logo-loop",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "logos",
+      "type": "LogoItem\\[\\]",
+      "default": "required",
+      "description": "Array of logo items to display. Each item can be either a React node or an image src."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "120",
+      "description": "Animation speed in pixels per second. Positive values move based on direction, negative values reverse direction."
+    },
+    {
+      "name": "direction",
+      "type": "'left' \\",
+      "default": "'right' \\",
+      "description": "'up' \\"
+    },
+    {
+      "name": "width",
+      "type": "number \\",
+      "default": "string",
+      "description": "'100%'"
+    },
+    {
+      "name": "logoHeight",
+      "type": "number",
+      "default": "28",
+      "description": "Height of the logos in pixels."
+    },
+    {
+      "name": "gap",
+      "type": "number",
+      "default": "32",
+      "description": "Gap between logos in pixels."
+    },
+    {
+      "name": "hoverSpeed",
+      "type": "number \\",
+      "default": "undefined",
+      "description": "0"
+    },
+    {
+      "name": "fadeOut",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether to apply fade-out effect at the edges of the container."
+    },
+    {
+      "name": "fadeOutColor",
+      "type": "string",
+      "default": "undefined",
+      "description": "Color used for the fade-out effect. Only applies when fadeOut is true."
+    },
+    {
+      "name": "scaleOnHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether to scale logos on hover."
+    },
+    {
+      "name": "renderItem",
+      "type": "(item: LogoItem, key: React.Key) => React.ReactNode",
+      "default": "undefined",
+      "description": "Custom render function for each logo item. Allows full control over item rendering for animations, tooltips, etc."
+    },
+    {
+      "name": "ariaLabel",
+      "type": "string",
+      "default": "'Partner logos'",
+      "description": "Accessibility label for the logo loop component."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "undefined",
+      "description": "Additional CSS class names to apply to the root element."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "undefined",
+      "description": "Inline styles to apply to the root element."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

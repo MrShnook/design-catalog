@@ -1,0 +1,506 @@
+{
+  "total": 123,
+  "success": 2,
+  "failed": 121,
+  "no_code": 0,
+  "components": {
+    "tooltip-card": {
+      "status": "success",
+      "blocks_found": 4,
+      "source_length": 5898,
+      "has_usage": true,
+      "has_source": true
+    },
+    "macbook-scroll": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-macbook-scroll.json: No such file or directory"
+    },
+    "3d-card-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-3d-card-effect.json: No such file or directory"
+    },
+    "ascii-art": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-ascii-art.json: No such file or directory"
+    },
+    "canvas-text": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-canvas-text.json: No such file or directory"
+    },
+    "3d-globe": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-3d-globe.json: No such file or directory"
+    },
+    "dither-shader": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-dither-shader.json: No such file or directory"
+    },
+    "dotted-glow-background": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-dotted-glow-background.json: No such file or directory"
+    },
+    "encrypted-text": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-encrypted-text.json: No such file or directory"
+    },
+    "images-badge": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-images-badge.json: No such file or directory"
+    },
+    "keyboard": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-keyboard.json: No such file or directory"
+    },
+    "noise-background": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-noise-background.json: No such file or directory"
+    },
+    "scales": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-scales.json: No such file or directory"
+    },
+    "text-hover-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-text-hover-effect.json: No such file or directory"
+    },
+    "webcam-pixel-grid": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-webcam-pixel-grid.json: No such file or directory"
+    },
+    "animated-testimonials": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-animated-testimonials.json: No such file or directory"
+    },
+    "apple-cards-carousel": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-apple-cards-carousel.json: No such file or directory"
+    },
+    "background-beams-with-collision": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-background-beams-with-collision.json: No such file or directory"
+    },
+    "background-lines": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-background-lines.json: No such file or directory"
+    },
+    "background-ripple-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-background-ripple-effect.json: No such file or directory"
+    },
+    "card-spotlight": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-card-spotlight.json: No such file or directory"
+    },
+    "carousel": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-carousel.json: No such file or directory"
+    },
+    "code-block": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-code-block.json: No such file or directory"
+    },
+    "colourful-text": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-colourful-text.json: No such file or directory"
+    },
+    "comet-card": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-comet-card.json: No such file or directory"
+    },
+    "compare": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-compare.json: No such file or directory"
+    },
+    "container-cover": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-container-cover.json: No such file or directory"
+    },
+    "container-text-flip": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-container-text-flip.json: No such file or directory"
+    },
+    "draggable-card": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-draggable-card.json: No such file or directory"
+    },
+    "expandable-card": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-expandable-card.json: No such file or directory"
+    },
+    "feature-sections-free": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-feature-sections-free.json: No such file or directory"
+    },
+    "file-upload": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-file-upload.json: No such file or directory"
+    },
+    "floating-dock": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-floating-dock.json: No such file or directory"
+    },
+    "focus-cards": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-focus-cards.json: No such file or directory"
+    },
+    "hero-sections-free": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-hero-sections-free.json: No such file or directory"
+    },
+    "layout-text-flip": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-layout-text-flip.json: No such file or directory"
+    },
+    "lens": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-lens.json: No such file or directory"
+    },
+    "loader": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-loader.json: No such file or directory"
+    },
+    "pixelated-canvas": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-pixelated-canvas.json: No such file or directory"
+    },
+    "pointer-highlight": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-pointer-highlight.json: No such file or directory"
+    },
+    "resizable-navbar": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-resizable-navbar.json: No such file or directory"
+    },
+    "stateful-button": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-stateful-button.json: No such file or directory"
+    },
+    "sticky-banner": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-sticky-banner.json: No such file or directory"
+    },
+    "world-map": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-world-map.json: No such file or directory"
+    },
+    "google-gemini-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-google-gemini-effect.json: No such file or directory"
+    },
+    "tracing-beam": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-tracing-beam.json: No such file or directory"
+    },
+    "3d-marquee": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-3d-marquee.json: No such file or directory"
+    },
+    "animated-modal": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-animated-modal.json: No such file or directory"
+    },
+    "animated-tooltip": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-animated-tooltip.json: No such file or directory"
+    },
+    "aurora-background": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-aurora-background.json: No such file or directory"
+    },
+    "background-beams": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-background-beams.json: No such file or directory"
+    },
+    "background-gradient-animation": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-background-gradient-animation.json: No such file or directory"
+    },
+    "bento-grid": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-bento-grid.json: No such file or directory"
+    },
+    "canvas-reveal-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-canvas-reveal-effect.json: No such file or directory"
+    },
+    "card-stack": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-card-stack.json: No such file or directory"
+    },
+    "cards-free": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-cards-free.json: No such file or directory"
+    },
+    "container-scroll-animation": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-container-scroll-animation.json: No such file or directory"
+    },
+    "evervault-card": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-evervault-card.json: No such file or directory"
+    },
+    "flip-words": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-flip-words.json: No such file or directory"
+    },
+    "github-globe": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-github-globe.json: No such file or directory"
+    },
+    "glare-card": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-glare-card.json: No such file or directory"
+    },
+    "glowing-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-glowing-effect.json: No such file or directory"
+    },
+    "glowing-stars-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-glowing-stars-effect.json: No such file or directory"
+    },
+    "grid-and-dot-backgrounds": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-grid-and-dot-backgrounds.json: No such file or directory"
+    },
+    "hero-highlight": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-hero-highlight.json: No such file or directory"
+    },
+    "hero-parallax": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-hero-parallax.json: No such file or directory"
+    },
+    "infinite-moving-cards": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-infinite-moving-cards.json: No such file or directory"
+    },
+    "lamp-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-lamp-effect.json: No such file or directory"
+    },
+    "layout-grid": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-layout-grid.json: No such file or directory"
+    },
+    "link-preview": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-link-preview.json: No such file or directory"
+    },
+    "meteors": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-meteors.json: No such file or directory"
+    },
+    "moving-border": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-moving-border.json: No such file or directory"
+    },
+    "parallax-scroll": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-parallax-scroll.json: No such file or directory"
+    },
+    "placeholders-and-vanish-input": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-placeholders-and-vanish-input.json: No such file or directory"
+    },
+    "shooting-stars-and-stars-background": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-shooting-stars-and-stars-background.json: No such file or directory"
+    },
+    "sidebar": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-sidebar.json: No such file or directory"
+    },
+    "signup-form": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-signup-form.json: No such file or directory"
+    },
+    "sparkles": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-sparkles.json: No such file or directory"
+    },
+    "spotlight-new": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-spotlight-new.json: No such file or directory"
+    },
+    "spotlight": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-spotlight.json: No such file or directory"
+    },
+    "sticky-scroll-reveal": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-sticky-scroll-reveal.json: No such file or directory"
+    },
+    "svg-mask-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-svg-mask-effect.json: No such file or directory"
+    },
+    "tabs": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-tabs.json: No such file or directory"
+    },
+    "text-generate-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-text-generate-effect.json: No such file or directory"
+    },
+    "text-reveal-card": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-text-reveal-card.json: No such file or directory"
+    },
+    "typewriter-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-typewriter-effect.json: No such file or directory"
+    },
+    "vortex": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-vortex.json: No such file or directory"
+    },
+    "wavy-background": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-wavy-background.json: No such file or directory"
+    },
+    "wobble-card": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-wobble-card.json: No such file or directory"
+    },
+    "hover-border-gradient": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-hover-border-gradient.json: No such file or directory"
+    },
+    "multi-step-loader": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-multi-step-loader.json: No such file or directory"
+    },
+    "3d-pin": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-3d-pin.json: No such file or directory"
+    },
+    "background-boxes": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-background-boxes.json: No such file or directory"
+    },
+    "background-gradient": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-background-gradient.json: No such file or directory"
+    },
+    "card-hover-effect": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-card-hover-effect.json: No such file or directory"
+    },
+    "direction-aware-hover": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-direction-aware-hover.json: No such file or directory"
+    },
+    "floating-navbar": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-floating-navbar.json: No such file or directory"
+    },
+    "following-pointer": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-following-pointer.json: No such file or directory"
+    },
+    "images-slider": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-images-slider.json: No such file or directory"
+    },
+    "navbar-menu": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-navbar-menu.json: No such file or directory"
+    },
+    "tailwindcss-buttons": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-tailwindcss-buttons.json: No such file or directory"
+    },
+    "timeline": {
+      "status": "success",
+      "blocks_found": 5,
+      "source_length": 3368,
+      "has_usage": true,
+      "has_source": true
+    },
+    "hero-sections": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-hero-sections.json: No such file or directory"
+    },
+    "shaders": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-shaders.json: No such file or directory"
+    },
+    "logo-clouds": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-logo-clouds.json: No such file or directory"
+    },
+    "feature-sections": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-feature-sections.json: No such file or directory"
+    },
+    "backgrounds": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-backgrounds.json: No such file or directory"
+    },
+    "bento-grids": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-bento-grids.json: No such file or directory"
+    },
+    "blog-content-sections": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-blog-content-sections.json: No such file or directory"
+    },
+    "blog-sections": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-blog-sections.json: No such file or directory"
+    },
+    "cards": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-cards.json: No such file or directory"
+    },
+    "contact-sections": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-contact-sections.json: No such file or directory"
+    },
+    "cta-sections": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-cta-sections.json: No such file or directory"
+    },
+    "faqs": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-faqs.json: No such file or directory"
+    },
+    "footers": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-footers.json: No such file or directory"
+    },
+    "illustrations": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-illustrations.json: No such file or directory"
+    },
+    "login-and-signup-sections": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-login-and-signup-sections.json: No such file or directory"
+    },
+    "navbars": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-navbars.json: No such file or directory"
+    },
+    "pricing-sections": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-pricing-sections.json: No such file or directory"
+    },
+    "sidebars": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-sidebars.json: No such file or directory"
+    },
+    "stats-sections": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-stats-sections.json: No such file or directory"
+    },
+    "testimonials": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-testimonials.json: No such file or directory"
+    },
+    "text-animations": {
+      "status": "failed",
+      "error": "Failed to read result file: cat: /tmp/ace-extract-text-animations.json: No such file or directory"
+    }
+  }
+}

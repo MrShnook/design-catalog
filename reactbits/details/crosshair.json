@@ -1,0 +1,34 @@
+{
+  "name": "Crosshair",
+  "slug": "crosshair",
+  "url": "https://reactbits.dev/animations/crosshair",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "default": "'white'",
+      "description": "Color of the crosshair lines."
+    },
+    {
+      "name": "containerRef",
+      "type": "RefObject<HTMLElement>",
+      "default": "null",
+      "description": "Optional container ref to limit crosshair to specific element. If null, crosshair will be active on entire viewport."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

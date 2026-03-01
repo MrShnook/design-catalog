@@ -1,0 +1,49 @@
+{
+  "name": "Star Border",
+  "slug": "star-border",
+  "url": "https://reactbits.dev/animations/star-border",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "as",
+      "type": "string",
+      "default": "button",
+      "description": "Allows specifying the type of the parent component to be rendered."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "-",
+      "description": "Allows adding custom classes to the component."
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "white",
+      "description": "Changes the main color of the border (fades to transparent)"
+    },
+    {
+      "name": "speed",
+      "type": "string",
+      "default": "6s",
+      "description": "Changes the speed of the animation."
+    },
+    {
+      "name": "thickness",
+      "type": "number",
+      "default": "3",
+      "description": "Controls the thickness of the star border effect."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

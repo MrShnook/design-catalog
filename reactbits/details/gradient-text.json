@@ -1,0 +1,67 @@
+{
+  "name": "Gradient Text",
+  "slug": "gradient-text",
+  "url": "https://reactbits.dev/text-animations/gradient-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "-",
+      "description": "The content to be displayed inside the gradient text."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Adds custom classes to the root element for additional styling."
+    },
+    {
+      "name": "colors",
+      "type": "string\\[\\]",
+      "default": "\\[\"#5227FF\", \"#FF9FFC\", \"#B19EEF\"\\]",
+      "description": "Array of colors for the gradient effect."
+    },
+    {
+      "name": "animationSpeed",
+      "type": "number",
+      "default": "8",
+      "description": "Duration of one animation cycle in seconds."
+    },
+    {
+      "name": "direction",
+      "type": "'horizontal' \\",
+      "default": "'vertical' \\",
+      "description": "'diagonal'"
+    },
+    {
+      "name": "pauseOnHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "Pauses the animation when hovering over the text."
+    },
+    {
+      "name": "yoyo",
+      "type": "boolean",
+      "default": "true",
+      "description": "Reverses animation direction at the end instead of looping."
+    },
+    {
+      "name": "showBorder",
+      "type": "boolean",
+      "default": "false",
+      "description": "Displays a gradient border around the text."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

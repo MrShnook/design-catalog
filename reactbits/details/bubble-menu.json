@@ -1,0 +1,94 @@
+{
+  "name": "Bubble Menu",
+  "slug": "bubble-menu",
+  "url": "https://reactbits.dev/components/bubble-menu",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "logo",
+      "type": "ReactNode \\",
+      "default": "string",
+      "description": "\u2014"
+    },
+    {
+      "name": "onMenuClick",
+      "type": "(open: boolean) => void",
+      "default": "\u2014",
+      "description": "Callback fired whenever the menu toggle changes; receives open state."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Additional class names for the root nav wrapper."
+    },
+    {
+      "name": "style",
+      "type": "CSSProperties",
+      "default": "\u2014",
+      "description": "Inline styles applied to the root nav wrapper."
+    },
+    {
+      "name": "menuAriaLabel",
+      "type": "string",
+      "default": "\"Toggle menu\"",
+      "description": "Accessible aria-label for the toggle button."
+    },
+    {
+      "name": "menuBg",
+      "type": "string",
+      "default": "\"#fff\"",
+      "description": "Background color for the logo & toggle bubbles and base pill background."
+    },
+    {
+      "name": "menuContentColor",
+      "type": "string",
+      "default": "\"#111\"",
+      "description": "Color for the menu icon lines and default pill text."
+    },
+    {
+      "name": "useFixedPosition",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true positions the menu with fixed instead of absolute (follows viewport)."
+    },
+    {
+      "name": "items",
+      "type": "MenuItem\\[\\]",
+      "default": "DEFAULT\\_ITEMS",
+      "description": "Custom menu items; each = { label, href, ariaLabel?, rotation?, hoverStyles?: { bgColor?, textColor? } }."
+    },
+    {
+      "name": "animationEase",
+      "type": "string",
+      "default": "\"back.out(1.5)\"",
+      "description": "GSAP ease string used for bubble scale-in animation."
+    },
+    {
+      "name": "animationDuration",
+      "type": "number",
+      "default": "0.5",
+      "description": "Duration (s) for each bubble & label animation."
+    },
+    {
+      "name": "staggerDelay",
+      "type": "number",
+      "default": "0.12",
+      "description": "Base stagger (s) between bubble animations (with slight random variance)."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

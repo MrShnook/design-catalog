@@ -1,0 +1,64 @@
+{
+  "name": "Text Cursor",
+  "slug": "text-cursor",
+  "url": "https://reactbits.dev/text-animations/text-cursor",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "default": "\u269b\ufe0f",
+      "description": "The text string to display as the trail."
+    },
+    {
+      "name": "spacing",
+      "type": "number",
+      "default": "100",
+      "description": "The spacing in pixels between each trail point."
+    },
+    {
+      "name": "followMouseDirection",
+      "type": "boolean",
+      "default": "true",
+      "description": "If true, each text rotates to follow the mouse direction."
+    },
+    {
+      "name": "randomFloat",
+      "type": "boolean",
+      "default": "true",
+      "description": "If true, enables random floating offsets in position and rotation for a dynamic effect."
+    },
+    {
+      "name": "exitDuration",
+      "type": "number",
+      "default": "0.5",
+      "description": "The duration in seconds for the exit animation of each trail item."
+    },
+    {
+      "name": "removalInterval",
+      "type": "number",
+      "default": "30",
+      "description": "The interval in milliseconds between removing trail items when the mouse stops moving."
+    },
+    {
+      "name": "maxPoints",
+      "type": "number",
+      "default": "5",
+      "description": "The maximum number of trail points to display."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Beams",
+  "slug": "beams",
+  "url": "https://reactbits.dev/backgrounds/beams",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [],
+  "creator": "",
+  "has_source_code": false,
+  "free": true
+}

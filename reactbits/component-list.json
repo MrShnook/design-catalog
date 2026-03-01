@@ -1,0 +1,734 @@
+[
+  {
+    "name": "Split Text",
+    "slug": "split-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/split-text"
+  },
+  {
+    "name": "Blur Text",
+    "slug": "blur-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/blur-text"
+  },
+  {
+    "name": "Circular Text",
+    "slug": "circular-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/circular-text"
+  },
+  {
+    "name": "Text Type",
+    "slug": "text-type",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/text-type"
+  },
+  {
+    "name": "Shuffle",
+    "slug": "shuffle",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/shuffle"
+  },
+  {
+    "name": "Shiny Text",
+    "slug": "shiny-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/shiny-text"
+  },
+  {
+    "name": "Text Pressure",
+    "slug": "text-pressure",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/text-pressure"
+  },
+  {
+    "name": "Curved Loop",
+    "slug": "curved-loop",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/curved-loop"
+  },
+  {
+    "name": "Fuzzy Text",
+    "slug": "fuzzy-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/fuzzy-text"
+  },
+  {
+    "name": "Gradient Text",
+    "slug": "gradient-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/gradient-text"
+  },
+  {
+    "name": "Falling Text",
+    "slug": "falling-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/falling-text"
+  },
+  {
+    "name": "Text Cursor",
+    "slug": "text-cursor",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/text-cursor"
+  },
+  {
+    "name": "Decrypted Text",
+    "slug": "decrypted-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/decrypted-text"
+  },
+  {
+    "name": "True Focus",
+    "slug": "true-focus",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/true-focus"
+  },
+  {
+    "name": "Scroll Float",
+    "slug": "scroll-float",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/scroll-float"
+  },
+  {
+    "name": "Scroll Reveal",
+    "slug": "scroll-reveal",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/scroll-reveal"
+  },
+  {
+    "name": "ASCII Text",
+    "slug": "ascii-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/ascii-text"
+  },
+  {
+    "name": "Scrambled Text",
+    "slug": "scrambled-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/scrambled-text"
+  },
+  {
+    "name": "Rotating Text",
+    "slug": "rotating-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/rotating-text"
+  },
+  {
+    "name": "Glitch Text",
+    "slug": "glitch-text",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/glitch-text"
+  },
+  {
+    "name": "Scroll Velocity",
+    "slug": "scroll-velocity",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/scroll-velocity"
+  },
+  {
+    "name": "Variable Proximity",
+    "slug": "variable-proximity",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/variable-proximity"
+  },
+  {
+    "name": "Count Up",
+    "slug": "count-up",
+    "category": "text-animations",
+    "url": "https://reactbits.dev/text-animations/count-up"
+  },
+  {
+    "name": "Animated Content",
+    "slug": "animated-content",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/animated-content"
+  },
+  {
+    "name": "Fade Content",
+    "slug": "fade-content",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/fade-content"
+  },
+  {
+    "name": "Electric Border",
+    "slug": "electric-border",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/electric-border"
+  },
+  {
+    "name": "Orbit Images",
+    "slug": "orbit-images",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/orbit-images"
+  },
+  {
+    "name": "Pixel Transition",
+    "slug": "pixel-transition",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/pixel-transition"
+  },
+  {
+    "name": "Glare Hover",
+    "slug": "glare-hover",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/glare-hover"
+  },
+  {
+    "name": "Antigravity",
+    "slug": "antigravity",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/antigravity"
+  },
+  {
+    "name": "Logo Loop",
+    "slug": "logo-loop",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/logo-loop"
+  },
+  {
+    "name": "Target Cursor",
+    "slug": "target-cursor",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/target-cursor"
+  },
+  {
+    "name": "Laser Flow",
+    "slug": "laser-flow",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/laser-flow"
+  },
+  {
+    "name": "Magnet Lines",
+    "slug": "magnet-lines",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/magnet-lines"
+  },
+  {
+    "name": "Ghost Cursor",
+    "slug": "ghost-cursor",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/ghost-cursor"
+  },
+  {
+    "name": "Gradual Blur",
+    "slug": "gradual-blur",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/gradual-blur"
+  },
+  {
+    "name": "Click Spark",
+    "slug": "click-spark",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/click-spark"
+  },
+  {
+    "name": "Magnet",
+    "slug": "magnet",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/magnet"
+  },
+  {
+    "name": "Sticker Peel",
+    "slug": "sticker-peel",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/sticker-peel"
+  },
+  {
+    "name": "Pixel Trail",
+    "slug": "pixel-trail",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/pixel-trail"
+  },
+  {
+    "name": "Cubes",
+    "slug": "cubes",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/cubes"
+  },
+  {
+    "name": "Metallic Paint",
+    "slug": "metallic-paint",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/metallic-paint"
+  },
+  {
+    "name": "Noise",
+    "slug": "noise",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/noise"
+  },
+  {
+    "name": "Shape Blur",
+    "slug": "shape-blur",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/shape-blur"
+  },
+  {
+    "name": "Crosshair",
+    "slug": "crosshair",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/crosshair"
+  },
+  {
+    "name": "Image Trail",
+    "slug": "image-trail",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/image-trail"
+  },
+  {
+    "name": "Ribbons",
+    "slug": "ribbons",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/ribbons"
+  },
+  {
+    "name": "Splash Cursor",
+    "slug": "splash-cursor",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/splash-cursor"
+  },
+  {
+    "name": "Meta Balls",
+    "slug": "meta-balls",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/meta-balls"
+  },
+  {
+    "name": "Blob Cursor",
+    "slug": "blob-cursor",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/blob-cursor"
+  },
+  {
+    "name": "Star Border",
+    "slug": "star-border",
+    "category": "animations",
+    "url": "https://reactbits.dev/animations/star-border"
+  },
+  {
+    "name": "Animated List",
+    "slug": "animated-list",
+    "category": "components",
+    "url": "https://reactbits.dev/components/animated-list"
+  },
+  {
+    "name": "Scroll Stack",
+    "slug": "scroll-stack",
+    "category": "components",
+    "url": "https://reactbits.dev/components/scroll-stack"
+  },
+  {
+    "name": "Bubble Menu",
+    "slug": "bubble-menu",
+    "category": "components",
+    "url": "https://reactbits.dev/components/bubble-menu"
+  },
+  {
+    "name": "Magic Bento",
+    "slug": "magic-bento",
+    "category": "components",
+    "url": "https://reactbits.dev/components/magic-bento"
+  },
+  {
+    "name": "Circular Gallery",
+    "slug": "circular-gallery",
+    "category": "components",
+    "url": "https://reactbits.dev/components/circular-gallery"
+  },
+  {
+    "name": "Reflective Card",
+    "slug": "reflective-card",
+    "category": "components",
+    "url": "https://reactbits.dev/components/reflective-card"
+  },
+  {
+    "name": "Card Nav",
+    "slug": "card-nav",
+    "category": "components",
+    "url": "https://reactbits.dev/components/card-nav"
+  },
+  {
+    "name": "Stack",
+    "slug": "stack",
+    "category": "components",
+    "url": "https://reactbits.dev/components/stack"
+  },
+  {
+    "name": "Fluid Glass",
+    "slug": "fluid-glass",
+    "category": "components",
+    "url": "https://reactbits.dev/components/fluid-glass"
+  },
+  {
+    "name": "Pill Nav",
+    "slug": "pill-nav",
+    "category": "components",
+    "url": "https://reactbits.dev/components/pill-nav"
+  },
+  {
+    "name": "Tilted Card",
+    "slug": "tilted-card",
+    "category": "components",
+    "url": "https://reactbits.dev/components/tilted-card"
+  },
+  {
+    "name": "Masonry",
+    "slug": "masonry",
+    "category": "components",
+    "url": "https://reactbits.dev/components/masonry"
+  },
+  {
+    "name": "Glass Surface",
+    "slug": "glass-surface",
+    "category": "components",
+    "url": "https://reactbits.dev/components/glass-surface"
+  },
+  {
+    "name": "Dome Gallery",
+    "slug": "dome-gallery",
+    "category": "components",
+    "url": "https://reactbits.dev/components/dome-gallery"
+  },
+  {
+    "name": "Chroma Grid",
+    "slug": "chroma-grid",
+    "category": "components",
+    "url": "https://reactbits.dev/components/chroma-grid"
+  },
+  {
+    "name": "Folder",
+    "slug": "folder",
+    "category": "components",
+    "url": "https://reactbits.dev/components/folder"
+  },
+  {
+    "name": "Staggered Menu",
+    "slug": "staggered-menu",
+    "category": "components",
+    "url": "https://reactbits.dev/components/staggered-menu"
+  },
+  {
+    "name": "Model Viewer",
+    "slug": "model-viewer",
+    "category": "components",
+    "url": "https://reactbits.dev/components/model-viewer"
+  },
+  {
+    "name": "Lanyard",
+    "slug": "lanyard",
+    "category": "components",
+    "url": "https://reactbits.dev/components/lanyard"
+  },
+  {
+    "name": "Profile Card",
+    "slug": "profile-card",
+    "category": "components",
+    "url": "https://reactbits.dev/components/profile-card"
+  },
+  {
+    "name": "Dock",
+    "slug": "dock",
+    "category": "components",
+    "url": "https://reactbits.dev/components/dock"
+  },
+  {
+    "name": "Gooey Nav",
+    "slug": "gooey-nav",
+    "category": "components",
+    "url": "https://reactbits.dev/components/gooey-nav"
+  },
+  {
+    "name": "Pixel Card",
+    "slug": "pixel-card",
+    "category": "components",
+    "url": "https://reactbits.dev/components/pixel-card"
+  },
+  {
+    "name": "Carousel",
+    "slug": "carousel",
+    "category": "components",
+    "url": "https://reactbits.dev/components/carousel"
+  },
+  {
+    "name": "Spotlight Card",
+    "slug": "spotlight-card",
+    "category": "components",
+    "url": "https://reactbits.dev/components/spotlight-card"
+  },
+  {
+    "name": "Flying Posters",
+    "slug": "flying-posters",
+    "category": "components",
+    "url": "https://reactbits.dev/components/flying-posters"
+  },
+  {
+    "name": "Card Swap",
+    "slug": "card-swap",
+    "category": "components",
+    "url": "https://reactbits.dev/components/card-swap"
+  },
+  {
+    "name": "Glass Icons",
+    "slug": "glass-icons",
+    "category": "components",
+    "url": "https://reactbits.dev/components/glass-icons"
+  },
+  {
+    "name": "Decay Card",
+    "slug": "decay-card",
+    "category": "components",
+    "url": "https://reactbits.dev/components/decay-card"
+  },
+  {
+    "name": "Flowing Menu",
+    "slug": "flowing-menu",
+    "category": "components",
+    "url": "https://reactbits.dev/components/flowing-menu"
+  },
+  {
+    "name": "Elastic Slider",
+    "slug": "elastic-slider",
+    "category": "components",
+    "url": "https://reactbits.dev/components/elastic-slider"
+  },
+  {
+    "name": "Counter",
+    "slug": "counter",
+    "category": "components",
+    "url": "https://reactbits.dev/components/counter"
+  },
+  {
+    "name": "Infinite Menu",
+    "slug": "infinite-menu",
+    "category": "components",
+    "url": "https://reactbits.dev/components/infinite-menu"
+  },
+  {
+    "name": "Stepper",
+    "slug": "stepper",
+    "category": "components",
+    "url": "https://reactbits.dev/components/stepper"
+  },
+  {
+    "name": "Bounce Cards",
+    "slug": "bounce-cards",
+    "category": "components",
+    "url": "https://reactbits.dev/components/bounce-cards"
+  },
+  {
+    "name": "Liquid Ether",
+    "slug": "liquid-ether",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/liquid-ether"
+  },
+  {
+    "name": "Prism",
+    "slug": "prism",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/prism"
+  },
+  {
+    "name": "Dark Veil",
+    "slug": "dark-veil",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/dark-veil"
+  },
+  {
+    "name": "Light Pillar",
+    "slug": "light-pillar",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/light-pillar"
+  },
+  {
+    "name": "Silk",
+    "slug": "silk",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/silk"
+  },
+  {
+    "name": "Floating Lines",
+    "slug": "floating-lines",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/floating-lines"
+  },
+  {
+    "name": "Light Rays",
+    "slug": "light-rays",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/light-rays"
+  },
+  {
+    "name": "Pixel Blast",
+    "slug": "pixel-blast",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/pixel-blast"
+  },
+  {
+    "name": "Color Bends",
+    "slug": "color-bends",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/color-bends"
+  },
+  {
+    "name": "Aurora",
+    "slug": "aurora",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/aurora"
+  },
+  {
+    "name": "Plasma",
+    "slug": "plasma",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/plasma"
+  },
+  {
+    "name": "Particles",
+    "slug": "particles",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/particles"
+  },
+  {
+    "name": "Gradient Blinds",
+    "slug": "gradient-blinds",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/gradient-blinds"
+  },
+  {
+    "name": "Grainient",
+    "slug": "grainient",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/grainient"
+  },
+  {
+    "name": "Grid Scan",
+    "slug": "grid-scan",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/grid-scan"
+  },
+  {
+    "name": "Beams",
+    "slug": "beams",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/beams"
+  },
+  {
+    "name": "Pixel Snow",
+    "slug": "pixel-snow",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/pixel-snow"
+  },
+  {
+    "name": "Lightning",
+    "slug": "lightning",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/lightning"
+  },
+  {
+    "name": "Prismatic Burst",
+    "slug": "prismatic-burst",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/prismatic-burst"
+  },
+  {
+    "name": "Galaxy",
+    "slug": "galaxy",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/galaxy"
+  },
+  {
+    "name": "Dither",
+    "slug": "dither",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/dither"
+  },
+  {
+    "name": "Faulty Terminal",
+    "slug": "faulty-terminal",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/faulty-terminal"
+  },
+  {
+    "name": "Ripple Grid",
+    "slug": "ripple-grid",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/ripple-grid"
+  },
+  {
+    "name": "Dot Grid",
+    "slug": "dot-grid",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/dot-grid"
+  },
+  {
+    "name": "Threads",
+    "slug": "threads",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/threads"
+  },
+  {
+    "name": "Hyperspeed",
+    "slug": "hyperspeed",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/hyperspeed"
+  },
+  {
+    "name": "Iridescence",
+    "slug": "iridescence",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/iridescence"
+  },
+  {
+    "name": "Waves",
+    "slug": "waves",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/waves"
+  },
+  {
+    "name": "Grid Distortion",
+    "slug": "grid-distortion",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/grid-distortion"
+  },
+  {
+    "name": "Ballpit",
+    "slug": "ballpit",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/ballpit"
+  },
+  {
+    "name": "Orb",
+    "slug": "orb",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/orb"
+  },
+  {
+    "name": "Letter Glitch",
+    "slug": "letter-glitch",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/letter-glitch"
+  },
+  {
+    "name": "Grid Motion",
+    "slug": "grid-motion",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/grid-motion"
+  },
+  {
+    "name": "Squares",
+    "slug": "squares",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/squares"
+  },
+  {
+    "name": "Liquid Chrome",
+    "slug": "liquid-chrome",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/liquid-chrome"
+  },
+  {
+    "name": "Balatro",
+    "slug": "balatro",
+    "category": "backgrounds",
+    "url": "https://reactbits.dev/backgrounds/balatro"
+  }
+]

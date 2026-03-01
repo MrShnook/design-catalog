@@ -1,0 +1,85 @@
+{
+  "name": "Shiny Text",
+  "slug": "shiny-text",
+  "url": "https://reactbits.dev/text-animations/shiny-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "default": "-",
+      "description": "The text to be displayed with the shiny effect."
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "\"#b5b5b5\"",
+      "description": "The base color of the text."
+    },
+    {
+      "name": "shineColor",
+      "type": "string",
+      "default": "\"#ffffff\"",
+      "description": "The color of the shine/highlight effect."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "2",
+      "description": "Duration of one animation cycle in seconds."
+    },
+    {
+      "name": "delay",
+      "type": "number",
+      "default": "0",
+      "description": "Pause duration (in seconds) between animation cycles."
+    },
+    {
+      "name": "spread",
+      "type": "number",
+      "default": "120",
+      "description": "The angle (in degrees) of the gradient spread."
+    },
+    {
+      "name": "yoyo",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, the animation reverses direction instead of looping."
+    },
+    {
+      "name": "pauseOnHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "Pauses the animation when the user hovers over the text."
+    },
+    {
+      "name": "direction",
+      "type": "'left' \\",
+      "default": "'right'",
+      "description": "\"left\""
+    },
+    {
+      "name": "disabled",
+      "type": "boolean",
+      "default": "false",
+      "description": "Disables the shiny effect when set to true."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Adds custom classes to the root element."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

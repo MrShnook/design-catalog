@@ -1,0 +1,64 @@
+{
+  "name": "Scrambled Text",
+  "slug": "scrambled-text",
+  "url": "https://reactbits.dev/text-animations/scrambled-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "radius",
+      "type": "number",
+      "default": "100",
+      "description": "The radius around the mouse pointer within which characters will scramble."
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "default": "1.2",
+      "description": "The duration of the scramble effect on a character."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "0.5",
+      "description": "The speed of the scramble animation."
+    },
+    {
+      "name": "scrambleChars",
+      "type": "string",
+      "default": "'.:'",
+      "description": "The characters used for scrambling."
+    },
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "default": "\u2014",
+      "description": "The text content to be scrambled."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional CSS classes for the component."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Inline styles for the component."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

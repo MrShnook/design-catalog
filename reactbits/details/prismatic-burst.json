@@ -1,0 +1,82 @@
+{
+  "name": "Prismatic Burst",
+  "slug": "prismatic-burst",
+  "url": "https://reactbits.dev/backgrounds/prismatic-burst",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "intensity",
+      "type": "number",
+      "default": "2",
+      "description": "Overall brightness multiplier applied after accumulation."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "0.5",
+      "description": "Global time multiplier controlling ray motion & distortion."
+    },
+    {
+      "name": "animationType",
+      "type": "\"rotate\" \\",
+      "default": "\"rotate3d\" \\",
+      "description": "\"hover\""
+    },
+    {
+      "name": "colors",
+      "type": "string\\[\\]",
+      "default": "\\[\\]",
+      "description": "Optional array of hex colors used as a gradient (otherwise spectral)"
+    },
+    {
+      "name": "distort",
+      "type": "number",
+      "default": "0",
+      "description": "Amount of bend/distortion applied to marching space (adds organic wobble)"
+    },
+    {
+      "name": "paused",
+      "type": "boolean",
+      "default": "false",
+      "description": "Freeze time progression when true (animation stops)"
+    },
+    {
+      "name": "offset",
+      "type": "{ x?: number\\",
+      "default": "string; y?: number\\",
+      "description": "string }"
+    },
+    {
+      "name": "hoverDampness",
+      "type": "number",
+      "default": "0",
+      "description": "Smoothing factor (0-1) for pointer tracking when animationType='hover'"
+    },
+    {
+      "name": "rayCount",
+      "type": "number",
+      "default": "undefined",
+      "description": "If > 0 applies an angular comb filter to produce discrete ray spokes"
+    },
+    {
+      "name": "mixBlendMode",
+      "type": "CSSProperties\\['mixBlendMode'\\] \\",
+      "default": "'none'",
+      "description": "\"lighten\""
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

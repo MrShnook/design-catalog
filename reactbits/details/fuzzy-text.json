@@ -1,0 +1,133 @@
+{
+  "name": "Fuzzy Text",
+  "slug": "fuzzy-text",
+  "url": "https://reactbits.dev/text-animations/fuzzy-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "default": "\u2014",
+      "description": "The text content to display inside the fuzzy text component."
+    },
+    {
+      "name": "fontSize",
+      "type": "number \\",
+      "default": "string",
+      "description": "\"clamp(2rem, 8vw, 8rem)\""
+    },
+    {
+      "name": "fontWeight",
+      "type": "string \\",
+      "default": "number",
+      "description": "900"
+    },
+    {
+      "name": "fontFamily",
+      "type": "string",
+      "default": "\"inherit\"",
+      "description": "Specifies the font family of the text. 'inherit' uses the computed style from the parent."
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "#fff",
+      "description": "Specifies the text color."
+    },
+    {
+      "name": "enableHover",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enables the hover effect for the fuzzy text."
+    },
+    {
+      "name": "baseIntensity",
+      "type": "number",
+      "default": "0.18",
+      "description": "The fuzz intensity when the text is not hovered."
+    },
+    {
+      "name": "hoverIntensity",
+      "type": "number",
+      "default": "0.5",
+      "description": "The fuzz intensity when the text is hovered."
+    },
+    {
+      "name": "fuzzRange",
+      "type": "number",
+      "default": "30",
+      "description": "Maximum pixel displacement for the fuzzy effect."
+    },
+    {
+      "name": "fps",
+      "type": "number",
+      "default": "60",
+      "description": "Frame rate cap for the animation. Lower values reduce CPU usage."
+    },
+    {
+      "name": "direction",
+      "type": "'horizontal' \\",
+      "default": "'vertical' \\",
+      "description": "'both'"
+    },
+    {
+      "name": "transitionDuration",
+      "type": "number",
+      "default": "0",
+      "description": "Number of frames to ease between intensity states for smooth transitions."
+    },
+    {
+      "name": "clickEffect",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enables a momentary burst of maximum intensity on click."
+    },
+    {
+      "name": "glitchMode",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enables periodic random intensity spikes for a glitch effect."
+    },
+    {
+      "name": "glitchInterval",
+      "type": "number",
+      "default": "2000",
+      "description": "Milliseconds between glitch bursts when glitchMode is enabled."
+    },
+    {
+      "name": "glitchDuration",
+      "type": "number",
+      "default": "200",
+      "description": "Milliseconds duration of each glitch burst."
+    },
+    {
+      "name": "gradient",
+      "type": "string\\[\\] \\",
+      "default": "null",
+      "description": "null"
+    },
+    {
+      "name": "letterSpacing",
+      "type": "number",
+      "default": "0",
+      "description": "Extra pixels between characters."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "CSS class for the canvas element."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Split Text",
+  "slug": "split-text",
+  "url": "https://reactbits.dev/text-animations/split-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap@gsap/react"
+  ],
+  "props": [
+    {
+      "name": "tag",
+      "type": "string",
+      "default": "\"p\"",
+      "description": "HTML tag to render: \"h1\", \"h2\", \"h3\", \"h4\", \"h5\", \"h6\", \"p\","
+    },
+    {
+      "name": "text",
+      "type": "string",
+      "default": "\"\"",
+      "description": "The text content to animate."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional class names to style the component."
+    },
+    {
+      "name": "delay",
+      "type": "number",
+      "default": "50",
+      "description": "Delay between animations for each letter (in ms)."
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "default": "1.25",
+      "description": "Duration of each letter animation (in seconds)."
+    },
+    {
+      "name": "ease",
+      "type": "string",
+      "default": "\"power3.out\"",
+      "description": "GSAP easing function for the animation."
+    },
+    {
+      "name": "splitType",
+      "type": "string",
+      "default": "\"chars\"",
+      "description": "Split type: \"chars\", \"words\", \"lines\", or \"words, chars\"."
+    },
+    {
+      "name": "from",
+      "type": "object",
+      "default": "{ opacity: 0, y: 40 }",
+      "description": "Initial GSAP properties for each letter/word."
+    },
+    {
+      "name": "to",
+      "type": "object",
+      "default": "{ opacity: 1, y: 0 }",
+      "description": "Target GSAP properties for each letter/word."
+    },
+    {
+      "name": "threshold",
+      "type": "number",
+      "default": "0.1",
+      "description": "Intersection threshold to trigger the animation (0-1)."
+    },
+    {
+      "name": "rootMargin",
+      "type": "string",
+      "default": "\"-100px\"",
+      "description": "Root margin for the ScrollTrigger."
+    },
+    {
+      "name": "textAlign",
+      "type": "string",
+      "default": "\"center\"",
+      "description": "Text alignment: 'left', 'center', 'right', etc."
+    },
+    {
+      "name": "onLetterAnimationComplete",
+      "type": "function",
+      "default": "undefined",
+      "description": "Callback function when all animations complete."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

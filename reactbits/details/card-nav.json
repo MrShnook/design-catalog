@@ -1,0 +1,76 @@
+{
+  "name": "Card Nav",
+  "slug": "card-nav",
+  "url": "https://reactbits.dev/components/card-nav",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "logo",
+      "type": "string",
+      "default": "-",
+      "description": "URL for the logo image"
+    },
+    {
+      "name": "logoAlt",
+      "type": "string",
+      "default": "Logo",
+      "description": "Alt text for the logo image"
+    },
+    {
+      "name": "items",
+      "type": "CardNavItem\\[\\]",
+      "default": "-",
+      "description": "Array of navigation items with label, bgColor, textColor, and links"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS classes for the navigation container"
+    },
+    {
+      "name": "ease",
+      "type": "string",
+      "default": "power3.out",
+      "description": "GSAP easing function for animations"
+    },
+    {
+      "name": "baseColor",
+      "type": "string",
+      "default": "#fff",
+      "description": "Background color for the navigation container"
+    },
+    {
+      "name": "menuColor",
+      "type": "string",
+      "default": "undefined",
+      "description": "Color for the hamburger menu lines"
+    },
+    {
+      "name": "buttonBgColor",
+      "type": "string",
+      "default": "#111",
+      "description": "Background color for the CTA button"
+    },
+    {
+      "name": "buttonTextColor",
+      "type": "string",
+      "default": "white",
+      "description": "Text color for the CTA button"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

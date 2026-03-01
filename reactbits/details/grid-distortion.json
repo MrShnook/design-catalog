@@ -1,0 +1,58 @@
+{
+  "name": "Grid Distortion",
+  "slug": "grid-distortion",
+  "url": "https://reactbits.dev/backgrounds/grid-distortion",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "imgageSrc",
+      "type": "string",
+      "default": "\u2014",
+      "description": "The image you want to render inside the container."
+    },
+    {
+      "name": "grid",
+      "type": "number",
+      "default": "15",
+      "description": "The number of cells present in the distortion grid"
+    },
+    {
+      "name": "mouse",
+      "type": "number",
+      "default": "0.1",
+      "description": "The size of the distortion effect that follows the cursor."
+    },
+    {
+      "name": "relaxation",
+      "type": "number",
+      "default": "0.9",
+      "description": "The speed at which grid cells return to their initial state."
+    },
+    {
+      "name": "strength",
+      "type": "number",
+      "default": "0.15",
+      "description": "The overall strength of the distortion effect."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Any custom class(es) you want to apply to the container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Variable Proximity",
+  "slug": "variable-proximity",
+  "url": "https://reactbits.dev/text-animations/variable-proximity",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "label",
+      "type": "string",
+      "default": "\"\"",
+      "description": "The text content to display."
+    },
+    {
+      "name": "fromFontVariationSettings",
+      "type": "string",
+      "default": "'wght' 400, 'opsz' 9",
+      "description": "The starting variation settings."
+    },
+    {
+      "name": "toFontVariationSettings",
+      "type": "string",
+      "default": "'wght' 800, 'opsz' 40",
+      "description": "The variation settings to reach at cursor proximity."
+    },
+    {
+      "name": "containerRef",
+      "type": "RefObject<HTMLDivElement>",
+      "default": "undefined",
+      "description": "Reference to container for relative calculations."
+    },
+    {
+      "name": "radius",
+      "type": "number",
+      "default": "50",
+      "description": "Proximity radius to influence the effect."
+    },
+    {
+      "name": "falloff",
+      "type": "'linear' \\",
+      "default": "'exponential' \\",
+      "description": "'gaussian'"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

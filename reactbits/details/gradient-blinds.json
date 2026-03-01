@@ -1,0 +1,118 @@
+{
+  "name": "Gradient Blinds",
+  "slug": "gradient-blinds",
+  "url": "https://reactbits.dev/backgrounds/gradient-blinds",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "gradientColors",
+      "type": "string\\[\\]",
+      "default": "\\['#FF9FFC', '#5227FF'\\]",
+      "description": "Array of hex colors (up to 8) forming the animated gradient. If one color is provided it is duplicated."
+    },
+    {
+      "name": "angle",
+      "type": "number",
+      "default": "0",
+      "description": "Rotation of the gradient in degrees (0 = horizontal left\u2192right)."
+    },
+    {
+      "name": "noise",
+      "type": "number",
+      "default": "0.3",
+      "description": "Strength of per\u2011pixel noise added to the final color (0 = clean)."
+    },
+    {
+      "name": "blindCount",
+      "type": "number",
+      "default": "16",
+      "description": "Target number of vertical blinds. Acts as an upper bound when blindMinWidth is set."
+    },
+    {
+      "name": "blindMinWidth",
+      "type": "number",
+      "default": "60",
+      "description": "Minimum pixel width for each blind. Reduces effective blindCount if necessary to satisfy this width."
+    },
+    {
+      "name": "mouseDampening",
+      "type": "number",
+      "default": "0.15",
+      "description": "Easing time constant (seconds) for the spotlight to follow the cursor. 0 = immediate."
+    },
+    {
+      "name": "mirrorGradient",
+      "type": "boolean",
+      "default": "false",
+      "description": "Creates a mirrored ping\u2011pong gradient progression instead of a linear wrap."
+    },
+    {
+      "name": "spotlightRadius",
+      "type": "number",
+      "default": "0.5",
+      "description": "Normalized spotlight radius relative to the shorter canvas dimension."
+    },
+    {
+      "name": "spotlightSoftness",
+      "type": "number",
+      "default": "1",
+      "description": "Falloff exponent for spotlight edge. Higher = sharper edge (values >1 increase contrast)."
+    },
+    {
+      "name": "spotlightOpacity",
+      "type": "number",
+      "default": "1",
+      "description": "Overall intensity multiplier for the spotlight highlight."
+    },
+    {
+      "name": "distortAmount",
+      "type": "number",
+      "default": "0",
+      "description": "Sin/cos warp intensity applied to UVs for subtle wavy distortion."
+    },
+    {
+      "name": "shineDirection",
+      "type": "'left' \\",
+      "default": "'right'",
+      "description": "left"
+    },
+    {
+      "name": "mixBlendMode",
+      "type": "string",
+      "default": "'lighten'",
+      "description": "CSS mix-blend-mode applied to the canvas (e.g. 'screen', 'overlay', 'multiply')."
+    },
+    {
+      "name": "paused",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, stops rendering updates (freezing the current frame)."
+    },
+    {
+      "name": "dpr",
+      "type": "number",
+      "default": "window.devicePixelRatio",
+      "description": "Overrides device pixel ratio; lower for performance, higher for sharpness."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Additional class names for the root container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

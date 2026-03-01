@@ -1,0 +1,130 @@
+{
+  "name": "Pixel Blast",
+  "slug": "pixel-blast",
+  "url": "https://reactbits.dev/backgrounds/pixel-blast",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "click",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "threepostprocessing"
+  ],
+  "props": [
+    {
+      "name": "variant",
+      "type": "'square'\\",
+      "default": "'circle'\\",
+      "description": "'triangle'\\"
+    },
+    {
+      "name": "pixelSize",
+      "type": "number",
+      "default": "4",
+      "description": "Base pixel size (auto scaled for DPI)."
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "'#B19EEF'",
+      "description": "Pixel color."
+    },
+    {
+      "name": "patternScale",
+      "type": "number",
+      "default": "2",
+      "description": "Noise/pattern scale."
+    },
+    {
+      "name": "patternDensity",
+      "type": "number",
+      "default": "1",
+      "description": "Pattern density adjustment."
+    },
+    {
+      "name": "pixelSizeJitter",
+      "type": "number",
+      "default": "0",
+      "description": "Random jitter applied to coverage."
+    },
+    {
+      "name": "enableRipples",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable click ripple waves."
+    },
+    {
+      "name": "rippleSpeed",
+      "type": "number",
+      "default": "0.3",
+      "description": "Ripple propagation speed."
+    },
+    {
+      "name": "rippleThickness",
+      "type": "number",
+      "default": "0.1",
+      "description": "Ripple ring thickness."
+    },
+    {
+      "name": "rippleIntensityScale",
+      "type": "number",
+      "default": "1",
+      "description": "Ripple intensity multiplier."
+    },
+    {
+      "name": "liquid",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable liquid distortion effect."
+    },
+    {
+      "name": "liquidStrength",
+      "type": "number",
+      "default": "0.1",
+      "description": "Liquid distortion strength."
+    },
+    {
+      "name": "liquidRadius",
+      "type": "number",
+      "default": "1",
+      "description": "Liquid touch brush radius scale."
+    },
+    {
+      "name": "liquidWobbleSpeed",
+      "type": "number",
+      "default": "4.5",
+      "description": "Liquid wobble frequency."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "0.5",
+      "description": "Animation time scale."
+    },
+    {
+      "name": "edgeFade",
+      "type": "number",
+      "default": "0.25",
+      "description": "Edge fade distance (0-1)."
+    },
+    {
+      "name": "noiseAmount",
+      "type": "number",
+      "default": "0",
+      "description": "Post noise amount."
+    },
+    {
+      "name": "transparent",
+      "type": "boolean",
+      "default": "true",
+      "description": "Transparent background."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

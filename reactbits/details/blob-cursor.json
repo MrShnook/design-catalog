@@ -1,0 +1,142 @@
+{
+  "name": "Blob Cursor",
+  "slug": "blob-cursor",
+  "url": "https://reactbits.dev/animations/blob-cursor",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "blobType",
+      "type": "'circle' \\",
+      "default": "'square'",
+      "description": "'circle'"
+    },
+    {
+      "name": "fillColor",
+      "type": "string",
+      "default": "'#5227FF'",
+      "description": "Background color of each blob."
+    },
+    {
+      "name": "trailCount",
+      "type": "number",
+      "default": "3",
+      "description": "How many trailing blobs."
+    },
+    {
+      "name": "sizes",
+      "type": "number\\[\\]",
+      "default": "\\[60, 125, 75\\]",
+      "description": "Sizes (px) of each blob. Length must be \u2265 trailCount."
+    },
+    {
+      "name": "innerSizes",
+      "type": "number\\[\\]",
+      "default": "\\[20, 35, 25\\]",
+      "description": "Sizes (px) of inner dots. Length must be \u2265 trailCount."
+    },
+    {
+      "name": "innerColor",
+      "type": "string",
+      "default": "'rgba(255,255,255,0.8)'",
+      "description": "Background color of the inner dot."
+    },
+    {
+      "name": "opacities",
+      "type": "number\\[\\]",
+      "default": "\\[0.6, 0.6, 0.6\\]",
+      "description": "Opacity of each blob. Length \u2265 trailCount."
+    },
+    {
+      "name": "shadowColor",
+      "type": "string",
+      "default": "'rgba(0,0,0,0.75)'",
+      "description": "Box-shadow color."
+    },
+    {
+      "name": "shadowBlur",
+      "type": "number",
+      "default": "5",
+      "description": "Box-shadow blur radius (px)."
+    },
+    {
+      "name": "shadowOffsetX",
+      "type": "number",
+      "default": "10",
+      "description": "Box-shadow X offset (px)."
+    },
+    {
+      "name": "shadowOffsetY",
+      "type": "number",
+      "default": "10",
+      "description": "Box-shadow Y offset (px)."
+    },
+    {
+      "name": "filterId",
+      "type": "string",
+      "default": "'blob'",
+      "description": "Optional custom filter ID (for multiple instances)."
+    },
+    {
+      "name": "filterStdDeviation",
+      "type": "number",
+      "default": "30",
+      "description": "feGaussianBlur stdDeviation for SVG filter."
+    },
+    {
+      "name": "filterColorMatrixValues",
+      "type": "string",
+      "default": "'1 0 0 ...'",
+      "description": "feColorMatrix values for SVG filter."
+    },
+    {
+      "name": "useFilter",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable the SVG filter."
+    },
+    {
+      "name": "fastDuration",
+      "type": "number",
+      "default": "0.1",
+      "description": "GSAP duration for the lead blob."
+    },
+    {
+      "name": "slowDuration",
+      "type": "number",
+      "default": "0.5",
+      "description": "GSAP duration for the following blobs."
+    },
+    {
+      "name": "fastEase",
+      "type": "string",
+      "default": "'power3.out'",
+      "description": "GSAP ease for the lead blob."
+    },
+    {
+      "name": "slowEase",
+      "type": "string",
+      "default": "'power1.out'",
+      "description": "GSAP ease for the following blobs."
+    },
+    {
+      "name": "zIndex",
+      "type": "number",
+      "default": "100",
+      "description": "CSS z-index of the whole component."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

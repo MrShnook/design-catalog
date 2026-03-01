@@ -1,0 +1,136 @@
+{
+  "name": "Liquid Ether",
+  "slug": "liquid-ether",
+  "url": "https://reactbits.dev/backgrounds/liquid-ether",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "colors",
+      "type": "string\\[\\]",
+      "default": "\\[\"#5227FF\", \"#FF9FFC\", \"#B19EEF\"\\]",
+      "description": "Array of hex color stops used to build the velocity-to-color palette."
+    },
+    {
+      "name": "mouseForce",
+      "type": "number",
+      "default": "20",
+      "description": "Strength multiplier applied to mouse / touch movement when injecting velocity."
+    },
+    {
+      "name": "cursorSize",
+      "type": "number",
+      "default": "100",
+      "description": "Radius (in pixels at base resolution) of the force brush."
+    },
+    {
+      "name": "resolution",
+      "type": "number",
+      "default": "0.5",
+      "description": "Simulation texture scale relative to canvas size (lower = better performance, more blur)."
+    },
+    {
+      "name": "dt",
+      "type": "number",
+      "default": "0.014",
+      "description": "Fixed simulation timestep used inside the advection / diffusion passes."
+    },
+    {
+      "name": "BFECC",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable BFECC advection (error-compensated) for crisper flow; disable for slight performance gain."
+    },
+    {
+      "name": "isViscous",
+      "type": "boolean",
+      "default": "false",
+      "description": "Toggle iterative viscosity solve (smoother, thicker motion when enabled)."
+    },
+    {
+      "name": "viscous",
+      "type": "number",
+      "default": "30",
+      "description": "Viscosity coefficient used when isViscous is true."
+    },
+    {
+      "name": "iterationsViscous",
+      "type": "number",
+      "default": "32",
+      "description": "Number of Gauss-Seidel iterations for viscosity (higher = smoother, slower)."
+    },
+    {
+      "name": "iterationsPoisson",
+      "type": "number",
+      "default": "32",
+      "description": "Number of pressure Poisson iterations to enforce incompressibility."
+    },
+    {
+      "name": "isBounce",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, shows bounce boundaries (velocity clamped at edges)."
+    },
+    {
+      "name": "autoDemo",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable idle auto-driving of the pointer when no user interaction."
+    },
+    {
+      "name": "autoSpeed",
+      "type": "number",
+      "default": "0.5",
+      "description": "Speed (normalized units/sec) for auto pointer motion."
+    },
+    {
+      "name": "autoIntensity",
+      "type": "number",
+      "default": "2.2",
+      "description": "Multiplier applied to velocity delta while in auto mode."
+    },
+    {
+      "name": "takeoverDuration",
+      "type": "number",
+      "default": "0.25",
+      "description": "Seconds to interpolate from auto pointer to real cursor when user moves mouse."
+    },
+    {
+      "name": "autoResumeDelay",
+      "type": "number",
+      "default": "1000",
+      "description": "Milliseconds of inactivity before auto mode resumes."
+    },
+    {
+      "name": "autoRampDuration",
+      "type": "number",
+      "default": "0.6",
+      "description": "Seconds to ramp auto movement speed from 0 to full after activation."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Optional class for the root container."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Inline styles applied to the root container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

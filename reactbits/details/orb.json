@@ -1,0 +1,52 @@
+{
+  "name": "Orb",
+  "slug": "orb",
+  "url": "https://reactbits.dev/backgrounds/orb",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "hue",
+      "type": "number",
+      "default": "0",
+      "description": "The base hue for the orb (in degrees)."
+    },
+    {
+      "name": "hoverIntensity",
+      "type": "number",
+      "default": "0.2",
+      "description": "Controls the intensity of the hover distortion effect."
+    },
+    {
+      "name": "rotateOnHover",
+      "type": "boolean",
+      "default": "true",
+      "description": "Toggle to enable or disable continuous rotation on hover."
+    },
+    {
+      "name": "forceHoverState",
+      "type": "boolean",
+      "default": "false",
+      "description": "Force hover animations even when the orb is not actually hovered."
+    },
+    {
+      "name": "backgroundColor",
+      "type": "string",
+      "default": "#000000",
+      "description": "The background color of the container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

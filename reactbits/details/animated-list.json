@@ -1,0 +1,70 @@
+{
+  "name": "Animated List",
+  "slug": "animated-list",
+  "url": "https://reactbits.dev/components/animated-list",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "items",
+      "type": "string\\[\\]",
+      "default": "\\['Item 1', 'Item 2', ...\\]",
+      "description": "An array of items to display in the scrollable list."
+    },
+    {
+      "name": "onItemSelect",
+      "type": "function",
+      "default": "undefined",
+      "description": "Callback function triggered when an item is selected. Receives the selected item and its index."
+    },
+    {
+      "name": "showGradients",
+      "type": "boolean",
+      "default": "true",
+      "description": "Toggle to display the top and bottom gradient overlays."
+    },
+    {
+      "name": "enableArrowNavigation",
+      "type": "boolean",
+      "default": "true",
+      "description": "Toggle to enable keyboard navigation via arrow and tab keys."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS class names for the main container."
+    },
+    {
+      "name": "itemClassName",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS class names for each list item."
+    },
+    {
+      "name": "displayScrollbar",
+      "type": "boolean",
+      "default": "true",
+      "description": "Toggle to display or hide the custom scrollbar."
+    },
+    {
+      "name": "initialSelectedIndex",
+      "type": "number",
+      "default": "-1",
+      "description": "Initial index of the selected item. Set to -1 for no selection."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

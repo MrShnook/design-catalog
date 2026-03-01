@@ -1,0 +1,113 @@
+{
+  "name": "Antigravity",
+  "slug": "antigravity",
+  "url": "https://reactbits.dev/animations/antigravity",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js",
+    "React Three Fiber"
+  ],
+  "dependencies": [
+    "@react-three/fiberthree"
+  ],
+  "props": [
+    {
+      "name": "count",
+      "type": "number",
+      "default": "300",
+      "description": "Number of particles"
+    },
+    {
+      "name": "magnetRadius",
+      "type": "number",
+      "default": "10",
+      "description": "Radius of the magnetic field"
+    },
+    {
+      "name": "ringRadius",
+      "type": "number",
+      "default": "10",
+      "description": "Radius of the formed ring"
+    },
+    {
+      "name": "waveSpeed",
+      "type": "number",
+      "default": "0.4",
+      "description": "Speed of the wave animation"
+    },
+    {
+      "name": "waveAmplitude",
+      "type": "number",
+      "default": "1",
+      "description": "Intensity of the wave (0 for perfect circle)"
+    },
+    {
+      "name": "particleSize",
+      "type": "number",
+      "default": "2",
+      "description": "Scale multiplier for particles"
+    },
+    {
+      "name": "lerpSpeed",
+      "type": "number",
+      "default": "0.1",
+      "description": "How fast particles move to the ring"
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "#FF9FFC",
+      "description": "Color of the particles"
+    },
+    {
+      "name": "autoAnimate",
+      "type": "boolean",
+      "default": "false",
+      "description": "Automatically animate when idle"
+    },
+    {
+      "name": "particleVariance",
+      "type": "number",
+      "default": "1",
+      "description": "Variance in particle size (0-1)"
+    },
+    {
+      "name": "rotationSpeed",
+      "type": "number",
+      "default": "0",
+      "description": "Rotation speed of the ring"
+    },
+    {
+      "name": "depthFactor",
+      "type": "number",
+      "default": "1",
+      "description": "Z-axis depth multiplier"
+    },
+    {
+      "name": "pulseSpeed",
+      "type": "number",
+      "default": "3",
+      "description": "Speed of particle size pulsation"
+    },
+    {
+      "name": "particleShape",
+      "type": "string",
+      "default": "capsule",
+      "description": "Shape of the particles"
+    },
+    {
+      "name": "fieldStrength",
+      "type": "number",
+      "default": "10",
+      "description": "Tightness of the ring formation"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

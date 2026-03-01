@@ -1,0 +1,46 @@
+{
+  "name": "Aurora",
+  "slug": "aurora",
+  "url": "https://reactbits.dev/backgrounds/aurora",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "colorStops",
+      "type": "\\[string, string, string\\]",
+      "default": "\\[\"#3A29FF\", \"#FF94B4\", \"#FF3232\"\\]",
+      "description": "An array of three hex colors defining the aurora gradient."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "1.0",
+      "description": "Controls the animation speed. Higher values make the aurora move faster."
+    },
+    {
+      "name": "blend",
+      "type": "number",
+      "default": "0.5",
+      "description": "Controls the blending of the aurora effect with the background."
+    },
+    {
+      "name": "amplitude",
+      "type": "number",
+      "default": "1.0",
+      "description": "Controls the height intensity of the aurora effect."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

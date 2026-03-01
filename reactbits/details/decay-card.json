@@ -1,0 +1,46 @@
+{
+  "name": "Decay Card",
+  "slug": "decay-card",
+  "url": "https://reactbits.dev/components/decay-card",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "\u2014",
+      "description": "The content (JSX) to be rendered inside the card."
+    },
+    {
+      "name": "width",
+      "type": "number",
+      "default": "200",
+      "description": "The width of the card in pixels."
+    },
+    {
+      "name": "height",
+      "type": "number",
+      "default": "300",
+      "description": "The height of the card in pixels."
+    },
+    {
+      "name": "image",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Allows setting the background image of the card."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

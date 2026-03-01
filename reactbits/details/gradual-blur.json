@@ -1,0 +1,135 @@
+{
+  "name": "Gradual Blur",
+  "slug": "gradual-blur",
+  "url": "https://reactbits.dev/animations/gradual-blur",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [
+    "mathjs"
+  ],
+  "props": [
+    {
+      "name": "position",
+      "type": "\"top\" \\",
+      "default": "\"bottom\" \\",
+      "description": "\"left\" \\"
+    },
+    {
+      "name": "strength",
+      "type": "number",
+      "default": "2",
+      "description": "Base blur strength multiplier (affects each layer)."
+    },
+    {
+      "name": "height",
+      "type": "string",
+      "default": "\"6rem\"",
+      "description": "Overlay height (for top / bottom positions)."
+    },
+    {
+      "name": "width",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Custom width (optional). Defaults to 100% for vertical positions or matches height for horizontal positions."
+    },
+    {
+      "name": "divCount",
+      "type": "number",
+      "default": "5",
+      "description": "Number of stacked blur layers (higher = smoother gradient)."
+    },
+    {
+      "name": "exponential",
+      "type": "boolean",
+      "default": "false",
+      "description": "Use exponential progression for stronger end blur."
+    },
+    {
+      "name": "curve",
+      "type": "\"linear\" \\",
+      "default": "\"bezier\" \\",
+      "description": "\"ease-in\""
+    },
+    {
+      "name": "opacity",
+      "type": "number",
+      "default": "1",
+      "description": "Opacity applied to each blur layer."
+    },
+    {
+      "name": "animated",
+      "type": "\"boolean\" \\",
+      "default": "\"scroll\"",
+      "description": "false"
+    },
+    {
+      "name": "duration",
+      "type": "string",
+      "default": "\"0.3s\"",
+      "description": "Animation duration (when animated)."
+    },
+    {
+      "name": "easing",
+      "type": "string",
+      "default": "\"ease-out\"",
+      "description": "Animation easing (opacity / backdrop-filter)."
+    },
+    {
+      "name": "hoverIntensity",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Multiplier applied to strength while hovered."
+    },
+    {
+      "name": "target",
+      "type": "\"parent\" \\",
+      "default": "\"page\"",
+      "description": "\"parent\""
+    },
+    {
+      "name": "preset",
+      "type": "\"top\" \\",
+      "default": "\"bottom\" \\",
+      "description": "\"left\" \\"
+    },
+    {
+      "name": "responsive",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable internal responsive recalculation (experimental)."
+    },
+    {
+      "name": "zIndex",
+      "type": "number",
+      "default": "1000",
+      "description": "Base z-index (page target adds +100)."
+    },
+    {
+      "name": "onAnimationComplete",
+      "type": "() =\\> void",
+      "default": "\u2014",
+      "description": "Callback fired after animated reveal completes."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Additional class names appended to root element."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "\u2014",
+      "description": "Inline style overrides merged into container style."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Scroll Float",
+  "slug": "scroll-float",
+  "url": "https://reactbits.dev/text-animations/scroll-float",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "\u2014",
+      "description": "The content to animate. If a string, it will be split into individual characters."
+    },
+    {
+      "name": "scrollContainerRef",
+      "type": "RefObject<HTMLElement>",
+      "default": "window",
+      "description": "Optional ref to the scroll container. Defaults to window if not provided."
+    },
+    {
+      "name": "containerClassName",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional Tailwind classes for the container element."
+    },
+    {
+      "name": "textClassName",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional Tailwind classes for the text element."
+    },
+    {
+      "name": "animationDuration",
+      "type": "number",
+      "default": "1",
+      "description": "Duration (in seconds) of the animation."
+    },
+    {
+      "name": "ease",
+      "type": "string",
+      "default": "\"back.inOut(2)\"",
+      "description": "Easing function used for the animation."
+    },
+    {
+      "name": "scrollStart",
+      "type": "string",
+      "default": "\"center bottom+=50%\"",
+      "description": "The scroll trigger start position."
+    },
+    {
+      "name": "scrollEnd",
+      "type": "string",
+      "default": "\"bottom bottom-=40%\"",
+      "description": "The scroll trigger end position."
+    },
+    {
+      "name": "stagger",
+      "type": "number",
+      "default": "0.03",
+      "description": "Delay between the animation start of each character."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

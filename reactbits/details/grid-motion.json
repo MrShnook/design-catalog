@@ -1,0 +1,34 @@
+{
+  "name": "Grid Motion",
+  "slug": "grid-motion",
+  "url": "https://reactbits.dev/backgrounds/grid-motion",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "items",
+      "type": "array",
+      "default": "\\[\\]",
+      "description": "An array of items to display in the grid. Each item can be a string, JSX element, or an image URL."
+    },
+    {
+      "name": "gradientColor",
+      "type": "string",
+      "default": "black",
+      "description": "Controls the color of the radial gradient used as the background."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

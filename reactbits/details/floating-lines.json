@@ -1,0 +1,112 @@
+{
+  "name": "Floating Lines",
+  "slug": "floating-lines",
+  "url": "https://reactbits.dev/backgrounds/floating-lines",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "linesGradient",
+      "type": "string\\[\\]",
+      "default": "undefined",
+      "description": "Array of hex color strings for gradient coloring of lines (max 8 colors)."
+    },
+    {
+      "name": "enabledWaves",
+      "type": "Array<'top' \\",
+      "default": "'middle' \\",
+      "description": "'bottom'>"
+    },
+    {
+      "name": "lineCount",
+      "type": "number \\",
+      "default": "number\\[\\]",
+      "description": "\\[6\\]"
+    },
+    {
+      "name": "lineDistance",
+      "type": "number \\",
+      "default": "number\\[\\]",
+      "description": "\\[5\\]"
+    },
+    {
+      "name": "topWavePosition",
+      "type": "{ x: number; y: number; rotate: number }",
+      "default": "undefined",
+      "description": "Position and rotation settings for the top wave layer."
+    },
+    {
+      "name": "middleWavePosition",
+      "type": "{ x: number; y: number; rotate: number }",
+      "default": "undefined",
+      "description": "Position and rotation settings for the middle wave layer."
+    },
+    {
+      "name": "bottomWavePosition",
+      "type": "{ x: number; y: number; rotate: number }",
+      "default": "{ x: 2.0, y: -0.7, rotate: -1 }",
+      "description": "Position and rotation settings for the bottom wave layer."
+    },
+    {
+      "name": "animationSpeed",
+      "type": "number",
+      "default": "1",
+      "description": "Speed multiplier for the wave animation."
+    },
+    {
+      "name": "interactive",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether the lines react to mouse/pointer movement."
+    },
+    {
+      "name": "bendRadius",
+      "type": "number",
+      "default": "10.0",
+      "description": "Radius of the area affected by mouse interaction."
+    },
+    {
+      "name": "bendStrength",
+      "type": "number",
+      "default": "-5.0",
+      "description": "Intensity of the bend effect when interacting with mouse."
+    },
+    {
+      "name": "mouseDamping",
+      "type": "number",
+      "default": "0.05",
+      "description": "Smoothing factor for mouse movement tracking (0-1)."
+    },
+    {
+      "name": "parallax",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable parallax effect with mouse movement."
+    },
+    {
+      "name": "parallaxStrength",
+      "type": "number",
+      "default": "0.2",
+      "description": "Strength of the parallax effect."
+    },
+    {
+      "name": "mixBlendMode",
+      "type": "React.CSSProperties\\['mixBlendMode'\\]",
+      "default": "'screen'",
+      "description": "CSS mix-blend-mode applied to the canvas element."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

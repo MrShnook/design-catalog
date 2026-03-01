@@ -1,0 +1,88 @@
+{
+  "name": "Magic Bento",
+  "slug": "magic-bento",
+  "url": "https://reactbits.dev/components/magic-bento",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "textAutoHide",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether text content should auto-hide on hover"
+    },
+    {
+      "name": "enableStars",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable particle star animation effect"
+    },
+    {
+      "name": "enableSpotlight",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable spotlight cursor following effect"
+    },
+    {
+      "name": "enableBorderGlow",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable border glow effect that follows cursor"
+    },
+    {
+      "name": "disableAnimations",
+      "type": "boolean",
+      "default": "false",
+      "description": "Disable all animations (automatically enabled on mobile)"
+    },
+    {
+      "name": "spotlightRadius",
+      "type": "number",
+      "default": "300",
+      "description": "Radius of the spotlight effect in pixels"
+    },
+    {
+      "name": "particleCount",
+      "type": "number",
+      "default": "12",
+      "description": "Number of particles in the star animation"
+    },
+    {
+      "name": "enableTilt",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable 3D tilt effect on card hover"
+    },
+    {
+      "name": "glowColor",
+      "type": "string",
+      "default": "\"132, 0, 255\"",
+      "description": "RGB color values for glow effects (without rgba wrapper)"
+    },
+    {
+      "name": "clickEffect",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable ripple effect on card click"
+    },
+    {
+      "name": "enableMagnetism",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable subtle card attraction to cursor"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

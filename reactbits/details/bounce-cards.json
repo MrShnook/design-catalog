@@ -1,0 +1,76 @@
+{
+  "name": "Bounce Cards",
+  "slug": "bounce-cards",
+  "url": "https://reactbits.dev/components/bounce-cards",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Additional CSS classes for the container."
+    },
+    {
+      "name": "images",
+      "type": "string\\[\\]",
+      "default": "\\[\\]",
+      "description": "Array of image URLs to display."
+    },
+    {
+      "name": "containerWidth",
+      "type": "number",
+      "default": "400",
+      "description": "Width of the container (px)."
+    },
+    {
+      "name": "containerHeight",
+      "type": "number",
+      "default": "400",
+      "description": "Height of the container (px)."
+    },
+    {
+      "name": "animationDelay",
+      "type": "number",
+      "default": "0.5",
+      "description": "Delay (in seconds) before the animation starts."
+    },
+    {
+      "name": "animationStagger",
+      "type": "number",
+      "default": "0.06",
+      "description": "Time (in seconds) between each card's animation."
+    },
+    {
+      "name": "easeType",
+      "type": "string",
+      "default": "elastic.out(1, 0.8)",
+      "description": "Easing function for the bounce."
+    },
+    {
+      "name": "transformStyles",
+      "type": "string\\[\\]",
+      "default": "various rotations/translations",
+      "description": "Custom transforms for each card position."
+    },
+    {
+      "name": "enableHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, hovering pushes siblings aside and flattens the hovered card's rotation."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

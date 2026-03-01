@@ -1,0 +1,100 @@
+{
+  "name": "Tilted Card",
+  "slug": "tilted-card",
+  "url": "https://reactbits.dev/components/tilted-card",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "imageSrc",
+      "type": "string",
+      "default": "N/A",
+      "description": "The source URL of the image."
+    },
+    {
+      "name": "altText",
+      "type": "string",
+      "default": "Tilted card image",
+      "description": "Alternative text for the image."
+    },
+    {
+      "name": "captionText",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Text for the tooltip caption."
+    },
+    {
+      "name": "containerHeight",
+      "type": "string",
+      "default": "600px",
+      "description": "Height of the overall card container."
+    },
+    {
+      "name": "containerWidth",
+      "type": "string",
+      "default": "100%",
+      "description": "Width of the overall card container."
+    },
+    {
+      "name": "imageHeight",
+      "type": "string",
+      "default": "300px",
+      "description": "Height of the inner image."
+    },
+    {
+      "name": "imageWidth",
+      "type": "string",
+      "default": "300px",
+      "description": "Width of the inner image."
+    },
+    {
+      "name": "scaleOnHover",
+      "type": "number",
+      "default": "1.1",
+      "description": "Scaling factor applied on hover."
+    },
+    {
+      "name": "rotateAmplitude",
+      "type": "number",
+      "default": "14",
+      "description": "Controls how much the card tilts with mouse movement."
+    },
+    {
+      "name": "showMobileWarning",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether to show a small alert about mobile usage."
+    },
+    {
+      "name": "showTooltip",
+      "type": "boolean",
+      "default": "true",
+      "description": "Toggles the visibility of the tooltip (figcaption)."
+    },
+    {
+      "name": "displayOverlayContent",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether to display any overlayContent on top of the image."
+    },
+    {
+      "name": "overlayContent",
+      "type": "ReactNode",
+      "default": "null",
+      "description": "A React node to display as an overlay on the card."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

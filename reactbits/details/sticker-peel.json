@@ -1,0 +1,94 @@
+{
+  "name": "Sticker Peel",
+  "slug": "sticker-peel",
+  "url": "https://reactbits.dev/animations/sticker-peel",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "imageSrc",
+      "type": "string",
+      "default": "required",
+      "description": "The source URL for the sticker image"
+    },
+    {
+      "name": "rotate",
+      "type": "number",
+      "default": "30",
+      "description": "The rotation angle in degrees when dragging"
+    },
+    {
+      "name": "peelBackHoverPct",
+      "type": "number",
+      "default": "30",
+      "description": "Percentage of peel effect on hover (0-100)"
+    },
+    {
+      "name": "peelBackActivePct",
+      "type": "number",
+      "default": "40",
+      "description": "Percentage of peel effect when active/clicked (0-100)"
+    },
+    {
+      "name": "peelDirection",
+      "type": "number",
+      "default": "0",
+      "description": "Direction of the peel effect in degrees (0-360)"
+    },
+    {
+      "name": "peelEasing",
+      "type": "string",
+      "default": "power3.out",
+      "description": "GSAP easing function for peel animations"
+    },
+    {
+      "name": "peelHoverEasing",
+      "type": "string",
+      "default": "power2.out",
+      "description": "GSAP easing function for hover transitions"
+    },
+    {
+      "name": "width",
+      "type": "number",
+      "default": "200",
+      "description": "Width of the sticker in pixels"
+    },
+    {
+      "name": "shadowIntensity",
+      "type": "number",
+      "default": "0.6",
+      "description": "Intensity of the shadow effect (0-1)"
+    },
+    {
+      "name": "lightingIntensity",
+      "type": "number",
+      "default": "0.1",
+      "description": "Intensity of the lighting effect (0-1)"
+    },
+    {
+      "name": "initialPosition",
+      "type": "string",
+      "default": "center",
+      "description": "Initial position of the sticker ('center', 'top-left', 'top-right', 'bottom-left', 'bottom-right')"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Custom class name for additional styling"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

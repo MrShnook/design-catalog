@@ -1,0 +1,49 @@
+{
+  "name": "Squares",
+  "slug": "squares",
+  "url": "https://reactbits.dev/backgrounds/squares",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "direction",
+      "type": "string",
+      "default": "'right'",
+      "description": "Direction of square animation. Options: 'diagonal', 'up', 'right', 'down', 'left'."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "1",
+      "description": "Animation speed multiplier."
+    },
+    {
+      "name": "borderColor",
+      "type": "string",
+      "default": "'#999'",
+      "description": "Color of the square borders."
+    },
+    {
+      "name": "squareSize",
+      "type": "number",
+      "default": "40",
+      "description": "Size of individual squares in pixels."
+    },
+    {
+      "name": "hoverFillColor",
+      "type": "string",
+      "default": "'#222'",
+      "description": "Fill color when hovering over squares."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

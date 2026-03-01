@@ -1,0 +1,58 @@
+{
+  "name": "Plasma",
+  "slug": "plasma",
+  "url": "https://reactbits.dev/backgrounds/plasma",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "default": "undefined",
+      "description": "Optional hex color to tint the plasma effect. If not provided, uses original colors."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "1.0",
+      "description": "Animation speed multiplier. Higher values = faster animation."
+    },
+    {
+      "name": "direction",
+      "type": "'forward' \\",
+      "default": "'reverse' \\",
+      "description": "'pingpong'"
+    },
+    {
+      "name": "scale",
+      "type": "number",
+      "default": "1.0",
+      "description": "Zoom level of the plasma pattern. Higher values zoom in."
+    },
+    {
+      "name": "opacity",
+      "type": "number",
+      "default": "1.0",
+      "description": "Overall opacity of the effect (0-1)."
+    },
+    {
+      "name": "mouseInteractive",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether the plasma responds to mouse movement."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

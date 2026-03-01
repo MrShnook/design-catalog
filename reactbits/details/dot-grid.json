@@ -1,0 +1,100 @@
+{
+  "name": "Dot Grid",
+  "slug": "dot-grid",
+  "url": "https://reactbits.dev/backgrounds/dot-grid",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "dotSize",
+      "type": "number",
+      "default": "16",
+      "description": "Size of each dot in pixels."
+    },
+    {
+      "name": "gap",
+      "type": "number",
+      "default": "32",
+      "description": "Gap between each dot in pixels."
+    },
+    {
+      "name": "baseColor",
+      "type": "string",
+      "default": "'#5227FF'",
+      "description": "Base color of the dots."
+    },
+    {
+      "name": "activeColor",
+      "type": "string",
+      "default": "'#5227FF'",
+      "description": "Color of dots when hovered or activated."
+    },
+    {
+      "name": "proximity",
+      "type": "number",
+      "default": "150",
+      "description": "Radius around the mouse pointer within which dots react."
+    },
+    {
+      "name": "speedTrigger",
+      "type": "number",
+      "default": "100",
+      "description": "Mouse speed threshold to trigger inertia effect."
+    },
+    {
+      "name": "shockRadius",
+      "type": "number",
+      "default": "250",
+      "description": "Radius of the shockwave effect on click."
+    },
+    {
+      "name": "shockStrength",
+      "type": "number",
+      "default": "5",
+      "description": "Strength of the shockwave effect on click."
+    },
+    {
+      "name": "maxSpeed",
+      "type": "number",
+      "default": "5000",
+      "description": "Maximum speed for inertia calculation."
+    },
+    {
+      "name": "resistance",
+      "type": "number",
+      "default": "750",
+      "description": "Resistance for the inertia effect."
+    },
+    {
+      "name": "returnDuration",
+      "type": "number",
+      "default": "1.5",
+      "description": "Duration for dots to return to their original position after inertia."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS classes for the component."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Inline styles for the component."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

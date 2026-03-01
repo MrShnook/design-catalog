@@ -1,0 +1,106 @@
+{
+  "name": "Stepper",
+  "slug": "stepper",
+  "url": "https://reactbits.dev/components/stepper",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "click",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "\u2014",
+      "description": "The Step components (or any custom content) rendered inside the stepper."
+    },
+    {
+      "name": "initialStep",
+      "type": "number",
+      "default": "1",
+      "description": "The first step to display when the stepper is initialized."
+    },
+    {
+      "name": "onStepChange",
+      "type": "(step: number) => void",
+      "default": "() =\\> {}",
+      "description": "Callback fired whenever the step changes."
+    },
+    {
+      "name": "onFinalStepCompleted",
+      "type": "() =\\> void",
+      "default": "() =\\> {}",
+      "description": "Callback fired when the stepper completes its final step."
+    },
+    {
+      "name": "stepCircleContainerClassName",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Custom class name for the container holding the step indicators."
+    },
+    {
+      "name": "stepContainerClassName",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Custom class name for the row holding the step circles/connectors."
+    },
+    {
+      "name": "contentClassName",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Custom class name for the step\u2019s main content container."
+    },
+    {
+      "name": "footerClassName",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Custom class name for the footer area containing navigation buttons."
+    },
+    {
+      "name": "backButtonProps",
+      "type": "object",
+      "default": "{}",
+      "description": "Extra props passed to the Back button."
+    },
+    {
+      "name": "nextButtonProps",
+      "type": "object",
+      "default": "{}",
+      "description": "Extra props passed to the Next/Complete button."
+    },
+    {
+      "name": "backButtonText",
+      "type": "string",
+      "default": "\"Back\"",
+      "description": "Text for the Back button."
+    },
+    {
+      "name": "nextButtonText",
+      "type": "string",
+      "default": "\"Continue\"",
+      "description": "Text for the Next button when not on the last step."
+    },
+    {
+      "name": "disableStepIndicators",
+      "type": "boolean",
+      "default": "false",
+      "description": "Disables click interaction on step indicators."
+    },
+    {
+      "name": "renderStepIndicator",
+      "type": "{}",
+      "default": "undefined",
+      "description": "Renders a custom step indicator."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

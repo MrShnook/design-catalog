@@ -1,0 +1,55 @@
+{
+  "name": "Letter Glitch",
+  "slug": "letter-glitch",
+  "url": "https://reactbits.dev/backgrounds/letter-glitch",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "glitchColors",
+      "type": "string\\[\\]",
+      "default": "\\['#2b4539', '#61dca3', '#61b3dc'\\]",
+      "description": "Controls the colors of the letters rendered in the canvas."
+    },
+    {
+      "name": "glitchSpeed",
+      "type": "number",
+      "default": "50",
+      "description": "Controls the speed at which letters scramble in the animation."
+    },
+    {
+      "name": "centerVignette",
+      "type": "boolean",
+      "default": "false",
+      "description": "When true, renders a radial gradient in the center of the container"
+    },
+    {
+      "name": "outerVignette",
+      "type": "boolean",
+      "default": "true",
+      "description": "When true, renders an inner radial gradient around the edges of the container."
+    },
+    {
+      "name": "smooth",
+      "type": "boolean",
+      "default": "true",
+      "description": "When true, smoothens the animation of the letters for a more subtle feel."
+    },
+    {
+      "name": "characters",
+      "type": "string",
+      "default": "ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$&\\*()-\\_+=/\\[\\]{};:<>.,0123456789",
+      "description": "String of characters to render in the canvas."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

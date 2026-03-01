@@ -1,0 +1,55 @@
+{
+  "name": "Curved Loop",
+  "slug": "curved-loop",
+  "url": "https://reactbits.dev/text-animations/curved-loop",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "marqueeText",
+      "type": "string",
+      "default": "\"\"",
+      "description": "The text to display in the curved marquee"
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "2",
+      "description": "Animation speed of the marquee text"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "undefined",
+      "description": "CSS class name for styling the text"
+    },
+    {
+      "name": "curveAmount",
+      "type": "number",
+      "default": "400",
+      "description": "Amount of curve in the text path"
+    },
+    {
+      "name": "direction",
+      "type": "\"left\" \\",
+      "default": "\"right\"",
+      "description": "\"left\""
+    },
+    {
+      "name": "interactive",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether the marquee can be dragged by the user"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

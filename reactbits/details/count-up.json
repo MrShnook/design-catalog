@@ -1,0 +1,82 @@
+{
+  "name": "Count Up",
+  "slug": "count-up",
+  "url": "https://reactbits.dev/text-animations/count-up",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "to",
+      "type": "number",
+      "default": "\u2014",
+      "description": "The target number to count up to."
+    },
+    {
+      "name": "from",
+      "type": "number",
+      "default": "0",
+      "description": "The initial number from which the count starts."
+    },
+    {
+      "name": "direction",
+      "type": "string",
+      "default": "\"up\"",
+      "description": "Direction of the count; can be \"up\" or \"down\". When this is set to \"down\", \"from\" and \"to\" become reversed, in order to count down."
+    },
+    {
+      "name": "delay",
+      "type": "number",
+      "default": "0",
+      "description": "Delay in seconds before the counting starts."
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "default": "2",
+      "description": "Duration of the count animation - based on the damping and stiffness configured inside the component."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "CSS class to apply to the component for additional styling."
+    },
+    {
+      "name": "startWhen",
+      "type": "boolean",
+      "default": "true",
+      "description": "A boolean to control whether the animation should start when the component is in view. It basically works like an if statement, if this is true, the count will start."
+    },
+    {
+      "name": "separator",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Character to use as a thousands separator in the displayed number."
+    },
+    {
+      "name": "onStart",
+      "type": "function",
+      "default": "\u2014",
+      "description": "Callback function that is called when the count animation starts."
+    },
+    {
+      "name": "onEnd",
+      "type": "function",
+      "default": "\u2014",
+      "description": "Callback function that is called when the count animation ends."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

@@ -18,12 +18,13 @@
   ],
   "inspired_by": "GitHub",
   "dependencies": [],
-  "code_snippet": "npx shadcn@latest add @aceternity/globe",
-  "install_command": "npx shadcn@latest add @aceternity/globe-demo",
+  "code_snippet": "\"use client\";\nimport React from \"react\";\nimport { motion } from \"motion/react\";\nimport dynamic from \"next/dynamic\";\n \nconst World = dynamic(() => import(\"../ui/globe\").then((m) => m.World), {\n  ssr: false,\n});\n \nexport function GlobeDemo() {\n  const globeConfig = {\n    pointSize: 4,\n    globeColor: \"#062056\",\n    showAtmosphere: true,\n    atmosphereColor: \"#FFFFFF\",\n    atmosphereAltitude: 0.1,\n    emissive: \"#062056\",\n    emissiveIntensity: 0.1,\n    shininess: 0.9,\n    polygonColor: \"rgba(255,255,255,0.7)\",\n    ambientLight: \"#38bdf8\",\n    directionalLeftLight: \"#ffffff\",\n    directionalTopLight: \"#ffffff\",\n    pointLight: \"#ffffff\",\n    arcTime: 1000,\n    arcLength: 0.9,\n    rings: 1,\n    maxRings: 3,\n    initialPosition: { lat: 22.3193, lng: 114.1694 },\n    autoRotate: true,\n    autoRotateSpeed: 0.5,\n  };\n  const colors = [\"#06b6d4\", \"#3b82f6\", \"#6366f1\"];\n  const sampleArcs = [\n    {\n      order: 1,\n      startLat: -19.885592,\n      startLng: -43.951191,\n      endLat: -22.9068,\n      endLng: -43.1729,\n      arcAlt: 0.1,\n      color: colors[Math.floor(Math.random() * (colors.length - 1))],\n    },\n    {\n      order: 1,\n      startLat: 28.6139,\n      startLng: 77.209,\n      endLat: 3.139,\n      endLng: 101.6869,\n      arcAlt: 0.2,\n      color: colors[Math.floor(Math.random() * (colors.length - 1))],\n    },\n    {\n      order: 1,\n      startLat: -19.885592,\n      startLng: -43.951191,\n      endLat: -1.303396,\n      endLng: 36.852443,\n      arcAlt: 0.5,\n      color: colors[Math.floor(Math.random() * (colors.length - 1))],\n    },\n    {\n      order: 2,\n      startLat: 1.3521,\n      startLng: 103.8198,\n      endLat: 35.6762,\n      endLng: 139.6503,\n      arcAlt: 0.2,\n      color: colors[Math.floor(Math.random() * (colors.length - 1))],\n    },\n    {\n      order: 2,\n      startLat: 51.5072,\n      startLng: -0.1276,\n      endLat: 3.139,\n      endLng: 101.6869,\n      arcAlt: 0.3,\n      color: colors[Math.floor(Math.random() * (colors.length - 1))],\n    },\n    {\n      order: 2,\n      startLat: -15.785493,\n      startLng: -47.909029,\n      endLat: 36.162809,\n      endLng: -115.119411,\n      arcAlt: 0.3,\n      color: colors[Math.floor(Math.random() * (colors.length - 1))],\n    },\n    {\n      order: 3,\n      startLat: -33.8688,\n      startLng: 151.2093,\n      endLat: 22.3193,\n      endLng: 114.1694,\n      arcAlt: 0.3,\n      color: colors[Math.floor(Math.random() * (colors.length - 1))],\n    },\n    {\n      order: 3,\n      startLat: 21.3099,\n// ...",
+  "install_command": "npx shadcn@latest add @aceternity/globe",
   "use_cases": [
     "Data dashboards",
     "Location displays",
     "Analytics"
   ],
-  "free": true
+  "free": true,
+  "full_source_available": true
 }

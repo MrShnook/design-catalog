@@ -1,0 +1,67 @@
+{
+  "name": "Magnet",
+  "slug": "magnet",
+  "url": "https://reactbits.dev/animations/magnet",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "padding",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Specifies the distance (in pixels) around the element that activates the magnet pull."
+    },
+    {
+      "name": "disabled",
+      "type": "boolean",
+      "default": "\u2014",
+      "description": "Disables the magnet effect when set to true."
+    },
+    {
+      "name": "magnetStrength",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Controls the strength of the pull; higher values reduce movement, lower values increase it."
+    },
+    {
+      "name": "activeTransition",
+      "type": "string",
+      "default": "\"transform 0.3s ease-out\"",
+      "description": "CSS transition applied to the element when the magnet is active."
+    },
+    {
+      "name": "inactiveTransition",
+      "type": "string",
+      "default": "\"transform 0.5s ease-in-out\"",
+      "description": "CSS transition applied when the magnet is inactive (mouse out of range)."
+    },
+    {
+      "name": "wrapperClassName",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Optional CSS class name for the outermost wrapper element."
+    },
+    {
+      "name": "innerClassName",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Optional CSS class name for the moving (inner) element."
+    },
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "\u2014",
+      "description": "The content (JSX) to be displayed inside the magnetized element."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

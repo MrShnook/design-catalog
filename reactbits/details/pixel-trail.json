@@ -1,0 +1,59 @@
+{
+  "name": "Pixel Trail",
+  "slug": "pixel-trail",
+  "url": "https://reactbits.dev/animations/pixel-trail",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js",
+    "React Three Fiber"
+  ],
+  "dependencies": [
+    "@react-three/fiber@react-three/dreithree"
+  ],
+  "props": [
+    {
+      "name": "gridSize",
+      "type": "number",
+      "default": "40",
+      "description": "Number of pixels in grid."
+    },
+    {
+      "name": "trailSize",
+      "type": "number",
+      "default": "0.1",
+      "description": "Size of each trail dot."
+    },
+    {
+      "name": "maxAge",
+      "type": "number",
+      "default": "500",
+      "description": "Duration of the trail effect."
+    },
+    {
+      "name": "interpolate",
+      "type": "number",
+      "default": "5",
+      "description": "Interpolation factor for pointer movement."
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "#ffffff",
+      "description": "Pixel color."
+    },
+    {
+      "name": "gooeyFilter",
+      "type": "object",
+      "default": "{ id: 'custom-goo-filter', strength: 5 }",
+      "description": "Configuration for gooey filter."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

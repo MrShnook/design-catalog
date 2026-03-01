@@ -1,0 +1,70 @@
+{
+  "name": "Stack",
+  "slug": "stack",
+  "url": "https://reactbits.dev/components/stack",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "randomRotation",
+      "type": "boolean",
+      "default": "\u2014",
+      "description": "Applies a random rotation to each card for a 'messy' look."
+    },
+    {
+      "name": "sensitivity",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Drag sensitivity for sending a card to the back."
+    },
+    {
+      "name": "sendToBackOnClick",
+      "type": "boolean",
+      "default": "false",
+      "description": "When enabled, the stack also shifts to the next card on click."
+    },
+    {
+      "name": "cards",
+      "type": "ReactNode\\[\\]",
+      "default": "\\[\\]",
+      "description": "The array of card elements to display in the stack."
+    },
+    {
+      "name": "animationConfig",
+      "type": "object",
+      "default": "{ stiffness: 260, damping: 20 }",
+      "description": "Configures the spring animation's stiffness and damping."
+    },
+    {
+      "name": "autoplay",
+      "type": "boolean",
+      "default": "false",
+      "description": "When enabled, the stack automatically cycles through cards."
+    },
+    {
+      "name": "autoplayDelay",
+      "type": "number",
+      "default": "3000",
+      "description": "Delay in milliseconds between automatic card transitions."
+    },
+    {
+      "name": "pauseOnHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "When enabled, autoplay pauses when hovering over the stack."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

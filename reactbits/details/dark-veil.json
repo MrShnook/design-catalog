@@ -1,0 +1,64 @@
+{
+  "name": "Dark Veil",
+  "slug": "dark-veil",
+  "url": "https://reactbits.dev/backgrounds/dark-veil",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "hueShift",
+      "type": "number",
+      "default": "0",
+      "description": "Shifts the hue of the entire animation."
+    },
+    {
+      "name": "noiseIntensity",
+      "type": "number",
+      "default": "0",
+      "description": "Intensity of the noise/grain effect."
+    },
+    {
+      "name": "scanlineIntensity",
+      "type": "number",
+      "default": "0",
+      "description": "Intensity of the scanline effect."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "0.5",
+      "description": "Speed of the animation."
+    },
+    {
+      "name": "scanlineFrequency",
+      "type": "number",
+      "default": "0",
+      "description": "Frequency of the scanlines."
+    },
+    {
+      "name": "warpAmount",
+      "type": "number",
+      "default": "0",
+      "description": "Amount of warp distortion applied to the effect."
+    },
+    {
+      "name": "resolutionScale",
+      "type": "number",
+      "default": "1",
+      "description": "Scale factor for the resolution."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

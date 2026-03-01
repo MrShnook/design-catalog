@@ -1,0 +1,136 @@
+{
+  "name": "Faulty Terminal",
+  "slug": "faulty-terminal",
+  "url": "https://reactbits.dev/backgrounds/faulty-terminal",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "scale",
+      "type": "number",
+      "default": "1.5",
+      "description": "Controls the zoom/scale of the pattern."
+    },
+    {
+      "name": "gridMul",
+      "type": "Vec2",
+      "default": "\\[2, 1\\]",
+      "description": "Grid multiplier for glyph density \\[x, y\\]."
+    },
+    {
+      "name": "digitSize",
+      "type": "number",
+      "default": "1.2",
+      "description": "Size of individual glyphs."
+    },
+    {
+      "name": "timeScale",
+      "type": "number",
+      "default": "1",
+      "description": "Animation speed multiplier."
+    },
+    {
+      "name": "pause",
+      "type": "boolean",
+      "default": "false",
+      "description": "Pause/resume animation."
+    },
+    {
+      "name": "scanlineIntensity",
+      "type": "number",
+      "default": "1",
+      "description": "Strength of scanline effects."
+    },
+    {
+      "name": "glitchAmount",
+      "type": "number",
+      "default": "1",
+      "description": "Glitch displacement intensity."
+    },
+    {
+      "name": "flickerAmount",
+      "type": "number",
+      "default": "1",
+      "description": "Flicker effect strength."
+    },
+    {
+      "name": "noiseAmp",
+      "type": "number",
+      "default": "1",
+      "description": "Noise pattern amplitude."
+    },
+    {
+      "name": "chromaticAberration",
+      "type": "number",
+      "default": "0",
+      "description": "RGB channel separation in pixels."
+    },
+    {
+      "name": "dither",
+      "type": "number \\",
+      "default": "boolean",
+      "description": "0"
+    },
+    {
+      "name": "curvature",
+      "type": "number",
+      "default": "0",
+      "description": "Barrel distortion amount."
+    },
+    {
+      "name": "tint",
+      "type": "string",
+      "default": "'#ffffff'",
+      "description": "Color tint (hex)."
+    },
+    {
+      "name": "mouseReact",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable/disable mouse interaction."
+    },
+    {
+      "name": "mouseStrength",
+      "type": "number",
+      "default": "0.5",
+      "description": "Mouse interaction intensity."
+    },
+    {
+      "name": "pageLoadAnimation",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable fade-in animation on load."
+    },
+    {
+      "name": "brightness",
+      "type": "number",
+      "default": "1",
+      "description": "Overall opacity/brightness control."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS classes."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Inline styles."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

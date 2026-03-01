@@ -1,0 +1,82 @@
+{
+  "name": "Scroll Reveal",
+  "slug": "scroll-reveal",
+  "url": "https://reactbits.dev/text-animations/scroll-reveal",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "\u2014",
+      "description": "The text or elements to be animated. If a string is provided, it will be split into words."
+    },
+    {
+      "name": "scrollContainerRef",
+      "type": "React.RefObject",
+      "default": "window",
+      "description": "Optional ref for the scroll container. If provided, GSAP will use this container for scroll triggers; otherwise, it defaults to the window."
+    },
+    {
+      "name": "enableBlur",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enables the blur animation effect on the words."
+    },
+    {
+      "name": "baseOpacity",
+      "type": "number",
+      "default": "0.1",
+      "description": "The initial opacity value for the words before the animation."
+    },
+    {
+      "name": "baseRotation",
+      "type": "number",
+      "default": "3",
+      "description": "The starting rotation (in degrees) for the container before it animates to 0."
+    },
+    {
+      "name": "blurStrength",
+      "type": "number",
+      "default": "4",
+      "description": "The strength of the blur effect (in pixels) applied at the start of the animation."
+    },
+    {
+      "name": "containerClassName",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional CSS class(es) to apply to the container element."
+    },
+    {
+      "name": "textClassName",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional CSS class(es) to apply to the text element."
+    },
+    {
+      "name": "rotationEnd",
+      "type": "string",
+      "default": "\"bottom bottom\"",
+      "description": "The scroll trigger end point for the container rotation animation."
+    },
+    {
+      "name": "wordAnimationEnd",
+      "type": "string",
+      "default": "\"bottom bottom\"",
+      "description": "The scroll trigger end point for the word opacity and blur animations. The animation will complete when the bottom of the text reaches the bottom of the container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

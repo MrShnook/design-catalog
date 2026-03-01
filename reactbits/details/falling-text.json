@@ -1,0 +1,81 @@
+{
+  "name": "Falling Text",
+  "slug": "falling-text",
+  "url": "https://reactbits.dev/text-animations/falling-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [
+    "matter-js"
+  ],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "default": "\u2014",
+      "description": "The text content to display and eventually animate."
+    },
+    {
+      "name": "highlightWords",
+      "type": "string\\[\\]",
+      "default": "\\[\\]",
+      "description": "List of words or substrings to apply a highlight style."
+    },
+    {
+      "name": "highlightClass",
+      "type": "string",
+      "default": "\"highlighted\"",
+      "description": "CSS class name for highlighted words."
+    },
+    {
+      "name": "trigger",
+      "type": "'click' \\",
+      "default": "'hover' \\",
+      "description": "'auto' \\"
+    },
+    {
+      "name": "backgroundColor",
+      "type": "string",
+      "default": "\"transparent\"",
+      "description": "Canvas background color for the physics world."
+    },
+    {
+      "name": "wireframes",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether to render the physics bodies in wireframe mode."
+    },
+    {
+      "name": "gravity",
+      "type": "number",
+      "default": "1",
+      "description": "Vertical gravity factor for the physics engine."
+    },
+    {
+      "name": "mouseConstraintStiffness",
+      "type": "number",
+      "default": "0.2",
+      "description": "Stiffness for the mouse drag constraint."
+    },
+    {
+      "name": "fontSize",
+      "type": "string",
+      "default": "\"1rem\"",
+      "description": "Font size applied to the text before it falls."
+    },
+    {
+      "name": "wordSpacing",
+      "type": "string",
+      "default": "\"2px\"",
+      "description": "Horizontal spacing between each word."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

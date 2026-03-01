@@ -1,0 +1,33 @@
+{
+  "name": "Infinite Menu",
+  "slug": "infinite-menu",
+  "url": "https://reactbits.dev/components/infinite-menu",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [
+    "gl-matrix"
+  ],
+  "props": [
+    {
+      "name": "items",
+      "type": "object\\[\\]",
+      "default": "\\[{...}\\]",
+      "description": "List of items containing an image, link, title, and description - or just add what you need."
+    },
+    {
+      "name": "scale",
+      "type": "number",
+      "default": "1.0",
+      "description": "Controls camera zoom"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

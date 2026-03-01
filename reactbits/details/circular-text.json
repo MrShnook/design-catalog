@@ -1,0 +1,46 @@
+{
+  "name": "Circular Text",
+  "slug": "circular-text",
+  "url": "https://reactbits.dev/text-animations/circular-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "default": "''",
+      "description": "The text to display in a circular layout."
+    },
+    {
+      "name": "spinDuration",
+      "type": "number",
+      "default": "20",
+      "description": "The duration (in seconds) for one full rotation."
+    },
+    {
+      "name": "onHover",
+      "type": "'slowDown' \\",
+      "default": "'speedUp' \\",
+      "description": "'pause' \\"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Optional additional CSS classes to apply to the component."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

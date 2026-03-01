@@ -1,0 +1,64 @@
+{
+  "name": "Carousel",
+  "slug": "carousel",
+  "url": "https://reactbits.dev/components/carousel",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "items",
+      "type": "CarouselItem\\[\\]",
+      "default": "DEFAULT\\_ITEMS",
+      "description": "An array of carousel items. Each item must include title, description, id, and icon."
+    },
+    {
+      "name": "baseWidth",
+      "type": "number",
+      "default": "300",
+      "description": "Total width (in px) of the carousel container. Effective item width is baseWidth minus padding."
+    },
+    {
+      "name": "autoplay",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enables automatic scrolling to the next item at a fixed interval."
+    },
+    {
+      "name": "autoplayDelay",
+      "type": "number",
+      "default": "3000",
+      "description": "Delay in milliseconds between automatic scrolls when autoplay is enabled."
+    },
+    {
+      "name": "pauseOnHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "Pauses the autoplay functionality when the carousel is hovered."
+    },
+    {
+      "name": "loop",
+      "type": "boolean",
+      "default": "false",
+      "description": "When true, the carousel loops seamlessly from the last item back to the first."
+    },
+    {
+      "name": "round",
+      "type": "boolean",
+      "default": "true",
+      "description": "When true, the carousel is rendered with a 1:1 aspect ratio and circular container/items."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

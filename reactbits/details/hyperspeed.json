@@ -1,0 +1,28 @@
+{
+  "name": "Hyperspeed",
+  "slug": "hyperspeed",
+  "url": "https://reactbits.dev/backgrounds/hyperspeed",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "click",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "threepostprocessing"
+  ],
+  "props": [
+    {
+      "name": "effectOptions",
+      "type": "object",
+      "default": "See the \"code\" tab for default values and presets.",
+      "description": "The highly customizable configuration object for the effect, controls things like colors, distortion, line properties, etc."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

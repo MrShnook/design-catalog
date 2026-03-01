@@ -1,0 +1,67 @@
+{
+  "name": "Click Spark",
+  "slug": "click-spark",
+  "url": "https://reactbits.dev/animations/click-spark",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "click",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "sparkColor",
+      "type": "string",
+      "default": "'#f00'",
+      "description": "Color of each spark line."
+    },
+    {
+      "name": "sparkSize",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Initial length of each spark line."
+    },
+    {
+      "name": "sparkRadius",
+      "type": "number",
+      "default": "\u2014",
+      "description": "How far sparks travel from the click center."
+    },
+    {
+      "name": "sparkCount",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Number of spark lines that appear on each click."
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Animation duration in milliseconds."
+    },
+    {
+      "name": "easing",
+      "type": "string",
+      "default": "'ease-out'",
+      "description": "Easing function used for the spark animation."
+    },
+    {
+      "name": "extraScale",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Additional multiplier for spark distance."
+    },
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "default": "\u2014",
+      "description": "React children to render."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

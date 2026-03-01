@@ -1,0 +1,70 @@
+{
+  "name": "Blur Text",
+  "slug": "blur-text",
+  "url": "https://reactbits.dev/text-animations/blur-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "default": "\"\"",
+      "description": "The text content to animate."
+    },
+    {
+      "name": "animateBy",
+      "type": "string",
+      "default": "\"words\"",
+      "description": "Determines whether to animate by 'words' or 'letters'."
+    },
+    {
+      "name": "direction",
+      "type": "string",
+      "default": "\"top\"",
+      "description": "Direction from which the words/letters appear ('top' or 'bottom')."
+    },
+    {
+      "name": "delay",
+      "type": "number",
+      "default": "200",
+      "description": "Delay between animations for each word/letter (in ms)."
+    },
+    {
+      "name": "stepDuration",
+      "type": "number",
+      "default": "0.35",
+      "description": "The time taken for each letter/word to animate (in seconds)."
+    },
+    {
+      "name": "threshold",
+      "type": "number",
+      "default": "0.1",
+      "description": "Intersection threshold for triggering the animation."
+    },
+    {
+      "name": "rootMargin",
+      "type": "string",
+      "default": "\"0px\"",
+      "description": "Root margin for the intersection observer."
+    },
+    {
+      "name": "onAnimationComplete",
+      "type": "function",
+      "default": "undefined",
+      "description": "Callback function triggered when all animations complete."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

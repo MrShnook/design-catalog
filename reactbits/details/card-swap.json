@@ -1,0 +1,82 @@
+{
+  "name": "Card Swap",
+  "slug": "card-swap",
+  "url": "https://reactbits.dev/components/card-swap",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "width",
+      "type": "number \\",
+      "default": "string",
+      "description": "500"
+    },
+    {
+      "name": "height",
+      "type": "number \\",
+      "default": "string",
+      "description": "400"
+    },
+    {
+      "name": "cardDistance",
+      "type": "number",
+      "default": "60",
+      "description": "X-axis spacing between cards"
+    },
+    {
+      "name": "verticalDistance",
+      "type": "number",
+      "default": "70",
+      "description": "Y-axis spacing between cards"
+    },
+    {
+      "name": "delay",
+      "type": "number",
+      "default": "5000",
+      "description": "Milliseconds between card swaps"
+    },
+    {
+      "name": "pauseOnHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether to pause animation on hover"
+    },
+    {
+      "name": "onCardClick",
+      "type": "(idx: number) => void",
+      "default": "undefined",
+      "description": "Callback function when a card is clicked"
+    },
+    {
+      "name": "skewAmount",
+      "type": "number",
+      "default": "6",
+      "description": "Degree of slope for top/bottom edges"
+    },
+    {
+      "name": "easing",
+      "type": "'linear' \\",
+      "default": "'elastic'",
+      "description": "'elastic'"
+    },
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "required",
+      "description": "Card components to display in the stack"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

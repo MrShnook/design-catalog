@@ -1,0 +1,70 @@
+{
+  "name": "True Focus",
+  "slug": "true-focus",
+  "url": "https://reactbits.dev/text-animations/true-focus",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "sentence",
+      "type": "string",
+      "default": "'True Focus'",
+      "description": "The text to display with the focus animation."
+    },
+    {
+      "name": "separator",
+      "type": "string",
+      "default": "' '",
+      "description": "Optional string used to separate words in the sentence."
+    },
+    {
+      "name": "manualMode",
+      "type": "boolean",
+      "default": "false",
+      "description": "Disables automatic animation when set to true."
+    },
+    {
+      "name": "blurAmount",
+      "type": "number",
+      "default": "5",
+      "description": "The amount of blur applied to non-active words."
+    },
+    {
+      "name": "borderColor",
+      "type": "string",
+      "default": "'green'",
+      "description": "The color of the focus borders."
+    },
+    {
+      "name": "glowColor",
+      "type": "string",
+      "default": "'rgba(0, 255, 0, 0.6)'",
+      "description": "The color of the glowing effect on the borders."
+    },
+    {
+      "name": "animationDuration",
+      "type": "number",
+      "default": "0.5",
+      "description": "The duration of the animation for each word."
+    },
+    {
+      "name": "pauseBetweenAnimations",
+      "type": "number",
+      "default": "1",
+      "description": "Time to pause between focusing on each word (in auto mode)."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

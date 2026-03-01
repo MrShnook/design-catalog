@@ -1,0 +1,64 @@
+{
+  "name": "Flowing Menu",
+  "slug": "flowing-menu",
+  "url": "https://reactbits.dev/components/flowing-menu",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "items",
+      "type": "object\\[\\]",
+      "default": "\\[\\]",
+      "description": "An array of objects containing: link, text, image."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "15",
+      "description": "Duration of the marquee animation in seconds (lower = faster)."
+    },
+    {
+      "name": "textColor",
+      "type": "string",
+      "default": "#ffffff",
+      "description": "Color of the static menu text."
+    },
+    {
+      "name": "bgColor",
+      "type": "string",
+      "default": "#060010",
+      "description": "Background color of the menu container."
+    },
+    {
+      "name": "marqueeBgColor",
+      "type": "string",
+      "default": "#ffffff",
+      "description": "Background color of the marquee overlay."
+    },
+    {
+      "name": "marqueeTextColor",
+      "type": "string",
+      "default": "#060010",
+      "description": "Text color inside the marquee."
+    },
+    {
+      "name": "borderColor",
+      "type": "string",
+      "default": "#ffffff",
+      "description": "Color of the dividing lines between menu items."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

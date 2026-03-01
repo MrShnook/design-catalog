@@ -1,0 +1,94 @@
+{
+  "name": "Ribbons",
+  "slug": "ribbons",
+  "url": "https://reactbits.dev/animations/ribbons",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "colors",
+      "type": "string\\[\\]",
+      "default": "\\['#5227FF'\\]",
+      "description": "An array of color strings to be used for the ribbons."
+    },
+    {
+      "name": "baseSpring",
+      "type": "number",
+      "default": "0.03",
+      "description": "Base spring factor for the physics controlling ribbon motion."
+    },
+    {
+      "name": "baseFriction",
+      "type": "number",
+      "default": "0.9",
+      "description": "Base friction factor that dampens the ribbon motion."
+    },
+    {
+      "name": "baseThickness",
+      "type": "number",
+      "default": "30",
+      "description": "The base thickness of the ribbons."
+    },
+    {
+      "name": "offsetFactor",
+      "type": "number",
+      "default": "0.02",
+      "description": "A factor to horizontally offset the starting positions of the ribbons."
+    },
+    {
+      "name": "maxAge",
+      "type": "number",
+      "default": "500",
+      "description": "Delay in milliseconds controlling how long the ribbon trails extend."
+    },
+    {
+      "name": "pointCount",
+      "type": "number",
+      "default": "50",
+      "description": "The number of points that make up each ribbon."
+    },
+    {
+      "name": "speedMultiplier",
+      "type": "number",
+      "default": "0.5",
+      "description": "Multiplier that adjusts how fast trailing points interpolate towards the head."
+    },
+    {
+      "name": "enableFade",
+      "type": "boolean",
+      "default": "true",
+      "description": "If true, a fade effect is applied along the length of the ribbon."
+    },
+    {
+      "name": "enableShaderEffect",
+      "type": "boolean",
+      "default": "true",
+      "description": "If true, an additional sine-wave shader effect is applied to the ribbons."
+    },
+    {
+      "name": "effectAmplitude",
+      "type": "number",
+      "default": "2",
+      "description": "The amplitude of the shader displacement effect."
+    },
+    {
+      "name": "backgroundColor",
+      "type": "number\\[\\]",
+      "default": "\\[0, 0, 0, 0\\]",
+      "description": "An RGBA array specifying the clear color for the renderer."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

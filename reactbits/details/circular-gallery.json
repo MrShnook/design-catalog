@@ -1,0 +1,58 @@
+{
+  "name": "Circular Gallery",
+  "slug": "circular-gallery",
+  "url": "https://reactbits.dev/components/circular-gallery",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "items",
+      "type": "Array<{ image: string; text: string }>",
+      "default": "undefined",
+      "description": "List of items to display in the gallery. Each item should have an image URL and a text label."
+    },
+    {
+      "name": "bend",
+      "type": "number",
+      "default": "3",
+      "description": "Determines the curvature of the gallery layout. A negative value bends in one direction, a positive value in the opposite."
+    },
+    {
+      "name": "textColor",
+      "type": "string",
+      "default": "\"#ffffff\"",
+      "description": "Specifies the color of the text labels."
+    },
+    {
+      "name": "borderRadius",
+      "type": "number",
+      "default": "0.05",
+      "description": "Sets the border radius for the media items to achieve rounded corners."
+    },
+    {
+      "name": "scrollSpeed",
+      "type": "number",
+      "default": "2",
+      "description": "Controls how much the gallery moves per scroll event. Lower values result in slower scrolling, higher values in faster scrolling."
+    },
+    {
+      "name": "scrollEase",
+      "type": "number",
+      "default": "0.05",
+      "description": "Controls the smoothness of scroll transitions. Lower values create smoother, more fluid motion, while higher values make it more responsive."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

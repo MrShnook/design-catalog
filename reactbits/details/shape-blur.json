@@ -1,0 +1,64 @@
+{
+  "name": "Shape Blur",
+  "slug": "shape-blur",
+  "url": "https://reactbits.dev/animations/shape-blur",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "variation",
+      "type": "number",
+      "default": "0",
+      "description": "Selects the shape variation (0-3) used by the shader."
+    },
+    {
+      "name": "pixelRatioProp",
+      "type": "number",
+      "default": "2",
+      "description": "Overrides the pixel ratio, typically set to the device pixel ratio."
+    },
+    {
+      "name": "shapeSize",
+      "type": "number",
+      "default": "1.2",
+      "description": "Controls the size of the shape."
+    },
+    {
+      "name": "roundness",
+      "type": "number",
+      "default": "0.4",
+      "description": "Determines the roundness of the shape's corners."
+    },
+    {
+      "name": "borderSize",
+      "type": "number",
+      "default": "0.05",
+      "description": "Sets the thickness of the border."
+    },
+    {
+      "name": "circleSize",
+      "type": "number",
+      "default": "0.3",
+      "description": "Determines the size of the hover circle effect."
+    },
+    {
+      "name": "circleEdge",
+      "type": "number",
+      "default": "0.5",
+      "description": "Controls the edge softness of the hover circle."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

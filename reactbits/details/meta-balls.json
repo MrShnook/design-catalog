@@ -1,0 +1,82 @@
+{
+  "name": "Meta Balls",
+  "slug": "meta-balls",
+  "url": "https://reactbits.dev/animations/meta-balls",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "default": "#ffffff",
+      "description": "The base color of the metaballs."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "0.3",
+      "description": "Speed multiplier for the animation."
+    },
+    {
+      "name": "enableMouseInteraction",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enables or disables the ball following the mouse."
+    },
+    {
+      "name": "enableTransparency",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enables or disables transparency for the container of the animation."
+    },
+    {
+      "name": "hoverSmoothness",
+      "type": "number",
+      "default": "0.05",
+      "description": "Smoothness factor for the cursor ball when following the mouse."
+    },
+    {
+      "name": "animationSize",
+      "type": "number",
+      "default": "30",
+      "description": "The size of the world for the animation."
+    },
+    {
+      "name": "ballCount",
+      "type": "number",
+      "default": "15",
+      "description": "Number of metaballs rendered."
+    },
+    {
+      "name": "clumpFactor",
+      "type": "number",
+      "default": "1",
+      "description": "Determines how close together the balls are rendered."
+    },
+    {
+      "name": "cursorBallSize",
+      "type": "number",
+      "default": "3",
+      "description": "Size of the cursor-controlled ball."
+    },
+    {
+      "name": "cursorBallColor",
+      "type": "string",
+      "default": "#ff0000",
+      "description": "Color of the cursor ball."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

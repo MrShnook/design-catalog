@@ -1,0 +1,76 @@
+{
+  "name": "Masonry",
+  "slug": "masonry",
+  "url": "https://reactbits.dev/components/masonry",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "items",
+      "type": "array",
+      "default": "required",
+      "description": "Array of items to display in the masonry layout. Each item should have id, img, url, and height properties."
+    },
+    {
+      "name": "ease",
+      "type": "string",
+      "default": "\"power3.out\"",
+      "description": "GSAP easing function for animations."
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "default": "0.6",
+      "description": "Duration of the transition animations in seconds."
+    },
+    {
+      "name": "stagger",
+      "type": "number",
+      "default": "0.05",
+      "description": "Delay between each item's animation in seconds."
+    },
+    {
+      "name": "animateFrom",
+      "type": "string",
+      "default": "\"bottom\"",
+      "description": "Direction from which items animate in. Options: 'top', 'bottom', 'left', 'right', 'center', 'random'."
+    },
+    {
+      "name": "scaleOnHover",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether items should scale on hover."
+    },
+    {
+      "name": "hoverScale",
+      "type": "number",
+      "default": "0.95",
+      "description": "Scale value when hovering over items (only applies if scaleOnHover is true)."
+    },
+    {
+      "name": "blurToFocus",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether items should animate from blurred to focused on initial load."
+    },
+    {
+      "name": "colorShiftOnHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether to show a color overlay effect on hover."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

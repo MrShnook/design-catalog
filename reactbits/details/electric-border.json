@@ -1,0 +1,61 @@
+{
+  "name": "Electric Border",
+  "slug": "electric-border",
+  "url": "https://reactbits.dev/animations/electric-border",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "default": "\"#5227FF\"",
+      "description": "Stroke/glow color. Any CSS color (hex, rgb, hsl)."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "1",
+      "description": "Animation speed multiplier (higher = faster)."
+    },
+    {
+      "name": "chaos",
+      "type": "number",
+      "default": "0.12",
+      "description": "Distortion intensity (0 = no distortion, higher = more chaotic)."
+    },
+    {
+      "name": "borderRadius",
+      "type": "number",
+      "default": "24",
+      "description": "Border radius in pixels for the electric border path."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Optional className applied to the root wrapper."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "\u2014",
+      "description": "Inline styles for the wrapper."
+    },
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "\u2014",
+      "description": "Content rendered inside the bordered container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

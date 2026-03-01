@@ -18,12 +18,14 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "npx shadcn@latest add @aceternity/keyboard",
-  "install_command": "npx shadcn@latest add @aceternity/keyboard-demo",
+  "code_snippet": "\"use client\";\nimport React, {\n  createContext,\n  useContext,\n  useEffect,\n  useRef,\n  useState,\n  useCallback,\n} from \"react\";\nimport { motion, AnimatePresence } from \"motion/react\";\nimport { cn } from \"@/lib/utils\";\nimport {\n  IconBrightnessDown,\n  IconBrightnessUp,\n  IconCaretRightFilled,\n  IconCaretUpFilled,\n  IconChevronUp,\n  IconMicrophone,\n  IconMoon,\n  IconPlayerSkipForward,\n  IconPlayerTrackNext,\n  IconPlayerTrackPrev,\n  IconTable,\n  IconVolume,\n  IconVolume2,\n  IconVolume3,\n  IconSearch,\n  IconWorld,\n  IconCommand,\n  IconCaretLeftFilled,\n  IconCaretDownFilled,\n} from \"@tabler/icons-react\";\n \n// Sound sprite definitions from config.json [startMs, durationMs]\n// Key down sounds - half duration for a snappy press sound\nconst SOUND_DEFINES_DOWN: Record<string, [number, number]> = {\n  Escape: [2894, 113],\n  F1: [3610, 98],\n  F2: [4210, 90],\n  F3: [4758, 90],\n  F4: [5250, 100],\n  F5: [5831, 105],\n  F6: [6396, 105],\n  F7: [6900, 105],\n  F8: [7443, 111],\n  F9: [7955, 91],\n  F10: [8504, 105],\n  F11: [9046, 94],\n  F12: [9582, 96],\n  Backquote: [12476, 100],\n  Digit1: [12946, 96],\n  Digit2: [13470, 95],\n  Digit3: [13963, 100],\n  Digit4: [14481, 102],\n  Digit5: [14994, 94],\n  Digit6: [15505, 109],\n  Digit7: [15990, 97],\n  Digit8: [16529, 92],\n  Digit9: [17012, 103],\n  Digit0: [17550, 87],\n  Minus: [18052, 93],\n  Equal: [18553, 89],\n  Backspace: [19065, 110],\n  Tab: [21734, 119],\n  KeyQ: [22245, 95],\n  KeyW: [22790, 89],\n  KeyE: [23317, 83],\n  KeyR: [23817, 92],\n  KeyT: [24297, 92],\n  KeyY: [24811, 93],\n  KeyU: [25313, 95],\n  KeyI: [25795, 91],\n  KeyO: [26309, 84],\n  KeyP: [26804, 83],\n  BracketLeft: [27330, 85],\n  BracketRight: [27883, 99],\n  Backslash: [28393, 100],\n  CapsLock: [31011, 126],\n  KeyA: [31542, 85],\n  KeyS: [32031, 88],\n  KeyD: [32492, 85],\n  KeyF: [32973, 87],\n  KeyG: [33453, 94],\n  KeyH: [33986, 93],\n  KeyJ: [34425, 88],\n  KeyK: [34932, 90],\n  KeyL: [35410, 95],\n  Semicolon: [35914, 95],\n  Quote: [36428, 87],\n  Enter: [36902, 117],\n  ShiftLeft: [38136, 133],\n  KeyZ: [38694, 80],\n  KeyX: [39148, 76],\n  KeyC: [39632, 95],\n  KeyV: [40136, 94],\n  KeyB: [40621, 107],\n  KeyN: [41103, 90],\n  KeyM: [41610, 93],\n  Comma: [42110, 92],\n  Period: [42594, 90],\n// ...",
+  "install_command": "npx shadcn@latest add @aceternity/keyboard",
   "use_cases": [
     "Visual accents",
     "Hero sections",
     "Background effects"
   ],
-  "free": true
+  "free": true,
+  "usage_example": "\"use client\";\nimport React from \"react\";\nimport { Keyboard } from \"@/components/ui/keyboard\";\n \nexport function KeyboardDemo() {\n  return (\n    <div className=\"flex min-h-96 w-full items-center justify-center py-10 md:min-h-180\">\n      <Keyboard enableSound />\n    </div>\n  );\n}",
+  "full_source_available": true
 }

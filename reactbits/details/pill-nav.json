@@ -1,0 +1,94 @@
+{
+  "name": "Pill Nav",
+  "slug": "pill-nav",
+  "url": "https://reactbits.dev/components/pill-nav",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "logo",
+      "type": "string",
+      "default": "-",
+      "description": "URL for the logo image"
+    },
+    {
+      "name": "logoAlt",
+      "type": "string",
+      "default": "Logo",
+      "description": "Alt text for the logo image"
+    },
+    {
+      "name": "items",
+      "type": "PillNavItem\\[\\]",
+      "default": "-",
+      "description": "Array of navigation items with label, href, and optional ariaLabel"
+    },
+    {
+      "name": "activeHref",
+      "type": "string",
+      "default": "undefined",
+      "description": "The href of the currently active navigation item"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS classes for the navigation container"
+    },
+    {
+      "name": "ease",
+      "type": "string",
+      "default": "power3.easeOut",
+      "description": "GSAP easing function for animations"
+    },
+    {
+      "name": "baseColor",
+      "type": "string",
+      "default": "#fff",
+      "description": "Base background color for the navigation"
+    },
+    {
+      "name": "pillColor",
+      "type": "string",
+      "default": "#060010",
+      "description": "Background color for navigation pills"
+    },
+    {
+      "name": "hoveredPillTextColor",
+      "type": "string",
+      "default": "#060010",
+      "description": "Text color when hovering over pills"
+    },
+    {
+      "name": "pillTextColor",
+      "type": "string",
+      "default": "baseColor",
+      "description": "Text color for navigation pills"
+    },
+    {
+      "name": "onMobileMenuClick",
+      "type": "() =\\> void",
+      "default": "undefined",
+      "description": "Callback function triggered when mobile menu button is clicked"
+    },
+    {
+      "name": "initialLoadAnimation",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable initial load animation for logo scale and nav items reveal"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

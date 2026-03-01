@@ -1,0 +1,58 @@
+{
+  "name": "Liquid Chrome",
+  "slug": "liquid-chrome",
+  "url": "https://reactbits.dev/backgrounds/liquid-chrome",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "baseColor",
+      "type": "RGB array (number\\[3\\])",
+      "default": "\\[0.1, 0.1, 0.1\\]",
+      "description": "Base color of the component. Specify as an RGB array."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "1.0",
+      "description": "Animation speed multiplier."
+    },
+    {
+      "name": "amplitude",
+      "type": "number",
+      "default": "0.6",
+      "description": "Amplitude of the distortion."
+    },
+    {
+      "name": "frequencyX",
+      "type": "number",
+      "default": "2.5",
+      "description": "Frequency modifier for the x distortion."
+    },
+    {
+      "name": "frequencyY",
+      "type": "number",
+      "default": "1.5",
+      "description": "Frequency modifier for the y distortion."
+    },
+    {
+      "name": "interactive",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable mouse/touch interaction."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

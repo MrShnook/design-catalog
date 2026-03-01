@@ -1,0 +1,81 @@
+{
+  "name": "Reflective Card",
+  "slug": "reflective-card",
+  "url": "https://reactbits.dev/components/reflective-card",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "props": [
+    {
+      "name": "blurStrength",
+      "type": "number",
+      "default": "12",
+      "description": "The intensity of the blur effect (0-20px)"
+    },
+    {
+      "name": "metalness",
+      "type": "number",
+      "default": "1",
+      "description": "The opacity of the metallic sheen (0-1)"
+    },
+    {
+      "name": "roughness",
+      "type": "number",
+      "default": "0.4",
+      "description": "The opacity of the noise texture (0-1)"
+    },
+    {
+      "name": "displacementStrength",
+      "type": "number",
+      "default": "20",
+      "description": "Strength of the displacement (how much it warps)"
+    },
+    {
+      "name": "noiseScale",
+      "type": "number",
+      "default": "1",
+      "description": "Scale of the noise texture (size of the ripples)"
+    },
+    {
+      "name": "specularConstant",
+      "type": "number",
+      "default": "1.2",
+      "description": "Specular constant for the lighting (shininess)"
+    },
+    {
+      "name": "grayscale",
+      "type": "number",
+      "default": "1",
+      "description": "Grayscale intensity (0-1)"
+    },
+    {
+      "name": "glassDistortion",
+      "type": "number",
+      "default": "0",
+      "description": "Strength of the glass edge distortion"
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "white",
+      "description": "The base text color"
+    },
+    {
+      "name": "overlayColor",
+      "type": "string",
+      "default": "rgba(255, 255, 255, 0.1)",
+      "description": "The color of the overlay tint"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

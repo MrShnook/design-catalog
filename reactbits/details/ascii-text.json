@@ -1,0 +1,64 @@
+{
+  "name": "ASCII Text",
+  "slug": "ascii-text",
+  "url": "https://reactbits.dev/text-animations/ascii-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "default": "\"Hello World!\"",
+      "description": "The text displayed on the plane in the ASCII scene."
+    },
+    {
+      "name": "enableWaves",
+      "type": "boolean",
+      "default": "true",
+      "description": "If false, disables the wavy text animation."
+    },
+    {
+      "name": "asciiFontSize",
+      "type": "number",
+      "default": "12",
+      "description": "Size of the ASCII glyphs in the overlay."
+    },
+    {
+      "name": "textFontSize",
+      "type": "number",
+      "default": "200",
+      "description": "Pixel size for the text that's drawn onto the plane texture."
+    },
+    {
+      "name": "planeBaseHeight",
+      "type": "number",
+      "default": "8",
+      "description": "How tall the plane is in 3D. The plane width is auto-based on text aspect."
+    },
+    {
+      "name": "textColor",
+      "type": "string",
+      "default": "#fdf9f3",
+      "description": "The color of the text drawn onto the plane texture."
+    },
+    {
+      "name": "strokeColor",
+      "type": "string",
+      "default": "N/A",
+      "description": "Not used here, but you could add it if you want an outline effect."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Scroll Velocity",
+  "slug": "scroll-velocity",
+  "url": "https://reactbits.dev/text-animations/scroll-velocity",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "scrollContainerRef",
+      "type": "React.RefObject<HTMLElement>",
+      "default": "undefined",
+      "description": "Optional ref for a custom scroll container to track scroll position."
+    },
+    {
+      "name": "texts",
+      "type": "string\\[\\]",
+      "default": "\\[\\]",
+      "description": "Array of strings to display as scrolling text."
+    },
+    {
+      "name": "velocity",
+      "type": "number",
+      "default": "100",
+      "description": "Base velocity for scrolling; sign is flipped for odd indexed texts."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "CSS class applied to each text copy (span)."
+    },
+    {
+      "name": "damping",
+      "type": "number",
+      "default": "50",
+      "description": "Damping value for the spring animation."
+    },
+    {
+      "name": "stiffness",
+      "type": "number",
+      "default": "400",
+      "description": "Stiffness value for the spring animation."
+    },
+    {
+      "name": "numCopies",
+      "type": "number",
+      "default": "6",
+      "description": "Number of copies of the text rendered for a continuous scrolling effect."
+    },
+    {
+      "name": "velocityMapping",
+      "type": "{ input: number\\[\\]; output: number\\[\\] }",
+      "default": "{ input: \\[0, 1000\\], output: \\[0, 5\\] }",
+      "description": "Mapping from scroll velocity to a movement multiplier for dynamic scrolling."
+    },
+    {
+      "name": "parallaxClassName",
+      "type": "string",
+      "default": "\"parallax\"",
+      "description": "CSS class for the parallax container."
+    },
+    {
+      "name": "scrollerClassName",
+      "type": "string",
+      "default": "\"scroller\"",
+      "description": "CSS class for the scroller container."
+    },
+    {
+      "name": "parallaxStyle",
+      "type": "React.CSSProperties",
+      "default": "undefined",
+      "description": "Inline styles for the parallax container."
+    },
+    {
+      "name": "scrollerStyle",
+      "type": "React.CSSProperties",
+      "default": "undefined",
+      "description": "Inline styles for the scroller container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

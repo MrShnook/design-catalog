@@ -1,0 +1,124 @@
+{
+  "name": "Ghost Cursor",
+  "slug": "ghost-cursor",
+  "url": "https://reactbits.dev/animations/ghost-cursor",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS class names for the container."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Inline styles for the container element."
+    },
+    {
+      "name": "trailLength",
+      "type": "number",
+      "default": "50",
+      "description": "Number of points stored for the cursor trail (longer = longer smear)."
+    },
+    {
+      "name": "inertia",
+      "type": "number",
+      "default": "0.5",
+      "description": "Velocity retention when the pointer stops. Higher values make the cursor glide longer."
+    },
+    {
+      "name": "grainIntensity",
+      "type": "number",
+      "default": "0.05",
+      "description": "Strength of the film grain post-processing pass."
+    },
+    {
+      "name": "bloomStrength",
+      "type": "number",
+      "default": "0.1",
+      "description": "UnrealBloom effect strength."
+    },
+    {
+      "name": "bloomRadius",
+      "type": "number",
+      "default": "1.0",
+      "description": "UnrealBloom radius controlling spread of glow."
+    },
+    {
+      "name": "bloomThreshold",
+      "type": "number",
+      "default": "0.025",
+      "description": "UnrealBloom threshold; lower includes more pixels in bloom."
+    },
+    {
+      "name": "brightness",
+      "type": "number",
+      "default": "1",
+      "description": "Final brightness multiplier applied to the effect color."
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "'#B19EEF'",
+      "description": "Base color of the ghost cursor effect."
+    },
+    {
+      "name": "mixBlendMode",
+      "type": "CSS mix-blend-mode",
+      "default": "'screen'",
+      "description": "Blend mode used when compositing with page content."
+    },
+    {
+      "name": "edgeIntensity",
+      "type": "number",
+      "default": "0",
+      "description": "Darkening near edges of the canvas. 0 = none, 1 = strongest."
+    },
+    {
+      "name": "maxDevicePixelRatio",
+      "type": "number",
+      "default": "0.5",
+      "description": "Upper cap for devicePixelRatio to control render cost on high-DPR displays."
+    },
+    {
+      "name": "targetPixels",
+      "type": "number",
+      "default": "auto (~1.3e6 desktop, ~0.9e6 touch)",
+      "description": "Pixel budget. Resolution is dynamically scaled to keep total pixel count under this budget."
+    },
+    {
+      "name": "fadeDelayMs",
+      "type": "number",
+      "default": "auto (1000 desktop, 500 touch)",
+      "description": "Idle delay before the trail starts to fade after pointer leaves/stops."
+    },
+    {
+      "name": "fadeDurationMs",
+      "type": "number",
+      "default": "auto (1500 desktop, 1000 touch)",
+      "description": "Duration of the trail fade-out once the delay has elapsed."
+    },
+    {
+      "name": "zIndex",
+      "type": "number",
+      "default": "10",
+      "description": "z-index applied to the canvas for layering above/below content."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

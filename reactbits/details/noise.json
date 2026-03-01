@@ -1,0 +1,49 @@
+{
+  "name": "Noise",
+  "slug": "noise",
+  "url": "https://reactbits.dev/animations/noise",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "patternSize",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Defines the size of the grain pattern."
+    },
+    {
+      "name": "patternScaleX",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Scaling factor for the X-axis of the grain pattern."
+    },
+    {
+      "name": "patternScaleY",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Scaling factor for the Y-axis of the grain pattern."
+    },
+    {
+      "name": "patternRefreshInterval",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Number of frames before the grain pattern refreshes."
+    },
+    {
+      "name": "patternAlpha",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Opacity of the grain pattern (0-255)."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Splash Cursor",
+  "slug": "splash-cursor",
+  "url": "https://reactbits.dev/animations/splash-cursor",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "SIM\\_RESOLUTION",
+      "type": "number",
+      "default": "128",
+      "description": "Fluid simulation resolution for velocity fields."
+    },
+    {
+      "name": "DYE\\_RESOLUTION",
+      "type": "number",
+      "default": "1440",
+      "description": "Resolution of the color/dye texture."
+    },
+    {
+      "name": "CAPTURE\\_RESOLUTION",
+      "type": "number",
+      "default": "512",
+      "description": "Resolution used for certain capture operations (rarely changed)."
+    },
+    {
+      "name": "DENSITY\\_DISSIPATION",
+      "type": "number",
+      "default": "3.5",
+      "description": "Rate at which color/density dissipates over time."
+    },
+    {
+      "name": "VELOCITY\\_DISSIPATION",
+      "type": "number",
+      "default": "2",
+      "description": "Rate at which velocity dissipates over time."
+    },
+    {
+      "name": "PRESSURE",
+      "type": "number",
+      "default": "0.1",
+      "description": "Base pressure for the fluid simulation."
+    },
+    {
+      "name": "PRESSURE\\_ITERATIONS",
+      "type": "number",
+      "default": "20",
+      "description": "Number of Jacobi iterations used for the pressure solver."
+    },
+    {
+      "name": "CURL",
+      "type": "number",
+      "default": "3",
+      "description": "Amount of vorticity/curl to apply for swirling effects."
+    },
+    {
+      "name": "SPLAT\\_RADIUS",
+      "type": "number",
+      "default": "0.2",
+      "description": "Radius of the 'splat' effect when user interacts."
+    },
+    {
+      "name": "SPLAT\\_FORCE",
+      "type": "number",
+      "default": "6000",
+      "description": "Force of the fluid 'splat' on each interaction."
+    },
+    {
+      "name": "SHADING",
+      "type": "boolean",
+      "default": "true",
+      "description": "Toggles simple lighting/shading on the fluid."
+    },
+    {
+      "name": "COLOR\\_UPDATE\\_SPEED",
+      "type": "number",
+      "default": "10",
+      "description": "Frequency at which pointer colors are re-randomized."
+    },
+    {
+      "name": "BACK\\_COLOR",
+      "type": "object",
+      "default": "{ r: 0.5, g: 0, b: 0 }",
+      "description": "Base background color for the fluid. Not always used if TRANSPARENT is true."
+    },
+    {
+      "name": "TRANSPARENT",
+      "type": "boolean",
+      "default": "true",
+      "description": "Determines if the canvas background should be rendered with alpha."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

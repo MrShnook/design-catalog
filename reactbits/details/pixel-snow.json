@@ -1,0 +1,106 @@
+{
+  "name": "Pixel Snow",
+  "slug": "pixel-snow",
+  "url": "https://reactbits.dev/backgrounds/pixel-snow",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "default": "\"#ffffff\"",
+      "description": "Color of the snowflakes (hex or CSS color)"
+    },
+    {
+      "name": "flakeSize",
+      "type": "number",
+      "default": "0.01",
+      "description": "Size of snowflakes in scene units"
+    },
+    {
+      "name": "minFlakeSize",
+      "type": "number",
+      "default": "1.25",
+      "description": "Minimum flake size in pixels on screen"
+    },
+    {
+      "name": "pixelResolution",
+      "type": "number",
+      "default": "200",
+      "description": "Pixel resolution - lower values create larger pixels for a more retro look"
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "1.25",
+      "description": "Animation speed multiplier"
+    },
+    {
+      "name": "depthFade",
+      "type": "number",
+      "default": "8",
+      "description": "Depth fade intensity - higher values make distant flakes fade faster"
+    },
+    {
+      "name": "farPlane",
+      "type": "number",
+      "default": "20",
+      "description": "Far plane distance for rendering - higher values show more distant flakes"
+    },
+    {
+      "name": "brightness",
+      "type": "number",
+      "default": "1",
+      "description": "Overall brightness multiplier"
+    },
+    {
+      "name": "gamma",
+      "type": "number",
+      "default": "0.4545",
+      "description": "Gamma correction value for final color output"
+    },
+    {
+      "name": "density",
+      "type": "number",
+      "default": "0.3",
+      "description": "Probability of snowflakes appearing (0-1) - lower values = fewer flakes"
+    },
+    {
+      "name": "variant",
+      "type": "\"square\" \\",
+      "default": "\"round\" \\",
+      "description": "\"snowflake\""
+    },
+    {
+      "name": "direction",
+      "type": "number",
+      "default": "125",
+      "description": "Wind direction angle in degrees (0-360)"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional CSS class name"
+    },
+    {
+      "name": "style",
+      "type": "object",
+      "default": "{}",
+      "description": "Additional inline styles"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

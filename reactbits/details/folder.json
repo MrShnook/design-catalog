@@ -1,0 +1,43 @@
+{
+  "name": "Folder",
+  "slug": "folder",
+  "url": "https://reactbits.dev/components/folder",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "default": "#5227FF",
+      "description": "The primary color of the folder."
+    },
+    {
+      "name": "size",
+      "type": "number",
+      "default": "1",
+      "description": "Scale factor for the folder size."
+    },
+    {
+      "name": "items",
+      "type": "React.ReactNode\\[\\]",
+      "default": "\\[\\]",
+      "description": "An array of up to 3 items rendered as papers in the folder."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Additional CSS classes for the folder container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

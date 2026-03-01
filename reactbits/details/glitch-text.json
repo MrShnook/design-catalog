@@ -1,0 +1,49 @@
+{
+  "name": "Glitch Text",
+  "slug": "glitch-text",
+  "url": "https://reactbits.dev/text-animations/glitch-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "string",
+      "default": "\u2014",
+      "description": "The text content that will display the glitch effect."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "0.5",
+      "description": "Multiplier for the animation speed. Higher values slow down the glitch effect."
+    },
+    {
+      "name": "enableShadows",
+      "type": "boolean",
+      "default": "true",
+      "description": "Toggle the colored text shadows on the glitch pseudo-elements."
+    },
+    {
+      "name": "enableOnHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, the glitch animation is only activated on hover."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Additional custom classes to apply to the component."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

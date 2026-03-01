@@ -1,0 +1,100 @@
+{
+  "name": "Color Bends",
+  "slug": "color-bends",
+  "url": "https://reactbits.dev/backgrounds/color-bends",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "rotation",
+      "type": "number",
+      "default": "45",
+      "description": "Base rotation angle in degrees."
+    },
+    {
+      "name": "autoRotate",
+      "type": "number",
+      "default": "0",
+      "description": "Automatic rotation speed in degrees/sec."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "0.2",
+      "description": "Animation time scale of the shader."
+    },
+    {
+      "name": "colors",
+      "type": "string\\[\\]",
+      "default": "\\[\\]",
+      "description": "Palette of up to 8 hex colors used to blend the bends."
+    },
+    {
+      "name": "transparent",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether the background is transparent (uses alpha)."
+    },
+    {
+      "name": "scale",
+      "type": "number",
+      "default": "1",
+      "description": "Zoom factor of the pattern."
+    },
+    {
+      "name": "frequency",
+      "type": "number",
+      "default": "1",
+      "description": "Wave frequency used in the pattern."
+    },
+    {
+      "name": "warpStrength",
+      "type": "number",
+      "default": "1",
+      "description": "Amount of warping/distortion applied to waves."
+    },
+    {
+      "name": "mouseInfluence",
+      "type": "number",
+      "default": "1",
+      "description": "How strongly the waves react to pointer movement."
+    },
+    {
+      "name": "parallax",
+      "type": "number",
+      "default": "0.5",
+      "description": "Parallax factor shifting content with pointer."
+    },
+    {
+      "name": "noise",
+      "type": "number",
+      "default": "0.1",
+      "description": "Adds subtle grain. 0 disables noise."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS classes for the container."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Inline styles for the container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

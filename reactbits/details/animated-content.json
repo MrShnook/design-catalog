@@ -1,0 +1,130 @@
+{
+  "name": "Animated Content",
+  "slug": "animated-content",
+  "url": "https://reactbits.dev/animations/animated-content",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "\u2014",
+      "description": "The content to be animated."
+    },
+    {
+      "name": "container",
+      "type": "string \\",
+      "default": "HTMLElement",
+      "description": "null"
+    },
+    {
+      "name": "distance",
+      "type": "number",
+      "default": "100",
+      "description": "Distance (in pixels) the component moves during animation."
+    },
+    {
+      "name": "direction",
+      "type": "string",
+      "default": "\"vertical\"",
+      "description": "Animation direction. Can be \"vertical\" or \"horizontal\"."
+    },
+    {
+      "name": "reverse",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether the animation moves in the reverse direction."
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "default": "0.8",
+      "description": "Duration of the animation in seconds."
+    },
+    {
+      "name": "ease",
+      "type": "string",
+      "default": "\"power3.out\"",
+      "description": "GSAP easing function for the animation."
+    },
+    {
+      "name": "initialOpacity",
+      "type": "number",
+      "default": "0",
+      "description": "Initial opacity before animation begins."
+    },
+    {
+      "name": "animateOpacity",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether to animate opacity during transition."
+    },
+    {
+      "name": "scale",
+      "type": "number",
+      "default": "1",
+      "description": "Initial scale of the component."
+    },
+    {
+      "name": "threshold",
+      "type": "number",
+      "default": "0.1",
+      "description": "Intersection threshold to trigger animation (0-1)."
+    },
+    {
+      "name": "delay",
+      "type": "number",
+      "default": "0",
+      "description": "Delay before animation starts (in seconds)."
+    },
+    {
+      "name": "onComplete",
+      "type": "function",
+      "default": "undefined",
+      "description": "Callback function called when animation completes."
+    },
+    {
+      "name": "dissappearAfter",
+      "type": "number",
+      "default": "0",
+      "description": "Time in seconds after which the content will disappear. Disabled if set to 0."
+    },
+    {
+      "name": "disappearDuration",
+      "type": "number",
+      "default": "0.5",
+      "description": "Duration of the disappearance animation in seconds."
+    },
+    {
+      "name": "disappearEase",
+      "type": "string",
+      "default": "\"power3.in\"",
+      "description": "GSAP easing function for the disappearance animation."
+    },
+    {
+      "name": "onDisappearanceComplete",
+      "type": "function",
+      "default": "undefined",
+      "description": "Callback function called when disappearance animation completes."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS classes to apply to the animated component."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

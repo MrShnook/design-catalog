@@ -1,0 +1,130 @@
+{
+  "name": "Laser Flow",
+  "slug": "laser-flow",
+  "url": "https://reactbits.dev/animations/laser-flow",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "horizontalBeamOffset",
+      "type": "number",
+      "default": "0.1",
+      "description": "Horizontal offset of the beam (0\u20131 of canvas width)."
+    },
+    {
+      "name": "verticalBeamOffset",
+      "type": "number",
+      "default": "0.0",
+      "description": "Vertical offset of the beam (0\u20131 of canvas height)."
+    },
+    {
+      "name": "horizontalSizing",
+      "type": "number",
+      "default": "0.5",
+      "description": "Horizontal sizing factor of the beam footprint."
+    },
+    {
+      "name": "verticalSizing",
+      "type": "number",
+      "default": "2.0",
+      "description": "Vertical sizing factor of the beam footprint."
+    },
+    {
+      "name": "wispDensity",
+      "type": "number",
+      "default": "1",
+      "description": "Density of micro-streak wisps."
+    },
+    {
+      "name": "wispSpeed",
+      "type": "number",
+      "default": "15.0",
+      "description": "Speed of wisp motion."
+    },
+    {
+      "name": "wispIntensity",
+      "type": "number",
+      "default": "5.0",
+      "description": "Brightness of wisps."
+    },
+    {
+      "name": "flowSpeed",
+      "type": "number",
+      "default": "0.35",
+      "description": "Speed of the beam\u2019s flow modulation."
+    },
+    {
+      "name": "flowStrength",
+      "type": "number",
+      "default": "0.25",
+      "description": "Strength of the beam\u2019s flow modulation."
+    },
+    {
+      "name": "fogIntensity",
+      "type": "number",
+      "default": "0.45",
+      "description": "Overall volumetric fog intensity."
+    },
+    {
+      "name": "fogScale",
+      "type": "number",
+      "default": "0.3",
+      "description": "Spatial scale for the fog noise."
+    },
+    {
+      "name": "fogFallSpeed",
+      "type": "number",
+      "default": "0.6",
+      "description": "Drift speed for the fog field."
+    },
+    {
+      "name": "mouseTiltStrength",
+      "type": "number",
+      "default": "0.01",
+      "description": "How much mouse x tilts the fog volume."
+    },
+    {
+      "name": "mouseSmoothTime",
+      "type": "number",
+      "default": "0.0",
+      "description": "Pointer smoothing time (seconds)."
+    },
+    {
+      "name": "decay",
+      "type": "number",
+      "default": "1.1",
+      "description": "Beam decay shaping for sampling envelope."
+    },
+    {
+      "name": "falloffStart",
+      "type": "number",
+      "default": "1.2",
+      "description": "Falloff start radius used in inverse-square blending."
+    },
+    {
+      "name": "dpr",
+      "type": "number",
+      "default": "auto",
+      "description": "Device pixel ratio override (defaults to window.devicePixelRatio)."
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "#FF79C6",
+      "description": "Beam color (hex)."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

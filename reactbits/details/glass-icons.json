@@ -1,0 +1,31 @@
+{
+  "name": "Glass Icons",
+  "slug": "glass-icons",
+  "url": "https://reactbits.dev/components/glass-icons",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "GlassIconsItem\\[\\]",
+      "default": "\\[\\]",
+      "description": "Array of items to render. Each item should include: an icon (React.ReactElement), a color (string), a label (string), and an optional customClass (string)."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Optional additional CSS class(es) to be added to the container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

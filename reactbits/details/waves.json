@@ -1,0 +1,97 @@
+{
+  "name": "Waves",
+  "slug": "waves",
+  "url": "https://reactbits.dev/backgrounds/waves",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "lineColor",
+      "type": "string",
+      "default": "black",
+      "description": "Defines the color of the wave lines drawn on the canvas."
+    },
+    {
+      "name": "backgroundColor",
+      "type": "string",
+      "default": "transparent",
+      "description": "Sets the background color of the waves container."
+    },
+    {
+      "name": "waveSpeedX",
+      "type": "number",
+      "default": "0.0125",
+      "description": "Horizontal speed factor for the wave animation."
+    },
+    {
+      "name": "waveSpeedY",
+      "type": "number",
+      "default": "0.005",
+      "description": "Vertical speed factor for the wave animation."
+    },
+    {
+      "name": "waveAmpX",
+      "type": "number",
+      "default": "32",
+      "description": "Horizontal amplitude of each wave."
+    },
+    {
+      "name": "waveAmpY",
+      "type": "number",
+      "default": "16",
+      "description": "Vertical amplitude of each wave."
+    },
+    {
+      "name": "xGap",
+      "type": "number",
+      "default": "10",
+      "description": "Horizontal gap between individual wave lines."
+    },
+    {
+      "name": "yGap",
+      "type": "number",
+      "default": "32",
+      "description": "Vertical gap between points on each wave line."
+    },
+    {
+      "name": "friction",
+      "type": "number",
+      "default": "0.925",
+      "description": "Controls how quickly the cursor effect slows down."
+    },
+    {
+      "name": "tension",
+      "type": "number",
+      "default": "0.005",
+      "description": "Determines the 'springiness' of the cursor effect on points."
+    },
+    {
+      "name": "maxCursorMove",
+      "type": "number",
+      "default": "100",
+      "description": "Limits how far each point can shift due to cursor movement."
+    },
+    {
+      "name": "style",
+      "type": "object",
+      "default": "{}",
+      "description": "Inline styles applied to the container element."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Custom class name(s) applied to the container element."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

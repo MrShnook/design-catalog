@@ -1,0 +1,53 @@
+{
+  "name": "Silk",
+  "slug": "silk",
+  "url": "https://reactbits.dev/backgrounds/silk",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js",
+    "React Three Fiber"
+  ],
+  "dependencies": [
+    "three@react-three/fiber"
+  ],
+  "props": [
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "5",
+      "description": "Controls the animation speed of the silk effect."
+    },
+    {
+      "name": "scale",
+      "type": "number",
+      "default": "1",
+      "description": "Controls the scale of the silk pattern."
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "default": "'#7B7481'",
+      "description": "Hex color code for the silk pattern."
+    },
+    {
+      "name": "noiseIntensity",
+      "type": "number",
+      "default": "1.5",
+      "description": "Controls the intensity of the noise effect."
+    },
+    {
+      "name": "rotation",
+      "type": "number",
+      "default": "0",
+      "description": "Controls the rotation of the silk pattern (in radians)."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

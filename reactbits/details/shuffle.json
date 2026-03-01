@@ -1,0 +1,160 @@
+{
+  "name": "Shuffle",
+  "slug": "shuffle",
+  "url": "https://reactbits.dev/text-animations/shuffle",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap@gsap/react"
+  ],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "default": "\"\"",
+      "description": "The text content to shuffle."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Optional CSS class for the wrapper element."
+    },
+    {
+      "name": "style",
+      "type": "object",
+      "default": "{}",
+      "description": "Inline styles applied to the wrapper element."
+    },
+    {
+      "name": "shuffleDirection",
+      "type": "\"left\" \\",
+      "default": "\"right\" \\",
+      "description": "\"up\" \\"
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "default": "0.35",
+      "description": "Duration (s) of the strip slide per letter."
+    },
+    {
+      "name": "maxDelay",
+      "type": "number",
+      "default": "0",
+      "description": "Max random delay per strip when animationMode = \"random\"."
+    },
+    {
+      "name": "ease",
+      "type": "string \\",
+      "default": "Function",
+      "description": "\"power3.out\""
+    },
+    {
+      "name": "threshold",
+      "type": "number",
+      "default": "0.1",
+      "description": "Portion of the element that must enter view before starting."
+    },
+    {
+      "name": "rootMargin",
+      "type": "string",
+      "default": "\"-100px\"",
+      "description": "ScrollTrigger start offset (px, %, etc.)."
+    },
+    {
+      "name": "tag",
+      "type": "\"h1\" \\",
+      "default": "\"h2\" \\",
+      "description": "\"h3\" \\"
+    },
+    {
+      "name": "textAlign",
+      "type": "CSS text-align",
+      "default": "\"center\"",
+      "description": "Text alignment applied via inline style."
+    },
+    {
+      "name": "onShuffleComplete",
+      "type": "() =\\> void",
+      "default": "undefined",
+      "description": "Called after a full run completes (and on each loop repeat)."
+    },
+    {
+      "name": "shuffleTimes",
+      "type": "number",
+      "default": "1",
+      "description": "How many interim scrambled glyphs to scroll past before the final char."
+    },
+    {
+      "name": "animationMode",
+      "type": "\"evenodd\" \\",
+      "default": "\"random\"",
+      "description": "\"evenodd\""
+    },
+    {
+      "name": "loop",
+      "type": "boolean",
+      "default": "false",
+      "description": "Repeat the shuffle indefinitely."
+    },
+    {
+      "name": "loopDelay",
+      "type": "number",
+      "default": "0",
+      "description": "Delay (s) between loop repeats."
+    },
+    {
+      "name": "stagger",
+      "type": "number",
+      "default": "0.03",
+      "description": "Stagger (s) for strips in \"evenodd\" mode."
+    },
+    {
+      "name": "scrambleCharset",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Characters to use for interim scrambles; empty keeps original copies."
+    },
+    {
+      "name": "colorFrom",
+      "type": "string",
+      "default": "undefined",
+      "description": "Optional starting text color while shuffling."
+    },
+    {
+      "name": "colorTo",
+      "type": "string",
+      "default": "undefined",
+      "description": "Optional final text color to tween to."
+    },
+    {
+      "name": "triggerOnce",
+      "type": "boolean",
+      "default": "true",
+      "description": "Auto-run only on first scroll into view."
+    },
+    {
+      "name": "respectReducedMotion",
+      "type": "boolean",
+      "default": "true",
+      "description": "Skip animation if user prefers reduced motion."
+    },
+    {
+      "name": "triggerOnHover",
+      "type": "boolean",
+      "default": "true",
+      "description": "Allow re-playing the animation on hover after it completes."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

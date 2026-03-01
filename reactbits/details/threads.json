@@ -1,0 +1,46 @@
+{
+  "name": "Threads",
+  "slug": "threads",
+  "url": "https://reactbits.dev/backgrounds/threads",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "color",
+      "type": "\\[number, number, number\\]",
+      "default": "\\[1, 1, 1\\]",
+      "description": "Customizes the color of the lines (RGB)."
+    },
+    {
+      "name": "amplitude",
+      "type": "number",
+      "default": "1",
+      "description": "Adjusts the intensity of the wave effect on the lines."
+    },
+    {
+      "name": "distance",
+      "type": "number",
+      "default": "0",
+      "description": "Controls the spacing between the lines. A value of 0 means no offset."
+    },
+    {
+      "name": "enableMouseInteraction",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enables smooth mouse hover effects that modulate the line's movement and amplitude."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

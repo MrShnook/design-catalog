@@ -1,0 +1,103 @@
+{
+  "name": "Text Pressure",
+  "slug": "text-pressure",
+  "url": "https://reactbits.dev/text-animations/text-pressure",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "default": "\"Hello!\"",
+      "description": "Text content that will be displayed and animated."
+    },
+    {
+      "name": "fontFamily",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Name of the variable font family."
+    },
+    {
+      "name": "fontUrl",
+      "type": "string",
+      "default": "URL to a .woff2 or .ttf file",
+      "description": "URL for the variable font file (needed)"
+    },
+    {
+      "name": "flex",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether the characters are spaced using flex layout."
+    },
+    {
+      "name": "scale",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, vertically scales the text to fill its container height."
+    },
+    {
+      "name": "alpha",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, applies an opacity effect based on cursor distance."
+    },
+    {
+      "name": "stroke",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, adds a stroke effect around characters."
+    },
+    {
+      "name": "width",
+      "type": "boolean",
+      "default": "true",
+      "description": "If true, varies the variable-font \"width\" axis."
+    },
+    {
+      "name": "weight",
+      "type": "boolean",
+      "default": "true",
+      "description": "If true, varies the variable-font \"weight\" axis."
+    },
+    {
+      "name": "italic",
+      "type": "boolean",
+      "default": "true",
+      "description": "If true, varies the variable-font \"italics\" axis."
+    },
+    {
+      "name": "textColor",
+      "type": "string",
+      "default": "true",
+      "description": "The fill color of the text"
+    },
+    {
+      "name": "strokeColor",
+      "type": "string",
+      "default": "#FFFFFF",
+      "description": "The stroke color that will be applied to the text when \"stroke\" is set to true"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "#FF0000",
+      "description": "Additional class for styling the <h1> wrapper."
+    },
+    {
+      "name": "minFontSize",
+      "type": "number",
+      "default": "24",
+      "description": "Sets a minimum font-size to avoid overly tiny text on smaller screens."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Decrypted Text",
+  "slug": "decrypted-text",
+  "url": "https://reactbits.dev/text-animations/decrypted-text",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "default": "\"\"",
+      "description": "The text content to decrypt."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "50",
+      "description": "Time in ms between each iteration."
+    },
+    {
+      "name": "maxIterations",
+      "type": "number",
+      "default": "10",
+      "description": "Max # of random iterations (non-sequential mode)."
+    },
+    {
+      "name": "sequential",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether to reveal one character at a time in sequence."
+    },
+    {
+      "name": "revealDirection",
+      "type": "\"start\" \\",
+      "default": "\"end\" \\",
+      "description": "\"center\""
+    },
+    {
+      "name": "useOriginalCharsOnly",
+      "type": "boolean",
+      "default": "false",
+      "description": "Restrict scrambling to only the characters already in the text."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "CSS class for revealed characters."
+    },
+    {
+      "name": "parentClassName",
+      "type": "string",
+      "default": "\"\"",
+      "description": "CSS class for the main characters container."
+    },
+    {
+      "name": "encryptedClassName",
+      "type": "string",
+      "default": "\"\"",
+      "description": "CSS class for encrypted characters."
+    },
+    {
+      "name": "animateOn",
+      "type": "\"view\" \\",
+      "default": "\"hover\"",
+      "description": "\"hover\""
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

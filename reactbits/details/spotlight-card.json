@@ -1,0 +1,31 @@
+{
+  "name": "Spotlight Card",
+  "slug": "spotlight-card",
+  "url": "https://reactbits.dev/components/spotlight-card",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "spotlightColor",
+      "type": "string",
+      "default": "rgba(255, 255, 255, 0.25)",
+      "description": "Controls the color of the radial gradient used for the spotlight effect."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Allows adding custom classes to the component."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

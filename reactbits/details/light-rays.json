@@ -1,0 +1,100 @@
+{
+  "name": "Light Rays",
+  "slug": "light-rays",
+  "url": "https://reactbits.dev/backgrounds/light-rays",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "raysOrigin",
+      "type": "RaysOrigin",
+      "default": "\"top-center\"",
+      "description": "Origin position of the light rays. Options: 'top-center', 'top-left', 'top-right', 'right', 'left', 'bottom-center', 'bottom-right', 'bottom-left'"
+    },
+    {
+      "name": "raysColor",
+      "type": "string",
+      "default": "\"#ffffff\"",
+      "description": "Color of the light rays in hex format"
+    },
+    {
+      "name": "raysSpeed",
+      "type": "number",
+      "default": "1",
+      "description": "Animation speed of the rays"
+    },
+    {
+      "name": "lightSpread",
+      "type": "number",
+      "default": "0.5",
+      "description": "How wide the light rays spread. Lower values = tighter rays, higher values = wider spread"
+    },
+    {
+      "name": "rayLength",
+      "type": "number",
+      "default": "1.0",
+      "description": "Maximum length/reach of the rays"
+    },
+    {
+      "name": "pulsating",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable pulsing animation effect"
+    },
+    {
+      "name": "fadeDistance",
+      "type": "number",
+      "default": "1.0",
+      "description": "How far rays fade out from origin"
+    },
+    {
+      "name": "saturation",
+      "type": "number",
+      "default": "1.0",
+      "description": "Color saturation level (0-1)"
+    },
+    {
+      "name": "followMouse",
+      "type": "boolean",
+      "default": "false",
+      "description": "Make rays rotate towards the mouse cursor"
+    },
+    {
+      "name": "mouseInfluence",
+      "type": "number",
+      "default": "0.5",
+      "description": "How much mouse affects rays (0-1)"
+    },
+    {
+      "name": "noiseAmount",
+      "type": "number",
+      "default": "0.0",
+      "description": "Add noise/grain to rays (0-1)"
+    },
+    {
+      "name": "distortion",
+      "type": "number",
+      "default": "0.0",
+      "description": "Apply wave distortion to rays"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional CSS classes to apply to the container"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

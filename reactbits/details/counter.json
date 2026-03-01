@@ -1,0 +1,124 @@
+{
+  "name": "Counter",
+  "slug": "counter",
+  "url": "https://reactbits.dev/components/counter",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "value",
+      "type": "number",
+      "default": "N/A (required)",
+      "description": "The numeric value to display in the counter."
+    },
+    {
+      "name": "fontSize",
+      "type": "number",
+      "default": "100",
+      "description": "The base font size used for the counter digits."
+    },
+    {
+      "name": "padding",
+      "type": "number",
+      "default": "0",
+      "description": "Additional padding added to the digit height."
+    },
+    {
+      "name": "places",
+      "type": "number\\[\\]",
+      "default": "\\[100, 10, 1 , \".\" , 0.1\\]",
+      "description": "Defines which digit positions to display. Include whole number and decimal place values (use \".\" for the decimal point). If omitted, place values will be detected automatically."
+    },
+    {
+      "name": "gap",
+      "type": "number",
+      "default": "8",
+      "description": "The gap (in pixels) between each digit."
+    },
+    {
+      "name": "borderRadius",
+      "type": "number",
+      "default": "4",
+      "description": "The border radius (in pixels) for the counter container."
+    },
+    {
+      "name": "horizontalPadding",
+      "type": "number",
+      "default": "8",
+      "description": "The horizontal padding (in pixels) for the counter container."
+    },
+    {
+      "name": "textColor",
+      "type": "string",
+      "default": "'white'",
+      "description": "The text color for the counter digits."
+    },
+    {
+      "name": "fontWeight",
+      "type": "string \\",
+      "default": "number",
+      "description": "'bold'"
+    },
+    {
+      "name": "containerStyle",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Custom inline styles for the outer container."
+    },
+    {
+      "name": "counterStyle",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Custom inline styles for the counter element."
+    },
+    {
+      "name": "digitStyle",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Custom inline styles for each digit container."
+    },
+    {
+      "name": "gradientHeight",
+      "type": "number",
+      "default": "16",
+      "description": "The height (in pixels) of the gradient overlays."
+    },
+    {
+      "name": "gradientFrom",
+      "type": "string",
+      "default": "'black'",
+      "description": "The starting color for the gradient overlays."
+    },
+    {
+      "name": "gradientTo",
+      "type": "string",
+      "default": "'transparent'",
+      "description": "The ending color for the gradient overlays."
+    },
+    {
+      "name": "topGradientStyle",
+      "type": "React.CSSProperties",
+      "default": "undefined",
+      "description": "Custom inline styles for the top gradient overlay."
+    },
+    {
+      "name": "bottomGradientStyle",
+      "type": "React.CSSProperties",
+      "default": "undefined",
+      "description": "Custom inline styles for the bottom gradient overlay."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

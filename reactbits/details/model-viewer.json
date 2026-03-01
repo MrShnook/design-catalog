@@ -1,0 +1,179 @@
+{
+  "name": "Model Viewer",
+  "slug": "model-viewer",
+  "url": "https://reactbits.dev/components/model-viewer",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js",
+    "React Three Fiber"
+  ],
+  "dependencies": [
+    "three@react-three/fiber@react-three/drei"
+  ],
+  "props": [
+    {
+      "name": "url",
+      "type": "string",
+      "default": "-",
+      "description": "URL of the 3D model file (glb/gltf/fbx/obj)"
+    },
+    {
+      "name": "width",
+      "type": "number \\",
+      "default": "string",
+      "description": "400"
+    },
+    {
+      "name": "height",
+      "type": "number \\",
+      "default": "string",
+      "description": "400"
+    },
+    {
+      "name": "modelXOffset",
+      "type": "number",
+      "default": "0",
+      "description": "Horizontal offset of the model"
+    },
+    {
+      "name": "modelYOffset",
+      "type": "number",
+      "default": "0",
+      "description": "Vertical offset of the model"
+    },
+    {
+      "name": "defaultRotationX",
+      "type": "number",
+      "default": "-50",
+      "description": "Initial rotation on the X axis in degrees"
+    },
+    {
+      "name": "defaultRotationY",
+      "type": "number",
+      "default": "20",
+      "description": "Initial rotation on the Y axis in degrees"
+    },
+    {
+      "name": "defaultZoom",
+      "type": "number",
+      "default": "0.5",
+      "description": "Initial zoom distance factor"
+    },
+    {
+      "name": "minZoomDistance",
+      "type": "number",
+      "default": "0.5",
+      "description": "Minimum zoom distance"
+    },
+    {
+      "name": "maxZoomDistance",
+      "type": "number",
+      "default": "10",
+      "description": "Maximum zoom distance"
+    },
+    {
+      "name": "enableMouseParallax",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable mouse-based parallax effect"
+    },
+    {
+      "name": "enableManualRotation",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable manual rotation via drag"
+    },
+    {
+      "name": "enableHoverRotation",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable rotation on hover based on cursor"
+    },
+    {
+      "name": "enableManualZoom",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable manual zoom via mouse wheel or gestures"
+    },
+    {
+      "name": "ambientIntensity",
+      "type": "number",
+      "default": "0.3",
+      "description": "Intensity of ambient light"
+    },
+    {
+      "name": "keyLightIntensity",
+      "type": "number",
+      "default": "1",
+      "description": "Intensity of key light"
+    },
+    {
+      "name": "fillLightIntensity",
+      "type": "number",
+      "default": "0.5",
+      "description": "Intensity of fill light"
+    },
+    {
+      "name": "rimLightIntensity",
+      "type": "number",
+      "default": "0.8",
+      "description": "Intensity of rim light"
+    },
+    {
+      "name": "environmentPreset",
+      "type": "string",
+      "default": "\"forest\"",
+      "description": "Environment preset for scene lighting"
+    },
+    {
+      "name": "autoFrame",
+      "type": "boolean",
+      "default": "false",
+      "description": "Automatically frame the model in view"
+    },
+    {
+      "name": "fadeIn",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable fade-in transition on load"
+    },
+    {
+      "name": "autoRotate",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable automatic rotation animation"
+    },
+    {
+      "name": "autoRotateSpeed",
+      "type": "number",
+      "default": "0.35",
+      "description": "Speed of automatic rotation"
+    },
+    {
+      "name": "showScreenshotButton",
+      "type": "boolean",
+      "default": "true",
+      "description": "Show the screenshot button overlay"
+    },
+    {
+      "name": "placeholderSrc",
+      "type": "string",
+      "default": "-",
+      "description": "Placeholder image source while loading"
+    },
+    {
+      "name": "onModelLoaded",
+      "type": "function",
+      "default": "-",
+      "description": "Callback when model finishes loading"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

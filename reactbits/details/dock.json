@@ -1,0 +1,70 @@
+{
+  "name": "Dock",
+  "slug": "dock",
+  "url": "https://reactbits.dev/components/dock",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Framer Motion"
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "props": [
+    {
+      "name": "items",
+      "type": "DockItemData\\[\\]",
+      "default": "\\[\\]",
+      "description": "Array of dock items. Each item should include an icon, label, onClick handler, and an optional className."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional CSS classes for the dock panel."
+    },
+    {
+      "name": "distance",
+      "type": "number",
+      "default": "200",
+      "description": "Pixel distance used to calculate the magnification effect based on mouse proximity."
+    },
+    {
+      "name": "panelHeight",
+      "type": "number",
+      "default": "68",
+      "description": "Height (in pixels) of the dock panel."
+    },
+    {
+      "name": "baseItemSize",
+      "type": "number",
+      "default": "50",
+      "description": "The base size (in pixels) for each dock item."
+    },
+    {
+      "name": "dockHeight",
+      "type": "number",
+      "default": "256",
+      "description": "Maximum height (in pixels) of the dock container."
+    },
+    {
+      "name": "magnification",
+      "type": "number",
+      "default": "70",
+      "description": "The magnified size (in pixels) applied to a dock item when hovered."
+    },
+    {
+      "name": "spring",
+      "type": "SpringOptions",
+      "default": "{ mass: 0.1, stiffness: 150, damping: 12 }",
+      "description": "Configuration options for the spring animation."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

@@ -1,0 +1,139 @@
+{
+  "name": "Glass Surface",
+  "slug": "glass-surface",
+  "url": "https://reactbits.dev/components/glass-surface",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "default": "undefined",
+      "description": "Content to display inside the glass surface"
+    },
+    {
+      "name": "width",
+      "type": "number \\",
+      "default": "string",
+      "description": "200"
+    },
+    {
+      "name": "height",
+      "type": "number \\",
+      "default": "string",
+      "description": "80"
+    },
+    {
+      "name": "borderRadius",
+      "type": "number",
+      "default": "20",
+      "description": "Border radius in pixels"
+    },
+    {
+      "name": "borderWidth",
+      "type": "number",
+      "default": "0.07",
+      "description": "Border width factor for displacement map"
+    },
+    {
+      "name": "brightness",
+      "type": "number",
+      "default": "50",
+      "description": "Brightness percentage for displacement map"
+    },
+    {
+      "name": "opacity",
+      "type": "number",
+      "default": "0.93",
+      "description": "Opacity of displacement map elements"
+    },
+    {
+      "name": "blur",
+      "type": "number",
+      "default": "11",
+      "description": "Input blur amount in pixels"
+    },
+    {
+      "name": "displace",
+      "type": "number",
+      "default": "0",
+      "description": "Output blur (stdDeviation)"
+    },
+    {
+      "name": "backgroundOpacity",
+      "type": "number",
+      "default": "0",
+      "description": "Background frost opacity (0-1)"
+    },
+    {
+      "name": "saturation",
+      "type": "number",
+      "default": "1",
+      "description": "Backdrop filter saturation factor"
+    },
+    {
+      "name": "distortionScale",
+      "type": "number",
+      "default": "-180",
+      "description": "Main displacement scale"
+    },
+    {
+      "name": "redOffset",
+      "type": "number",
+      "default": "0",
+      "description": "Red channel extra displacement offset"
+    },
+    {
+      "name": "greenOffset",
+      "type": "number",
+      "default": "10",
+      "description": "Green channel extra displacement offset"
+    },
+    {
+      "name": "blueOffset",
+      "type": "number",
+      "default": "20",
+      "description": "Blue channel extra displacement offset"
+    },
+    {
+      "name": "xChannel",
+      "type": "'R' \\",
+      "default": "'G' \\",
+      "description": "'B'"
+    },
+    {
+      "name": "yChannel",
+      "type": "'R' \\",
+      "default": "'G' \\",
+      "description": "'B'"
+    },
+    {
+      "name": "mixBlendMode",
+      "type": "BlendMode",
+      "default": "'difference'",
+      "description": "Mix blend mode for displacement map"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS class names"
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Inline styles object"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

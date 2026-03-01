@@ -1,0 +1,130 @@
+{
+  "name": "Text Type",
+  "slug": "text-type",
+  "url": "https://reactbits.dev/text-animations/text-type",
+  "source": "reactbits",
+  "category": "text-animations",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "text",
+      "type": "string \\",
+      "default": "string\\[\\]",
+      "description": "-"
+    },
+    {
+      "name": "as",
+      "type": "ElementType",
+      "default": "div",
+      "description": "HTML tag to render the component as"
+    },
+    {
+      "name": "typingSpeed",
+      "type": "number",
+      "default": "50",
+      "description": "Speed of typing in milliseconds"
+    },
+    {
+      "name": "initialDelay",
+      "type": "number",
+      "default": "0",
+      "description": "Initial delay before typing starts"
+    },
+    {
+      "name": "pauseDuration",
+      "type": "number",
+      "default": "2000",
+      "description": "Time to wait between typing and deleting"
+    },
+    {
+      "name": "deletingSpeed",
+      "type": "number",
+      "default": "30",
+      "description": "Speed of deleting characters"
+    },
+    {
+      "name": "loop",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether to loop through texts array"
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Optional class name for styling"
+    },
+    {
+      "name": "showCursor",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether to show the cursor"
+    },
+    {
+      "name": "hideCursorWhileTyping",
+      "type": "boolean",
+      "default": "false",
+      "description": "Hide cursor while typing"
+    },
+    {
+      "name": "cursorCharacter",
+      "type": "string \\",
+      "default": "React.ReactNode",
+      "description": "\\"
+    },
+    {
+      "name": "cursorBlinkDuration",
+      "type": "number",
+      "default": "0.5",
+      "description": "Animation duration for cursor blinking"
+    },
+    {
+      "name": "cursorClassName",
+      "type": "string",
+      "default": "''",
+      "description": "Optional class name for cursor styling"
+    },
+    {
+      "name": "textColors",
+      "type": "string\\[\\]",
+      "default": "\\[\\]",
+      "description": "Array of colors for each sentence"
+    },
+    {
+      "name": "variableSpeed",
+      "type": "{min: number, max: number}",
+      "default": "undefined",
+      "description": "Random typing speed within range for human-like feel"
+    },
+    {
+      "name": "onSentenceComplete",
+      "type": "(sentence: string, index: number) => void",
+      "default": "undefined",
+      "description": "Callback fired after each sentence is finished"
+    },
+    {
+      "name": "startOnVisible",
+      "type": "boolean",
+      "default": "false",
+      "description": "Start typing when component is visible in viewport"
+    },
+    {
+      "name": "reverseMode",
+      "type": "boolean",
+      "default": "false",
+      "description": "Type backwards (right to left)"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

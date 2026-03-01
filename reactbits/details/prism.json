@@ -1,0 +1,112 @@
+{
+  "name": "Prism",
+  "slug": "prism",
+  "url": "https://reactbits.dev/backgrounds/prism",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "height",
+      "type": "number",
+      "default": "3.5",
+      "description": "Apex height of the prism (world units)."
+    },
+    {
+      "name": "baseWidth",
+      "type": "number",
+      "default": "5.5",
+      "description": "Total base width across X/Z (world units)."
+    },
+    {
+      "name": "animationType",
+      "type": "\"rotate\" \\",
+      "default": "\"hover\" \\",
+      "description": "\"3drotate\""
+    },
+    {
+      "name": "glow",
+      "type": "number",
+      "default": "1",
+      "description": "Glow/bleed intensity multiplier."
+    },
+    {
+      "name": "offset",
+      "type": "{ x?: number; y?: number }",
+      "default": "{ x: 0, y: 0 }",
+      "description": "Pixel offset within the canvas (x\u2192right, y\u2192down)."
+    },
+    {
+      "name": "noise",
+      "type": "number",
+      "default": "0.5",
+      "description": "Film-grain noise amount added to final color (0 disables)."
+    },
+    {
+      "name": "transparent",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether the canvas has an alpha channel (transparent background)."
+    },
+    {
+      "name": "scale",
+      "type": "number",
+      "default": "3.6",
+      "description": "Overall screen-space scale of the prism (bigger = larger)."
+    },
+    {
+      "name": "hueShift",
+      "type": "number",
+      "default": "0",
+      "description": "Hue rotation (radians) applied to final color."
+    },
+    {
+      "name": "colorFrequency",
+      "type": "number",
+      "default": "1",
+      "description": "Frequency of internal sine bands controlling color variation."
+    },
+    {
+      "name": "hoverStrength",
+      "type": "number",
+      "default": "2",
+      "description": "Sensitivity of hover tilt (pitch/yaw amplitude)."
+    },
+    {
+      "name": "inertia",
+      "type": "number",
+      "default": "0.05",
+      "description": "Easing factor for hover (0..1, higher = snappier)."
+    },
+    {
+      "name": "bloom",
+      "type": "number",
+      "default": "1",
+      "description": "Extra bloom factor layered on top of glow."
+    },
+    {
+      "name": "suspendWhenOffscreen",
+      "type": "boolean",
+      "default": "false",
+      "description": "Pause rendering when the element is not in the viewport."
+    },
+    {
+      "name": "timeScale",
+      "type": "number",
+      "default": "0.5",
+      "description": "Global time multiplier for animations (0=frozen, 1=normal)."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

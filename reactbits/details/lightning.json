@@ -1,0 +1,49 @@
+{
+  "name": "Lightning",
+  "slug": "lightning",
+  "url": "https://reactbits.dev/backgrounds/lightning",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "hue",
+      "type": "number",
+      "default": "230",
+      "description": "Hue of the lightning in degrees (0 to 360)."
+    },
+    {
+      "name": "xOffset",
+      "type": "number",
+      "default": "0",
+      "description": "Horizontal offset of the lightning in normalized units."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "1",
+      "description": "Animation speed multiplier for the lightning."
+    },
+    {
+      "name": "intensity",
+      "type": "number",
+      "default": "1",
+      "description": "Brightness multiplier for the lightning."
+    },
+    {
+      "name": "size",
+      "type": "number",
+      "default": "1",
+      "description": "Scale factor for the bolt size."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

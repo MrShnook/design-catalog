@@ -16,12 +16,14 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "npx shadcn@latest add @aceternity/colourful-text",
-  "install_command": "npx shadcn@latest add @aceternity/colourful-text-demo",
+  "code_snippet": "\"use client\";\nimport React from \"react\";\nimport { motion } from \"motion/react\";\n \nexport function ColourfulText({ text }: { text: string }) {\n  const colors = [\n    \"rgb(131, 179, 32)\",\n    \"rgb(47, 195, 106)\",\n    \"rgb(42, 169, 210)\",\n    \"rgb(4, 112, 202)\",\n    \"rgb(107, 10, 255)\",\n    \"rgb(183, 0, 218)\",\n    \"rgb(218, 0, 171)\",\n    \"rgb(230, 64, 92)\",\n    \"rgb(232, 98, 63)\",\n    \"rgb(249, 129, 47)\",\n  ];\n \n  const [currentColors, setCurrentColors] = React.useState(colors);\n  const [count, setCount] = React.useState(0);\n \n  React.useEffect(() => {\n    const interval = setInterval(() => {\n      const shuffled = [...colors].sort(() => Math.random() - 0.5);\n      setCurrentColors(shuffled);\n      setCount((prev) => prev + 1);\n    }, 5000);\n \n    return () => clearInterval(interval);\n  }, []);\n \n  return text.split(\"\").map((char, index) => (\n    <motion.span\n      key={`${char}-${count}-${index}`}\n      initial={{\n        y: 0,\n      }}\n      animate={{\n        color: currentColors[index % currentColors.length],\n        y: [0, -3, 0],\n        scale: [1, 1.01, 1],\n        filter: [\"blur(0px)\", `blur(5px)`, \"blur(0px)\"],\n        opacity: [1, 0.8, 1],\n      }}\n      transition={{\n        duration: 0.5,\n        delay: index * 0.05,\n      }}\n      className=\"inline-block whitespace-pre font-sans tracking-tight\"\n    >\n      {char}\n    </motion.span>\n  ));\n}",
+  "install_command": "npx shadcn@latest add @aceternity/colourful-text",
   "use_cases": [
     "Headlines",
     "Hero text",
     "Loading states"
   ],
-  "free": true
+  "free": true,
+  "usage_example": "\"use client\";\nimport React from \"react\";\nimport ColourfulText from \"@/components/ui/colourful-text\";\nimport { motion } from \"motion/react\";\n \nexport function ColourfulTextDemo() {\n  return (\n    <div className=\"h-screen w-full flex items-center justify-center relative overflow-hidden bg-black\">\n      <motion.img\n        src=\"https://assets.aceternity.com/linear-demo.webp\"\n        alt=\"\"\n        className=\"h-full w-full object-cover absolute inset-0 [mask-image:radial-gradient(circle,transparent,black_80%)] pointer-events-none\"\n        initial={{ opacity: 0 }}\n        animate={{ opacity: 0.5 }}\n        transition={{ duration: 1 }}\n      />\n      <h1 className=\"text-2xl md:text-5xl lg:text-7xl font-bold text-center text-white relative z-2 font-sans\">\n        The best <ColourfulText text=\"components\" /> <br /> you will ever find\n      </h1>\n    </div>\n  );\n}",
+  "full_source_available": true
 }

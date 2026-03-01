@@ -1,0 +1,112 @@
+{
+  "name": "Staggered Menu",
+  "slug": "staggered-menu",
+  "url": "https://reactbits.dev/components/staggered-menu",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "position",
+      "type": "\"left\" \\",
+      "default": "\"right\"",
+      "description": "\"right\""
+    },
+    {
+      "name": "colors",
+      "type": "string\\[\\]",
+      "default": "\\[\"#B19EEF\", \"#5227FF\"\\]",
+      "description": "Colors used for staggered underlay layers."
+    },
+    {
+      "name": "items",
+      "type": "StaggeredMenuItem\\[\\]",
+      "default": "\\[\\]",
+      "description": "Menu items rendered inside the panel."
+    },
+    {
+      "name": "socialItems",
+      "type": "StaggeredMenuSocialItem\\[\\]",
+      "default": "\\[\\]",
+      "description": "Social links displayed in the menu panel."
+    },
+    {
+      "name": "displaySocials",
+      "type": "boolean",
+      "default": "false",
+      "description": "Whether to display the social links section."
+    },
+    {
+      "name": "displayItemNumbering",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether to show numbering for menu items."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "undefined",
+      "description": "Optional extra class names."
+    },
+    {
+      "name": "logoUrl",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Path to the logo image."
+    },
+    {
+      "name": "menuButtonColor",
+      "type": "string",
+      "default": "\"#fff\"",
+      "description": "Color of the menu toggle button when closed."
+    },
+    {
+      "name": "openMenuButtonColor",
+      "type": "string",
+      "default": "\"#fff\"",
+      "description": "Color of the menu toggle button when open."
+    },
+    {
+      "name": "accentColor",
+      "type": "string",
+      "default": "undefined",
+      "description": "Hover accent color for menu items."
+    },
+    {
+      "name": "changeMenuColorOnOpen",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether to animate the button color when opening/closing."
+    },
+    {
+      "name": "onMenuOpen",
+      "type": "() =\\> void",
+      "default": "undefined",
+      "description": "Callback function called when menu opens."
+    },
+    {
+      "name": "onMenuClose",
+      "type": "() =\\> void",
+      "default": "undefined",
+      "description": "Callback function called when menu closes."
+    },
+    {
+      "name": "closeOnClickAway",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether to close the menu when clicking outside."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

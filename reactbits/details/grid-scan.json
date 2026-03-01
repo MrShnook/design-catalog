@@ -1,0 +1,190 @@
+{
+  "name": "Grid Scan",
+  "slug": "grid-scan",
+  "url": "https://reactbits.dev/backgrounds/grid-scan",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "click",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js"
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "props": [
+    {
+      "name": "enableWebcam",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable face tracking via webcam."
+    },
+    {
+      "name": "showPreview",
+      "type": "boolean",
+      "default": "false",
+      "description": "Show webcam preview/debug HUD."
+    },
+    {
+      "name": "modelsPath",
+      "type": "string",
+      "default": "CDN URL",
+      "description": "Path/URL to face-api.js models."
+    },
+    {
+      "name": "sensitivity",
+      "type": "number",
+      "default": "0.55",
+      "description": "Overall responsiveness to input."
+    },
+    {
+      "name": "lineThickness",
+      "type": "number",
+      "default": "1",
+      "description": "Grid line thickness."
+    },
+    {
+      "name": "linesColor",
+      "type": "string",
+      "default": "'#392e4e'",
+      "description": "Color of the grid lines."
+    },
+    {
+      "name": "gridScale",
+      "type": "number",
+      "default": "0.1",
+      "description": "Grid spacing scale (smaller = denser)."
+    },
+    {
+      "name": "lineStyle",
+      "type": "'solid' \\",
+      "default": "'dashed' \\",
+      "description": "'dotted'"
+    },
+    {
+      "name": "lineJitter",
+      "type": "number",
+      "default": "0.1",
+      "description": "Animated jitter along the grid lines."
+    },
+    {
+      "name": "enablePost",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enable post-processing effects."
+    },
+    {
+      "name": "bloomIntensity",
+      "type": "number",
+      "default": "0",
+      "description": "Bloom strength."
+    },
+    {
+      "name": "bloomThreshold",
+      "type": "number",
+      "default": "0",
+      "description": "Bloom luminance threshold."
+    },
+    {
+      "name": "bloomSmoothing",
+      "type": "number",
+      "default": "0",
+      "description": "Bloom threshold smoothing."
+    },
+    {
+      "name": "chromaticAberration",
+      "type": "number",
+      "default": "0.002",
+      "description": "Chromatic aberration offset (post)."
+    },
+    {
+      "name": "noiseIntensity",
+      "type": "number",
+      "default": "0.01",
+      "description": "Additive film grain intensity."
+    },
+    {
+      "name": "scanColor",
+      "type": "string",
+      "default": "'#FF9FFC'",
+      "description": "Color of the scan beam/aura."
+    },
+    {
+      "name": "scanOpacity",
+      "type": "number",
+      "default": "0.4",
+      "description": "Opacity of the scan effect."
+    },
+    {
+      "name": "scanDirection",
+      "type": "'forward' \\",
+      "default": "'backward' \\",
+      "description": "'pingpong'"
+    },
+    {
+      "name": "scanSoftness",
+      "type": "number",
+      "default": "2",
+      "description": "Softness of scan band edges."
+    },
+    {
+      "name": "scanGlow",
+      "type": "number",
+      "default": "0.5",
+      "description": "Relative width/intensity of glow."
+    },
+    {
+      "name": "scanPhaseTaper",
+      "type": "number",
+      "default": "0.9",
+      "description": "Fade-in/out window for the phase."
+    },
+    {
+      "name": "scanDuration",
+      "type": "number",
+      "default": "2.0",
+      "description": "Duration of a scan cycle (seconds)."
+    },
+    {
+      "name": "scanDelay",
+      "type": "number",
+      "default": "2.0",
+      "description": "Delay between scan cycles (seconds)."
+    },
+    {
+      "name": "enableGyro",
+      "type": "boolean",
+      "default": "false",
+      "description": "Use device orientation for input."
+    },
+    {
+      "name": "scanOnClick",
+      "type": "boolean",
+      "default": "false",
+      "description": "Trigger a scan when clicking."
+    },
+    {
+      "name": "snapBackDelay",
+      "type": "number",
+      "default": "250",
+      "description": "Delay (ms) before input recenters."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "description": "Additional CSS classes."
+    },
+    {
+      "name": "style",
+      "type": "React.CSSProperties",
+      "default": "{}",
+      "description": "Inline style overrides."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

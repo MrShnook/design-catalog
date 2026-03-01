@@ -1,0 +1,85 @@
+{
+  "name": "Fade Content",
+  "slug": "fade-content",
+  "url": "https://reactbits.dev/animations/fade-content",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "scroll",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "\u2014",
+      "description": "The content to be animated."
+    },
+    {
+      "name": "blur",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enables a blur effect during the animation."
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Specifies the duration of the fade animation in seconds."
+    },
+    {
+      "name": "delay",
+      "type": "number",
+      "default": "0",
+      "description": "Adds a delay in seconds before triggering the animation."
+    },
+    {
+      "name": "ease",
+      "type": "string",
+      "default": "power2.out",
+      "description": "GSAP easing function for the fade animation."
+    },
+    {
+      "name": "threshold",
+      "type": "number",
+      "default": "\u2014",
+      "description": "IntersectionObserver threshold for triggering the fade animation."
+    },
+    {
+      "name": "initialOpacity",
+      "type": "number",
+      "default": "\u2014",
+      "description": "The starting opacity of the component before it enters the viewport."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\u2014",
+      "description": "Custom class(es) to be added to the container."
+    },
+    {
+      "name": "disappearAfter",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Time in seconds after which the content will start to disappear. Disables if set to 0."
+    },
+    {
+      "name": "disappearDuration",
+      "type": "number",
+      "default": "\u2014",
+      "description": "Duration of the disappearance animation in seconds."
+    },
+    {
+      "name": "disappearEase",
+      "type": "string",
+      "default": "power2.in",
+      "description": "GSAP easing function for the disappearance animation."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

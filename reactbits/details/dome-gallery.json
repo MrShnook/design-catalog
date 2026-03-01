@@ -1,0 +1,123 @@
+{
+  "name": "Dome Gallery",
+  "slug": "dome-gallery",
+  "url": "https://reactbits.dev/components/dome-gallery",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "click",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [
+    "@use-gesture/react"
+  ],
+  "props": [
+    {
+      "name": "images",
+      "type": "(string \\",
+      "default": "{ src: string; alt?: string })\\[\\]",
+      "description": "DEFAULT\\_IMAGES"
+    },
+    {
+      "name": "fit",
+      "type": "number",
+      "default": "0.5",
+      "description": "Size factor for the dome radius based on container dimensions"
+    },
+    {
+      "name": "fitBasis",
+      "type": "'auto' \\",
+      "default": "'min' \\",
+      "description": "'max' \\"
+    },
+    {
+      "name": "minRadius",
+      "type": "number",
+      "default": "600",
+      "description": "Minimum radius for the dome in pixels"
+    },
+    {
+      "name": "maxRadius",
+      "type": "number",
+      "default": "Infinity",
+      "description": "Maximum radius for the dome in pixels"
+    },
+    {
+      "name": "padFactor",
+      "type": "number",
+      "default": "0.25",
+      "description": "Padding factor for the viewer area"
+    },
+    {
+      "name": "overlayBlurColor",
+      "type": "string",
+      "default": "'#060010'",
+      "description": "Color for the outer portion of the radial overlay blur"
+    },
+    {
+      "name": "maxVerticalRotationDeg",
+      "type": "number",
+      "default": "5",
+      "description": "Maximum vertical rotation angle in degrees"
+    },
+    {
+      "name": "dragSensitivity",
+      "type": "number",
+      "default": "20",
+      "description": "Sensitivity of drag interactions"
+    },
+    {
+      "name": "enlargeTransitionMs",
+      "type": "number",
+      "default": "300",
+      "description": "Duration of image enlargement transition in milliseconds"
+    },
+    {
+      "name": "segments",
+      "type": "number",
+      "default": "35",
+      "description": "Number of segments for both X and Y to keep the dome proportional"
+    },
+    {
+      "name": "dragDampening",
+      "type": "number",
+      "default": "2",
+      "description": "Damping factor for drag inertia (0-1, higher = more damping)"
+    },
+    {
+      "name": "openedImageWidth",
+      "type": "string",
+      "default": "'400px'",
+      "description": "Width of the enlarged image"
+    },
+    {
+      "name": "openedImageHeight",
+      "type": "string",
+      "default": "'400px'",
+      "description": "Height of the enlarged image"
+    },
+    {
+      "name": "imageBorderRadius",
+      "type": "string",
+      "default": "'30px'",
+      "description": "Border radius for closed tile images"
+    },
+    {
+      "name": "openedImageBorderRadius",
+      "type": "string",
+      "default": "'30px'",
+      "description": "Border radius for opened/enlarged images"
+    },
+    {
+      "name": "grayscale",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether to render all images in grayscale"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

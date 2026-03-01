@@ -1,0 +1,47 @@
+{
+  "name": "Lanyard",
+  "slug": "lanyard",
+  "url": "https://reactbits.dev/components/lanyard",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "Three.js",
+    "React Three Fiber"
+  ],
+  "dependencies": [
+    "threemeshline@react-three/fiber@react-three/drei@react-three/rapier"
+  ],
+  "props": [
+    {
+      "name": "position",
+      "type": "array",
+      "default": "\\[0, 0, 30\\]",
+      "description": "Initial camera position for the canvas."
+    },
+    {
+      "name": "gravity",
+      "type": "array",
+      "default": "\\[0, -40, 0\\]",
+      "description": "Gravity vector for the physics simulation."
+    },
+    {
+      "name": "fov",
+      "type": "number",
+      "default": "20",
+      "description": "Camera field of view."
+    },
+    {
+      "name": "transparent",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enables a transparent background for the canvas."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Gooey Nav",
+  "slug": "gooey-nav",
+  "url": "https://reactbits.dev/components/gooey-nav",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "mount",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "GooeyNavItem\\[\\]",
+      "default": "\\[\\]",
+      "description": "Array of navigation items."
+    },
+    {
+      "name": "animationTime",
+      "type": "number",
+      "default": "600",
+      "description": "Duration (ms) of the main animation."
+    },
+    {
+      "name": "particleCount",
+      "type": "number",
+      "default": "15",
+      "description": "Number of bubble particles per transition."
+    },
+    {
+      "name": "particleDistances",
+      "type": "\\[number, number\\]",
+      "default": "\\[90, 10\\]",
+      "description": "Outer and inner distances of bubble spread."
+    },
+    {
+      "name": "particleR",
+      "type": "number",
+      "default": "100",
+      "description": "Radius factor influencing random particle rotation."
+    },
+    {
+      "name": "timeVariance",
+      "type": "number",
+      "default": "300",
+      "description": "Random time variance (ms) for particle animations."
+    },
+    {
+      "name": "colors",
+      "type": "number\\[\\]",
+      "default": "\\[1, 2, 3, 1, 2, 3, 1, 4\\]",
+      "description": "Color indices used when creating bubble particles."
+    },
+    {
+      "name": "initialActiveIndex",
+      "type": "number",
+      "default": "0",
+      "description": "Which item is selected on mount."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

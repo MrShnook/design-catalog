@@ -1,0 +1,52 @@
+{
+  "name": "Target Cursor",
+  "slug": "target-cursor",
+  "url": "https://reactbits.dev/animations/target-cursor",
+  "source": "reactbits",
+  "category": "animations",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "GSAP"
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "props": [
+    {
+      "name": "targetSelector",
+      "type": "string",
+      "default": "\".cursor-target\"",
+      "description": "CSS selector for elements that should trigger the cursor targeting effect"
+    },
+    {
+      "name": "spinDuration",
+      "type": "number",
+      "default": "2",
+      "description": "Duration in seconds for the cursor's spinning animation when not targeting"
+    },
+    {
+      "name": "hideDefaultCursor",
+      "type": "boolean",
+      "default": "true",
+      "description": "Whether to hide the default browser cursor when the component is active"
+    },
+    {
+      "name": "hoverDuration",
+      "type": "number",
+      "default": "0.2",
+      "description": "Duration in seconds for the transition when the cursor locks onto a target"
+    },
+    {
+      "name": "parallaxOn",
+      "type": "boolean",
+      "default": "true",
+      "description": "Enables a subtle parallax effect on the corners when moving over a target"
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

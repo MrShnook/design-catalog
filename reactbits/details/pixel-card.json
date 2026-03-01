@@ -1,0 +1,67 @@
+{
+  "name": "Pixel Card",
+  "slug": "pixel-card",
+  "url": "https://reactbits.dev/components/pixel-card",
+  "source": "reactbits",
+  "category": "components",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React"
+  ],
+  "dependencies": [],
+  "props": [
+    {
+      "name": "variant",
+      "type": "string",
+      "default": "\"default\"",
+      "description": "Defines the color scheme and animation style."
+    },
+    {
+      "name": "gap",
+      "type": "number",
+      "default": "varies by variant",
+      "description": "Pixel grid gap size in pixels."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "varies by variant",
+      "description": "Animation speed modifier (lower is slower)."
+    },
+    {
+      "name": "colors",
+      "type": "string",
+      "default": "\"#f8fafc,#f1f5f9,#cbd5e1\"",
+      "description": "Comma-separated list of colors for the pixel effect."
+    },
+    {
+      "name": "noFocus",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, prevents animation from triggering on focus."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "\"\"",
+      "description": "Additional CSS class for the wrapper."
+    },
+    {
+      "name": "style",
+      "type": "object",
+      "default": "{}",
+      "description": "Inline styles for the wrapper."
+    },
+    {
+      "name": "children",
+      "type": "ReactNode",
+      "default": "null",
+      "description": "Content to render inside the pixel effect container."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": true,
+  "free": true
+}

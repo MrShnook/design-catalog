@@ -1,0 +1,94 @@
+{
+  "name": "Particles",
+  "slug": "particles",
+  "url": "https://reactbits.dev/backgrounds/particles",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "hover",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "particleCount",
+      "type": "number",
+      "default": "200",
+      "description": "The number of particles to generate."
+    },
+    {
+      "name": "particleSpread",
+      "type": "number",
+      "default": "10",
+      "description": "Controls how far particles are spread from the center."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "0.1",
+      "description": "Speed factor controlling the animation pace."
+    },
+    {
+      "name": "particleColors",
+      "type": "string\\[\\]",
+      "default": "\\['#ffffff'\\]",
+      "description": "An array of hex color strings used to color the particles."
+    },
+    {
+      "name": "moveParticlesOnHover",
+      "type": "boolean",
+      "default": "false",
+      "description": "Determines if particles should move in response to mouse hover."
+    },
+    {
+      "name": "particleHoverFactor",
+      "type": "number",
+      "default": "1",
+      "description": "Multiplier for the particle movement when hovering."
+    },
+    {
+      "name": "alphaParticles",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, particles are rendered with varying transparency; otherwise, as solid circles."
+    },
+    {
+      "name": "particleBaseSize",
+      "type": "number",
+      "default": "100",
+      "description": "The base size of the particles."
+    },
+    {
+      "name": "sizeRandomness",
+      "type": "number",
+      "default": "1",
+      "description": "Controls the variation in particle sizes (0 means all particles have the same size)."
+    },
+    {
+      "name": "cameraDistance",
+      "type": "number",
+      "default": "20",
+      "description": "Distance from the camera to the particle system."
+    },
+    {
+      "name": "disableRotation",
+      "type": "boolean",
+      "default": "false",
+      "description": "If true, stops the particle system from rotating."
+    },
+    {
+      "name": "pixelRatio",
+      "type": "number",
+      "default": "1",
+      "description": "Sets the pixel ratio for sharper rendering on high-DPI screens."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}

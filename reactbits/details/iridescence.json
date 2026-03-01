@@ -1,0 +1,46 @@
+{
+  "name": "Iridescence",
+  "slug": "iridescence",
+  "url": "https://reactbits.dev/backgrounds/iridescence",
+  "source": "reactbits",
+  "category": "backgrounds",
+  "description": "",
+  "animation_type": "continuous",
+  "animation_description": "",
+  "tech_stack": [
+    "React",
+    "OGL"
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "color",
+      "type": "Array<number>",
+      "default": "\\[0.3, 0.2, 0.5\\]",
+      "description": "Base color as an array of RGB values (each between 0 and 1)."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": "1.0",
+      "description": "Speed multiplier for the animation."
+    },
+    {
+      "name": "amplitude",
+      "type": "number",
+      "default": "0.1",
+      "description": "Amplitude for the mouse-driven effect."
+    },
+    {
+      "name": "mouseReact",
+      "type": "boolean",
+      "default": "false",
+      "description": "Enable or disable mouse interaction with the shader."
+    }
+  ],
+  "creator": "davidhdev",
+  "has_source_code": false,
+  "free": true
+}
