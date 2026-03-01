@@ -26,32 +26,14 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Installation",
-    "Installation",
     "Chat Conversation",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Folder With Files",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Collaborative Cursors",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Testimonials Hover Illustration",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Uptime Status Illustration",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Rotating Tabs With Text",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Flipping Images With Bar",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Isometric Box",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Build websites faster and 10x better than your competitors withAceternity UI Pro",
     "Build faster with\n\nAll-Access"
   ],
@@ -64,5 +46,6 @@
     "https://ui.aceternity.com/blocks/illustrations/rotating-tabs-with-text",
     "https://ui.aceternity.com/blocks/illustrations/flipping-images-with-bar",
     "https://ui.aceternity.com/blocks/illustrations/isometric-box"
-  ]
+  ],
+  "premium": true
 }

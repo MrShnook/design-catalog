@@ -24,20 +24,10 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Installation",
-    "Installation",
     "Simple CTA With Images",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "CTA With Masonry Images",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "CTA With Background Noise",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "CTA With Dashed Grid Lines",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Build websites faster and 10x better than your competitors withAceternity UI Pro",
     "Build faster with\n\nAll-Access"
   ],
@@ -46,5 +36,6 @@
     "https://ui.aceternity.com/blocks/cta-sections/cta-with-masonry-images",
     "https://ui.aceternity.com/blocks/cta-sections/cta-with-background-noise",
     "https://ui.aceternity.com/blocks/cta-sections/cta-with-dashed-grid-lines"
-  ]
+  ],
+  "premium": true
 }

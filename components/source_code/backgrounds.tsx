@@ -1,101 +1,26 @@
-// Aceternity UI Blocks: backgrounds
+// Aceternity UI Block: Backgrounds
 // URL: https://ui.aceternity.com/blocks/backgrounds
+// Type: Premium Block Collection (requires all-access pass)
 //
-// This is a block collection page (premium content).
+// Description: A set of beautiful, creative backgrounds for landing pages
 //
-// Available block variants:
-//   - Installation
-//   - Installation
-//   - Background with full video
-//   - This component block is a part
-of Aceternity UI all-access pass
-//   - For a one-time payment, you get access to all components and templates, including future updates and new templates.
-//   - Background with shooting stars
-//   - This component block is a part
-of Aceternity UI all-access pass
-//   - For a one-time payment, you get access to all components and templates, including future updates and new templates.
-//   - Background with dots
-//   - This component block is a part
-of Aceternity UI all-access pass
-//   - For a one-time payment, you get access to all components and templates, including future updates and new templates.
-//   - Background with Noise Grid
-//   - Download the noise.webp file from here
-//   - This component block is a part
-of Aceternity UI all-access pass
-//   - For a one-time payment, you get access to all components and templates, including future updates and new templates.
-//   - Background with dots masked
-//   - This component block is a part
-of Aceternity UI all-access pass
-//   - For a one-time payment, you get access to all components and templates, including future updates and new templates.
-//   - Background with dots masked vertical
-//   - This component block is a part
-of Aceternity UI all-access pass
-//   - For a one-time payment, you get access to all components and templates, including future updates and new templates.
-//   - Background with skewed rectangles
-//   - This component block is a part
-of Aceternity UI all-access pass
-//   - For a one-time payment, you get access to all components and templates, including future updates and new templates.
-//   - Background with skewed lines
-//   - This component block is a part
-of Aceternity UI all-access pass
-//   - For a one-time payment, you get access to all components and templates, including future updates and new templates.
-//   - Build websites faster and 10x better than your competitors withAceternity UI Pro
-//   - Build faster with
+// Available Variants (11):
+//   • Background with full video
+//   • Background with shooting stars
+//   • Background with dots
+//   • Background with Noise Grid
+//   • Download the noise.webp file from here
+//   • Background with dots masked
+//   • Background with dots masked vertical
+//   • Background with skewed rectangles
+//   • Background with skewed lines
+//   • Build websites faster and 10x better than your competitors withAceternity UI Pro
+//   • Build faster with
 
 All-Access
 //
-// Individual block pages:
-//   https://ui.aceternity.com/blocks/backgrounds/background-with-full-video
-//   https://ui.aceternity.com/blocks/backgrounds/background-with-shooting-stars
-//   https://ui.aceternity.com/blocks/backgrounds/background-with-dots
-//   https://ui.aceternity.com/blocks/backgrounds/background-with-noise-grid
-//   https://ui.aceternity.com/blocks/backgrounds/background-with-dots-masked
-//   https://ui.aceternity.com/blocks/backgrounds/background-with-dots-masked-vertical
-//   https://ui.aceternity.com/blocks/backgrounds/background-with-skewed-rectangles
-//   https://ui.aceternity.com/blocks/backgrounds/background-with-skewed-lines
+// Note: Source code for premium blocks requires Aceternity UI all-access pass.
+// Purchase at: https://ui.aceternity.com/pricing
 //
-// Page content:
-// Blocks
-// /
-// Backgrounds
-// Backgrounds
-// A set of beautiful, creative backgrounds for landing pages
-// Background
-// Hero
-// Section
-// Installation
-// Background with full video
-// Preview
-// Code
-// This component block is a part
-// of Aceternity UI all-access pass
-// For a one-time payment, you get access to all components and templates, including future updates and new templates.
-// Annual Access
-// Paid yearly
-// $
-// 169
-// $249
-// Get Annual Access
-// Access to 60+ premium Component Blocks
-// Access to 12+ ready-to-use Templates
-// 1 year of updates and new features
-// AI-ready prompts for Lovable, V0 and more
-// Private Discord community access
-// 48-hour dedicated support turnaround
-// Copy and paste, no complexity
-// Built with Next.js, React, Tailwind CSS & Framer Motion
-// Fully responsive and customizable
-// Cancel subscription anytime
-// Questions? Chat with us.
-// Lifetime Access
-// One-time Purchase
-// Most popular
-// $
-// 199
-// $299
-// Get Lifetime Access
-// Access to 60+ premium Component Blocks
-// Access to 12+ ready-to-use Templates
-// Lifetime updates for all content
-// Access to all future releases
-// Private Discord community access
+// Each variant can be installed individually via:
+//   npx shadcn@latest add @aceternity/{variant-slug}

@@ -26,26 +26,12 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Installation",
-    "Installation",
     "Simple Navbar with Hover Effects",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Navbar with Children",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Navbar Classic",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Navbar Mega",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Navbar Pill",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Navbar Underline",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Build websites faster and 10x better than your competitors withAceternity UI Pro",
     "Build faster with\n\nAll-Access"
   ],
@@ -56,5 +42,6 @@
     "https://ui.aceternity.com/blocks/navbars/navbar-mega",
     "https://ui.aceternity.com/blocks/navbars/navbar-pill",
     "https://ui.aceternity.com/blocks/navbars/navbar-underline"
-  ]
+  ],
+  "premium": true
 }

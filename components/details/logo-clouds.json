@@ -26,20 +26,10 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Installation",
-    "Installation",
     "Logos with Blur Flip",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Logo Cloud With Blur Animation",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Logo Cloud Marquee",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Spotlight Logo Cloud",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Build websites faster and 10x better than your competitors withAceternity UI Pro",
     "Build faster with\n\nAll-Access"
   ],
@@ -48,5 +38,6 @@
     "https://ui.aceternity.com/blocks/logo-clouds/logo-cloud-with-blur-animation",
     "https://ui.aceternity.com/blocks/logo-clouds/logo-cloud-marquee",
     "https://ui.aceternity.com/blocks/logo-clouds/spotlight-logo-cloud"
-  ]
+  ],
+  "premium": true
 }

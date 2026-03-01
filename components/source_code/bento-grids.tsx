@@ -1,13 +1,16 @@
-// Aceternity UI Blocks: bento-grids
+// Aceternity UI Block: Bento Grids
 // URL: https://ui.aceternity.com/blocks/bento-grids
+// Type: Premium Block Collection (requires all-access pass)
 //
-// This is a block collection page (premium content).
+// Description: A set of bento grids for various use cases
 //
-// Available block variants:
-//   - Oops! Something went wrong
+// Available Variants (1):
+//   • Oops! Something went wrong
 //
-// Page content:
-// Oops! Something went wrong
-// If the problem persists, Hit CMD + Shift + R to refresh the page and clear cache.
-// If it doesn't solve the problem, reach out to us at support@aceternity.com
-// Try again
+// Dependencies: cobeCopy
+//
+// Note: Source code for premium blocks requires Aceternity UI all-access pass.
+// Purchase at: https://ui.aceternity.com/pricing
+//
+// Each variant can be installed individually via:
+//   npx shadcn@latest add @aceternity/{variant-slug}

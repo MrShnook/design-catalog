@@ -26,17 +26,9 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Installation",
-    "Installation",
     "Simple Footer with Four Grids",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Centered With Logo",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Huge footer with Grid",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Build websites faster and 10x better than your competitors withAceternity UI Pro",
     "Build faster with\n\nAll-Access"
   ],
@@ -44,5 +36,6 @@
     "https://ui.aceternity.com/blocks/footers/simple-footer-with-four-grids",
     "https://ui.aceternity.com/blocks/footers/centered-with-logo",
     "https://ui.aceternity.com/blocks/footers/huge-footer-with-grid"
-  ]
+  ],
+  "premium": true
 }

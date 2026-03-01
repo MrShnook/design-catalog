@@ -22,19 +22,20 @@
   },
   "ascii-art": {
     "status": "success",
-    "blocks_found": 4,
-    "source_length": 14011,
-    "has_usage": true,
-    "has_source": true
+    "source_length": 14177,
+    "has_source": true,
+    "method": "browser_extract"
   },
   "canvas-text": {
     "status": "success",
-    "source_length": 195,
-    "method": "markdown_scrape"
+    "source_length": 4556,
+    "has_source": true,
+    "method": "registry"
   },
   "3d-globe": {
     "status": "success",
-    "source_length": 42,
+    "source_length": 16467,
+    "has_source": true,
     "method": "markdown_scrape"
   },
   "dither-shader": {
@@ -67,10 +68,9 @@
   },
   "keyboard": {
     "status": "success",
-    "blocks_found": 4,
-    "source_length": 26260,
-    "has_usage": true,
-    "has_source": true
+    "source_length": 26270,
+    "has_source": true,
+    "method": "browser_extract"
   },
   "noise-background": {
     "status": "success",
@@ -206,8 +206,10 @@
     "has_source": true
   },
   "feature-sections-free": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "success",
+    "source_length": 18143,
+    "has_source": true,
+    "method": "registry"
   },
   "file-upload": {
     "status": "success",
@@ -323,10 +325,9 @@
   },
   "animated-modal": {
     "status": "success",
-    "blocks_found": 4,
-    "source_length": 9698,
-    "has_usage": false,
-    "has_source": true
+    "source_length": 9706,
+    "has_source": true,
+    "method": "browser_extract"
   },
   "animated-tooltip": {
     "status": "success",
@@ -526,10 +527,9 @@
   },
   "signup-form": {
     "status": "success",
-    "blocks_found": 6,
-    "source_length": 5118,
-    "has_usage": false,
-    "has_source": true
+    "source_length": 5150,
+    "has_source": true,
+    "method": "browser_extract"
   },
   "sparkles": {
     "status": "success",
@@ -707,99 +707,129 @@
     "has_source": true
   },
   "hero-sections": {
-    "status": "success",
-    "blocks_found": 2,
-    "source_length": 44,
-    "has_usage": false,
-    "has_source": true
+    "status": "premium_block",
+    "source_length": 1532,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "shaders": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 703,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "logo-clouds": {
-    "status": "success",
-    "blocks_found": 1,
-    "source_length": 24,
-    "has_usage": false,
-    "has_source": true
+    "status": "premium_block",
+    "source_length": 811,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "feature-sections": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 1064,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "backgrounds": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 982,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "bento-grids": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 547,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "blog-content-sections": {
-    "status": "success",
-    "blocks_found": 1,
-    "source_length": 29,
-    "has_usage": false,
-    "has_source": true
+    "status": "premium_block",
+    "source_length": 782,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "blog-sections": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 667,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "cards": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 738,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "contact-sections": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 804,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "cta-sections": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 753,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "faqs": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 758,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "footers": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 709,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "illustrations": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 886,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "login-and-signup-sections": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 875,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "navbars": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 769,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "pricing-sections": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 802,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "sidebars": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 685,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "stats-sections": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 755,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "testimonials": {
-    "status": "success",
-    "blocks_found": 3,
-    "source_length": 24,
-    "has_usage": false,
-    "has_source": true
+    "status": "premium_block",
+    "source_length": 899,
+    "has_variants": true,
+    "method": "block_collection"
   },
   "text-animations": {
-    "status": "no_code",
-    "error": "No blocks"
+    "status": "premium_block",
+    "source_length": 749,
+    "has_variants": true,
+    "method": "block_collection"
   }
 }

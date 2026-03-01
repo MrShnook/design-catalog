@@ -28,23 +28,11 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Installation",
-    "Installation",
     "Testimonials Grid With Centered Carousel",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Testimonials Background With Drag",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Testimonials With Carousel",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Testimonials Marquee Grid",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Testimonials Masonry Grid",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Build websites faster and 10x better than your competitors withAceternity UI Pro",
     "Build faster with\n\nAll-Access"
   ],
@@ -54,5 +42,6 @@
     "https://ui.aceternity.com/blocks/testimonials/testimonials-with-carousel",
     "https://ui.aceternity.com/blocks/testimonials/testimonials-marquee-grid",
     "https://ui.aceternity.com/blocks/testimonials/testimonials-masonry-grid"
-  ]
+  ],
+  "premium": true
 }

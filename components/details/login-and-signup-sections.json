@@ -29,24 +29,12 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Installation",
-    "Installation",
     "Login Form With Gradient",
     "Install dependencies",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Premium Auth Split",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Registration Form With Images",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Login With Socials And Email",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Login Signup Minimal",
-    "This component block is a part\nof Aceternity UI all-access pass",
-    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
     "Build websites faster and 10x better than your competitors withAceternity UI Pro",
     "Build faster with\n\nAll-Access"
   ],
@@ -56,5 +44,6 @@
     "https://ui.aceternity.com/blocks/login-and-signup-sections/registration-form-with-images",
     "https://ui.aceternity.com/blocks/login-and-signup-sections/login-with-socials-and-email",
     "https://ui.aceternity.com/blocks/login-and-signup-sections/login-signup-minimal"
-  ]
+  ],
+  "premium": true
 }
