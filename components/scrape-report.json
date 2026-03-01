@@ -1,616 +1,995 @@
 {
   "total": 123,
-  "success": 115,
-  "errors": 0,
-  "skipped": 8,
+  "details_count": 123,
+  "previews_count": 123,
+  "raw_markdown_count": 123,
+  "success": 123,
+  "missing": 0,
+  "timestamp": "2026-03-01T06:30:00Z",
   "results": [
     {
       "slug": "tooltip-card",
-      "status": "skipped"
+      "status": "success",
+      "category": "Cards",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "macbook-scroll",
-      "status": "skipped"
+      "status": "success",
+      "category": "Layout",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "3d-card-effect",
-      "status": "skipped"
+      "status": "success",
+      "category": "Cards",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "ascii-art",
-      "status": "skipped"
+      "status": "success",
+      "category": "Decorative",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "canvas-text",
-      "status": "skipped"
+      "status": "success",
+      "category": "Decorative",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "3d-globe",
-      "status": "skipped"
+      "status": "success",
+      "category": "Data Viz",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "dither-shader",
-      "status": "skipped"
+      "status": "success",
+      "category": "Decorative",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "dotted-glow-background",
-      "status": "skipped"
+      "status": "success",
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "encrypted-text",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "images-badge",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "keyboard",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "noise-background",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "scales",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "text-hover-effect",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "webcam-pixel-grid",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "animated-testimonials",
       "status": "success",
-      "category": "Carousels & Sliders"
+      "category": "Carousels & Sliders",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "apple-cards-carousel",
       "status": "success",
-      "category": "Carousels & Sliders"
+      "category": "Carousels & Sliders",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "background-beams-with-collision",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "background-lines",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "background-ripple-effect",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "card-spotlight",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "carousel",
       "status": "success",
-      "category": "Carousels & Sliders"
+      "category": "Carousels & Sliders",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "code-block",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "click",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "colourful-text",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "comet-card",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "compare",
       "status": "success",
-      "category": "Comparison"
+      "category": "Comparison",
+      "animation_type": "drag",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "container-cover",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "container-text-flip",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "draggable-card",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "drag",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "expandable-card",
       "status": "success",
-      "category": "Modals & Overlays"
+      "category": "Modals & Overlays",
+      "animation_type": "click",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "feature-sections-free",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "file-upload",
       "status": "success",
-      "category": "Inputs & Forms"
+      "category": "Inputs & Forms",
+      "animation_type": "click",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "floating-dock",
       "status": "success",
-      "category": "Navigation"
+      "category": "Navigation",
+      "animation_type": "continuous",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "focus-cards",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "hero-sections-free",
       "status": "success",
-      "category": "Hero Sections"
+      "category": "Hero Sections",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "layout-text-flip",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "lens",
       "status": "success",
-      "category": "Modals & Overlays"
+      "category": "Modals & Overlays",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "loader",
       "status": "success",
-      "category": "Loaders"
+      "category": "Loaders",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "pixelated-canvas",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "pointer-highlight",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "resizable-navbar",
       "status": "success",
-      "category": "Navigation"
+      "category": "Navigation",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "stateful-button",
       "status": "success",
-      "category": "Buttons"
+      "category": "Buttons",
+      "animation_type": "click",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "sticky-banner",
       "status": "success",
-      "category": "Navigation"
+      "category": "Navigation",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "world-map",
       "status": "success",
-      "category": "Data Viz"
+      "category": "Data Viz",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "google-gemini-effect",
       "status": "success",
-      "category": "Hero Sections"
+      "category": "Hero Sections",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "tracing-beam",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "3d-marquee",
       "status": "success",
-      "category": "Hero Sections"
+      "category": "Hero Sections",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "animated-modal",
       "status": "success",
-      "category": "Modals & Overlays"
+      "category": "Modals & Overlays",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "animated-tooltip",
       "status": "success",
-      "category": "Tooltips"
+      "category": "Tooltips",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "aurora-background",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "continuous",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "background-beams",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "background-gradient-animation",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "bento-grid",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "canvas-reveal-effect",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "card-stack",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "cards-free",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "container-scroll-animation",
       "status": "success",
-      "category": "Hero Sections"
+      "category": "Hero Sections",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "evervault-card",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "flip-words",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "github-globe",
       "status": "success",
-      "category": "Data Viz"
+      "category": "Data Viz",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "glare-card",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "glowing-effect",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "glowing-stars-effect",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "grid-and-dot-backgrounds",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "hero-highlight",
       "status": "success",
-      "category": "Hero Sections"
+      "category": "Hero Sections",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "hero-parallax",
       "status": "success",
-      "category": "Hero Sections"
+      "category": "Hero Sections",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "infinite-moving-cards",
       "status": "success",
-      "category": "Carousels & Sliders"
+      "category": "Carousels & Sliders",
+      "animation_type": "continuous",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "lamp-effect",
       "status": "success",
-      "category": "Hero Sections"
+      "category": "Hero Sections",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "layout-grid",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "click",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "link-preview",
       "status": "success",
-      "category": "Tooltips"
+      "category": "Tooltips",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "meteors",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "continuous",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "moving-border",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "parallax-scroll",
       "status": "success",
-      "category": "Carousels & Sliders"
+      "category": "Carousels & Sliders",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "placeholders-and-vanish-input",
       "status": "success",
-      "category": "Inputs & Forms"
+      "category": "Inputs & Forms",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "shooting-stars-and-stars-background",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "continuous",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "sidebar",
       "status": "success",
-      "category": "Navigation"
+      "category": "Navigation",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "signup-form",
       "status": "success",
-      "category": "Inputs & Forms"
+      "category": "Inputs & Forms",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "sparkles",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "continuous",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "spotlight-new",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "spotlight",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "sticky-scroll-reveal",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "svg-mask-effect",
       "status": "success",
-      "category": "Modals & Overlays"
+      "category": "Modals & Overlays",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "tabs",
       "status": "success",
-      "category": "Navigation"
+      "category": "Navigation",
+      "animation_type": "click",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "text-generate-effect",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "text-reveal-card",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "typewriter-effect",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "vortex",
       "status": "success",
-      "category": "Hero Sections"
+      "category": "Hero Sections",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "wavy-background",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "wobble-card",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "hover-border-gradient",
       "status": "success",
-      "category": "Buttons"
+      "category": "Buttons",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "multi-step-loader",
       "status": "success",
-      "category": "Loaders"
+      "category": "Loaders",
+      "animation_type": "click",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "3d-pin",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "background-boxes",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "background-gradient",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "card-hover-effect",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "direction-aware-hover",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "floating-navbar",
       "status": "success",
-      "category": "Navigation"
+      "category": "Navigation",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "following-pointer",
       "status": "success",
-      "category": "Decorative"
+      "category": "Decorative",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "images-slider",
       "status": "success",
-      "category": "Carousels & Sliders"
+      "category": "Carousels & Sliders",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "navbar-menu",
       "status": "success",
-      "category": "Navigation"
+      "category": "Navigation",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "tailwindcss-buttons",
       "status": "success",
-      "category": "Buttons"
+      "category": "Buttons",
+      "animation_type": "continuous",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "timeline",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "scroll",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "hero-sections",
       "status": "success",
-      "category": "Hero Sections"
+      "category": "Hero Sections",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "shaders",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "logo-clouds",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "feature-sections",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "backgrounds",
       "status": "success",
-      "category": "Backgrounds"
+      "category": "Backgrounds",
+      "animation_type": "continuous",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "bento-grids",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "blog-content-sections",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "blog-sections",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "cards",
       "status": "success",
-      "category": "Cards"
+      "category": "Cards",
+      "animation_type": "click",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "contact-sections",
       "status": "success",
-      "category": "Inputs & Forms"
+      "category": "Inputs & Forms",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "cta-sections",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "faqs",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "footers",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "illustrations",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "login-and-signup-sections",
       "status": "success",
-      "category": "Inputs & Forms"
+      "category": "Inputs & Forms",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "navbars",
       "status": "success",
-      "category": "Navigation"
+      "category": "Navigation",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "pricing-sections",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "sidebars",
       "status": "success",
-      "category": "Navigation"
+      "category": "Navigation",
+      "animation_type": "hover",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "stats-sections",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "testimonials",
       "status": "success",
-      "category": "Layout"
+      "category": "Layout",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     },
     {
       "slug": "text-animations",
       "status": "success",
-      "category": "Text Effects"
+      "category": "Text Effects",
+      "animation_type": "load",
+      "has_preview": true,
+      "has_raw_markdown": true
     }
-  ],
-  "timestamp": "2026-03-01T06:20:14Z"
+  ]
 }
