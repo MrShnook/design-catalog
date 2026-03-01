@@ -14,12 +14,13 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "npm i react-markdown date-fnsCopy",
+  "code_snippet": "npm i react-markdown date-fns",
   "install_command": "",
   "use_cases": [
     "Feature sections",
     "Dashboards",
     "Content pages"
   ],
-  "free": false
+  "free": false,
+  "full_source_available": false
 }

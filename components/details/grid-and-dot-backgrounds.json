@@ -22,12 +22,13 @@
     "motion",
     "tailwind-merge"
   ],
-  "code_snippet": "import { ClassValue, clsx } from \"clsx\";\nimport { twMerge } from \"tailwind-merge\";\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs));\n}CopySelect Language",
+  "code_snippet": "import { cn } from \"@/lib/utils\";\nimport React from \"react\";\n \nexport function GridBackgroundDemo() {\n  return (\n    <div className=\"relative flex h-[50rem] w-full items-center justify-center bg-white dark:bg-black\">\n      <div\n        className={cn(\n          \"absolute inset-0\",\n          \"[background-size:40px_40px]\",\n          \"[background-image:linear-gradient(to_right,#e4e4e7_1px,transparent_1px),linear-gradient(to_bottom,#e4e4e7_1px,transparent_1px)]\",\n          \"dark:[background-image:linear-gradient(to_right,#262626_1px,transparent_1px),linear-gradient(to_bottom,#262626_1px,transparent_1px)]\",\n        )}\n      />\n      {/* Radial gradient for the container to give a faded look */}\n      <div className=\"pointer-events-none absolute inset-0 flex items-center justify-center bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)] dark:bg-black\"></div>\n      <p className=\"relative z-20 bg-gradient-to-b from-neutral-200 to-neutral-500 bg-clip-text py-8 text-4xl font-bold text-transparent sm:text-7xl\">\n        Backgrounds\n      </p>\n    </div>\n  );\n}",
   "install_command": "npx shadcn@latest add @aceternity/grid-background-demo",
   "use_cases": [
     "Hero sections",
     "Landing pages",
     "Feature sections"
   ],
-  "free": true
+  "free": true,
+  "full_source_available": true
 }

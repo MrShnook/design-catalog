@@ -1,0 +1,1 @@
+npm i @tabler/icons-react react-fast-marquee

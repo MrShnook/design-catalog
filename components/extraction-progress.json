@@ -28,12 +28,14 @@
     "has_source": true
   },
   "canvas-text": {
-    "status": "failed",
-    "error": "Read failed: cat: /tmp/ace-canvas-text-1772350135.json: No such file or directory"
+    "status": "success",
+    "source_length": 195,
+    "method": "markdown_scrape"
   },
   "3d-globe": {
-    "status": "failed",
-    "error": "Read failed: cat: /tmp/ace-3d-globe-1772350182.json: No such file or directory"
+    "status": "success",
+    "source_length": 42,
+    "method": "markdown_scrape"
   },
   "dither-shader": {
     "status": "success",
@@ -423,5 +425,381 @@
     "source_length": 6578,
     "has_usage": true,
     "has_source": true
+  },
+  "glowing-stars-effect": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3832,
+    "has_usage": false,
+    "has_source": true
+  },
+  "grid-and-dot-backgrounds": {
+    "status": "success",
+    "blocks_found": 3,
+    "source_length": 1090,
+    "has_usage": false,
+    "has_source": true
+  },
+  "hero-highlight": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 4510,
+    "has_usage": true,
+    "has_source": true
+  },
+  "hero-parallax": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 4150,
+    "has_usage": true,
+    "has_source": true
+  },
+  "infinite-moving-cards": {
+    "status": "success",
+    "blocks_found": 5,
+    "source_length": 3679,
+    "has_usage": true,
+    "has_source": true
+  },
+  "lamp-effect": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 4164,
+    "has_usage": true,
+    "has_source": true
+  },
+  "layout-grid": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3248,
+    "has_usage": false,
+    "has_source": true
+  },
+  "link-preview": {
+    "status": "success",
+    "blocks_found": 6,
+    "source_length": 3907,
+    "has_usage": true,
+    "has_source": true
+  },
+  "meteors": {
+    "status": "success",
+    "blocks_found": 5,
+    "source_length": 1535,
+    "has_usage": true,
+    "has_source": true
+  },
+  "moving-border": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3091,
+    "has_usage": true,
+    "has_source": true
+  },
+  "parallax-scroll": {
+    "status": "success",
+    "blocks_found": 5,
+    "source_length": 4455,
+    "has_usage": false,
+    "has_source": true
+  },
+  "placeholders-and-vanish-input": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 8395,
+    "has_usage": true,
+    "has_source": true
+  },
+  "shooting-stars-and-stars-background": {
+    "status": "success",
+    "blocks_found": 5,
+    "source_length": 3711,
+    "has_usage": true,
+    "has_source": true
+  },
+  "sidebar": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 4736,
+    "has_usage": false,
+    "has_source": true
+  },
+  "signup-form": {
+    "status": "success",
+    "blocks_found": 6,
+    "source_length": 5118,
+    "has_usage": false,
+    "has_source": true
+  },
+  "sparkles": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 11485,
+    "has_usage": false,
+    "has_source": true
+  },
+  "spotlight-new": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3587,
+    "has_usage": true,
+    "has_source": true
+  },
+  "spotlight": {
+    "status": "success",
+    "blocks_found": 5,
+    "source_length": 1451,
+    "has_usage": false,
+    "has_source": true
+  },
+  "sticky-scroll-reveal": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3468,
+    "has_usage": true,
+    "has_source": true
+  },
+  "svg-mask-effect": {
+    "status": "success",
+    "blocks_found": 5,
+    "source_length": 2484,
+    "has_usage": true,
+    "has_source": true
+  },
+  "tabs": {
+    "status": "success",
+    "blocks_found": 5,
+    "source_length": 3157,
+    "has_usage": true,
+    "has_source": true
+  },
+  "text-generate-effect": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 1387,
+    "has_usage": true,
+    "has_source": true
+  },
+  "text-reveal-card": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 5298,
+    "has_usage": false,
+    "has_source": true
+  },
+  "typewriter-effect": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 4180,
+    "has_usage": true,
+    "has_source": true
+  },
+  "vortex": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 7171,
+    "has_usage": true,
+    "has_source": true
+  },
+  "wavy-background": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3079,
+    "has_usage": true,
+    "has_source": true
+  },
+  "wobble-card": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 2574,
+    "has_usage": true,
+    "has_source": true
+  },
+  "hover-border-gradient": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3257,
+    "has_usage": true,
+    "has_source": true
+  },
+  "multi-step-loader": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 4114,
+    "has_usage": true,
+    "has_source": true
+  },
+  "3d-pin": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 5490,
+    "has_usage": true,
+    "has_source": true
+  },
+  "background-boxes": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 2173,
+    "has_usage": true,
+    "has_source": true
+  },
+  "background-gradient": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 2451,
+    "has_usage": true,
+    "has_source": true
+  },
+  "card-hover-effect": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 2596,
+    "has_usage": true,
+    "has_source": true
+  },
+  "direction-aware-hover": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3561,
+    "has_usage": true,
+    "has_source": true
+  },
+  "floating-navbar": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 2753,
+    "has_usage": true,
+    "has_source": true
+  },
+  "following-pointer": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3262,
+    "has_usage": true,
+    "has_source": true
+  },
+  "images-slider": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 3493,
+    "has_usage": true,
+    "has_source": true
+  },
+  "navbar-menu": {
+    "status": "success",
+    "blocks_found": 4,
+    "source_length": 2915,
+    "has_usage": true,
+    "has_source": true
+  },
+  "tailwindcss-buttons": {
+    "status": "success",
+    "blocks_found": 5,
+    "source_length": 11218,
+    "has_usage": false,
+    "has_source": true
+  },
+  "timeline": {
+    "status": "success",
+    "blocks_found": 5,
+    "source_length": 3368,
+    "has_usage": true,
+    "has_source": true
+  },
+  "hero-sections": {
+    "status": "success",
+    "blocks_found": 2,
+    "source_length": 44,
+    "has_usage": false,
+    "has_source": true
+  },
+  "shaders": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "logo-clouds": {
+    "status": "success",
+    "blocks_found": 1,
+    "source_length": 24,
+    "has_usage": false,
+    "has_source": true
+  },
+  "feature-sections": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "backgrounds": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "bento-grids": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "blog-content-sections": {
+    "status": "success",
+    "blocks_found": 1,
+    "source_length": 29,
+    "has_usage": false,
+    "has_source": true
+  },
+  "blog-sections": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "cards": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "contact-sections": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "cta-sections": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "faqs": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "footers": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "illustrations": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "login-and-signup-sections": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "navbars": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "pricing-sections": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "sidebars": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "stats-sections": {
+    "status": "no_code",
+    "error": "No blocks"
+  },
+  "testimonials": {
+    "status": "success",
+    "blocks_found": 3,
+    "source_length": 24,
+    "has_usage": false,
+    "has_source": true
+  },
+  "text-animations": {
+    "status": "no_code",
+    "error": "No blocks"
   }
 }

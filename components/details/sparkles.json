@@ -16,12 +16,13 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "npx shadcn@latest add @aceternity/sparkles",
-  "install_command": "npx shadcn@latest add @aceternity/sparkles-demo",
+  "code_snippet": "\"use client\";\nimport React, { useId, useMemo } from \"react\";\nimport { useEffect, useState } from \"react\";\nimport Particles, { initParticlesEngine } from \"@tsparticles/react\";\nimport type { Container, SingleOrMultiple } from \"@tsparticles/engine\";\nimport { loadSlim } from \"@tsparticles/slim\";\nimport { cn } from \"@/lib/utils\";\nimport { motion, useAnimation } from \"motion/react\";\n \ntype ParticlesProps = {\n  id?: string;\n  className?: string;\n  background?: string;\n  particleSize?: number;\n  minSize?: number;\n  maxSize?: number;\n  speed?: number;\n  particleColor?: string;\n  particleDensity?: number;\n};\nexport const SparklesCore = (props: ParticlesProps) => {\n  const {\n    id,\n    className,\n    background,\n    minSize,\n    maxSize,\n    speed,\n    particleColor,\n    particleDensity,\n  } = props;\n  const [init, setInit] = useState(false);\n  useEffect(() => {\n    initParticlesEngine(async (engine) => {\n      await loadSlim(engine);\n    }).then(() => {\n      setInit(true);\n    });\n  }, []);\n  const controls = useAnimation();\n \n  const particlesLoaded = async (container?: Container) => {\n    if (container) {\n      controls.start({\n        opacity: 1,\n        transition: {\n          duration: 1,\n        },\n      });\n    }\n  };\n \n  const generatedId = useId();\n  return (\n    <motion.div animate={controls} className={cn(\"opacity-0\", className)}>\n      {init && (\n        <Particles\n          id={id || generatedId}\n          className={cn(\"h-full w-full\")}\n          particlesLoaded={particlesLoaded}\n          options={{\n            background: {\n              color: {\n                value: background || \"#0d47a1\",\n              },\n            },\n            fullScreen: {\n              enable: false,\n              zIndex: 1,\n            },\n \n            fpsLimit: 120,\n            interactivity: {\n              events: {\n                onClick: {\n                  enable: true,\n                  mode: \"push\",\n                },\n                onHover: {\n                  enable: false,\n                  mode: \"repulse\",\n                },\n                resize: true as any,\n              },\n              modes: {\n                push: {\n                  quantity: 4,\n                },\n                repulse: {\n                  distance: 200,\n                  duration: 0.4,\n                },\n              },\n            },\n            particles: {\n              bounce: {\n                horizontal: {\n                  value: 1,\n                },\n                vertical: {\n// ...",
+  "install_command": "npx shadcn@latest add @aceternity/sparkles",
   "use_cases": [
     "Visual accents",
     "Hero sections",
     "Background effects"
   ],
-  "free": true
+  "free": true,
+  "full_source_available": true
 }

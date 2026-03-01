@@ -1,0 +1,1 @@
+npx shadcn@latest add @aceternity/3d-globe

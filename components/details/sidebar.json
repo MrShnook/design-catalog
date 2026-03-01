@@ -17,12 +17,13 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "npx shadcn@latest add @aceternity/sidebar",
-  "install_command": "npx shadcn@latest add @aceternity/sidebar-demo",
+  "code_snippet": "\"use client\";\nimport { cn } from \"@/lib/utils\";\nimport React, { useState, createContext, useContext } from \"react\";\nimport { AnimatePresence, motion } from \"motion/react\";\nimport { IconMenu2, IconX } from \"@tabler/icons-react\";\n \ninterface Links {\n  label: string;\n  href: string;\n  icon: React.JSX.Element | React.ReactNode;\n}\n \ninterface SidebarContextProps {\n  open: boolean;\n  setOpen: React.Dispatch<React.SetStateAction<boolean>>;\n  animate: boolean;\n}\n \nconst SidebarContext = createContext<SidebarContextProps | undefined>(\n  undefined\n);\n \nexport const useSidebar = () => {\n  const context = useContext(SidebarContext);\n  if (!context) {\n    throw new Error(\"useSidebar must be used within a SidebarProvider\");\n  }\n  return context;\n};\n \nexport const SidebarProvider = ({\n  children,\n  open: openProp,\n  setOpen: setOpenProp,\n  animate = true,\n}: {\n  children: React.ReactNode;\n  open?: boolean;\n  setOpen?: React.Dispatch<React.SetStateAction<boolean>>;\n  animate?: boolean;\n}) => {\n  const [openState, setOpenState] = useState(false);\n \n  const open = openProp !== undefined ? openProp : openState;\n  const setOpen = setOpenProp !== undefined ? setOpenProp : setOpenState;\n \n  return (\n    <SidebarContext.Provider value={{ open, setOpen, animate: animate }}>\n      {children}\n    </SidebarContext.Provider>\n  );\n};\n \nexport const Sidebar = ({\n  children,\n  open,\n  setOpen,\n  animate,\n}: {\n  children: React.ReactNode;\n  open?: boolean;\n  setOpen?: React.Dispatch<React.SetStateAction<boolean>>;\n  animate?: boolean;\n}) => {\n  return (\n    <SidebarProvider open={open} setOpen={setOpen} animate={animate}>\n      {children}\n    </SidebarProvider>\n  );\n};\n \nexport const SidebarBody = (props: React.ComponentProps<typeof motion.div>) => {\n  return (\n    <>\n      <DesktopSidebar {...props} />\n      <MobileSidebar {...(props as React.ComponentProps<\"div\">)} />\n    </>\n  );\n};\n \nexport const DesktopSidebar = ({\n  className,\n  children,\n  ...props\n}: React.ComponentProps<typeof motion.div>) => {\n  const { open, setOpen, animate } = useSidebar();\n  return (\n    <>\n      <motion.div\n        className={cn(\n          \"h-full px-4 py-4 hidden  md:flex md:flex-col bg-neutral-100 dark:bg-neutral-800 w-[300px] shrink-0\",\n          className\n        )}\n        animate={{\n          width: animate ? (open ? \"300px\" : \"60px\") : \"300px\",\n        }}\n        onMouseEnter={() => setOpen(true)}\n        onMouseLeave={() => setOpen(false)}\n        {...props}\n      >\n// ...",
+  "install_command": "npx shadcn@latest add @aceternity/sidebar",
   "use_cases": [
     "App navigation",
     "Dashboards",
     "Marketing sites"
   ],
-  "free": true
+  "free": true,
+  "full_source_available": true
 }

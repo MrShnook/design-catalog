@@ -18,12 +18,13 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "npx shadcn@latest add @aceternity/3d-globe\nCopy",
+  "code_snippet": "npx shadcn@latest add @aceternity/3d-globe",
   "install_command": "npx shadcn@latest add @aceternity/3d-globe-demo`Copy",
   "use_cases": [
     "Data dashboards",
     "Location displays",
     "Analytics"
   ],
-  "free": true
+  "free": true,
+  "full_source_available": true
 }

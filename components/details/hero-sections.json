@@ -18,12 +18,13 @@
   "dependencies": [
     "@tabler/icons-react"
   ],
-  "code_snippet": "npm i @tabler/icons-react react-fast-marqueeCopy",
+  "code_snippet": "npm i @tabler/icons-react react-fast-marquee",
   "install_command": "",
   "use_cases": [
     "Landing pages",
     "Product pages",
     "Marketing sites"
   ],
-  "free": false
+  "free": false,
+  "full_source_available": false
 }

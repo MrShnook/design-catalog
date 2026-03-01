@@ -1,0 +1,161 @@
+{
+  "pass": 2,
+  "total": 122,
+  "success": 84,
+  "failed": 38,
+  "skipped": 0,
+  "failed_details": [
+    {
+      "slug": "laser-flow",
+      "error": "No code found"
+    },
+    {
+      "slug": "ghost-cursor",
+      "error": "No code found"
+    },
+    {
+      "slug": "shape-blur",
+      "error": "No code found"
+    },
+    {
+      "slug": "image-trail",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "ribbons",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "splash-cursor",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "meta-balls",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "blob-cursor",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "star-border",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "circular-gallery",
+      "error": "No code found"
+    },
+    {
+      "slug": "flying-posters",
+      "error": "No code found"
+    },
+    {
+      "slug": "infinite-menu",
+      "error": "No code found"
+    },
+    {
+      "slug": "liquid-ether",
+      "error": "No code found"
+    },
+    {
+      "slug": "prism",
+      "error": "No code found"
+    },
+    {
+      "slug": "dark-veil",
+      "error": "No code found"
+    },
+    {
+      "slug": "floating-lines",
+      "error": "No code found"
+    },
+    {
+      "slug": "pixel-blast",
+      "error": "No code found"
+    },
+    {
+      "slug": "color-bends",
+      "error": "No code found"
+    },
+    {
+      "slug": "aurora",
+      "error": "No code found"
+    },
+    {
+      "slug": "plasma",
+      "error": "No code found"
+    },
+    {
+      "slug": "particles",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "gradient-blinds",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "grainient",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "grid-scan",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "beams",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "pixel-snow",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    },
+    {
+      "slug": "prismatic-burst",
+      "error": "No code found"
+    },
+    {
+      "slug": "galaxy",
+      "error": "No code found"
+    },
+    {
+      "slug": "faulty-terminal",
+      "error": "No code found"
+    },
+    {
+      "slug": "ripple-grid",
+      "error": "No code found"
+    },
+    {
+      "slug": "threads",
+      "error": "No code found"
+    },
+    {
+      "slug": "hyperspeed",
+      "error": "No code found"
+    },
+    {
+      "slug": "iridescence",
+      "error": "No code found"
+    },
+    {
+      "slug": "grid-distortion",
+      "error": "No code found"
+    },
+    {
+      "slug": "ballpit",
+      "error": "No code found"
+    },
+    {
+      "slug": "orb",
+      "error": "No code found"
+    },
+    {
+      "slug": "liquid-chrome",
+      "error": "No code found"
+    },
+    {
+      "slug": "balatro",
+      "error": "Unexpected error during execute browser code: Status code 410. Browser session has been destroyed. - No additional error details provided."
+    }
+  ]
+}
