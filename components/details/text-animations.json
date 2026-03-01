@@ -24,5 +24,26 @@
     "Hero text",
     "Loading states"
   ],
-  "free": false
+  "free": false,
+  "full_source_available": false,
+  "block_variants": [
+    "Installation",
+    "Installation",
+    "Text Animation Flipping Words",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Text Animation Typewriter Effect",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Text Animation Blur Fade In",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
+    "Build faster with\n\nAll-Access"
+  ],
+  "block_urls": [
+    "https://ui.aceternity.com/blocks/text-animations/text-animation-flipping-words",
+    "https://ui.aceternity.com/blocks/text-animations/text-animation-typewriter-effect",
+    "https://ui.aceternity.com/blocks/text-animations/text-animation-blur-fade-in"
+  ]
 }

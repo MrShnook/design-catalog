@@ -23,5 +23,47 @@
     "Landing pages",
     "Feature sections"
   ],
-  "free": false
+  "free": false,
+  "full_source_available": false,
+  "block_variants": [
+    "Installation",
+    "Installation",
+    "Background with full video",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Background with shooting stars",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Background with dots",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Background with Noise Grid",
+    "Download the noise.webp file from here",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Background with dots masked",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Background with dots masked vertical",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Background with skewed rectangles",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Background with skewed lines",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
+    "Build faster with\n\nAll-Access"
+  ],
+  "block_urls": [
+    "https://ui.aceternity.com/blocks/backgrounds/background-with-full-video",
+    "https://ui.aceternity.com/blocks/backgrounds/background-with-shooting-stars",
+    "https://ui.aceternity.com/blocks/backgrounds/background-with-dots",
+    "https://ui.aceternity.com/blocks/backgrounds/background-with-noise-grid",
+    "https://ui.aceternity.com/blocks/backgrounds/background-with-dots-masked",
+    "https://ui.aceternity.com/blocks/backgrounds/background-with-dots-masked-vertical",
+    "https://ui.aceternity.com/blocks/backgrounds/background-with-skewed-rectangles",
+    "https://ui.aceternity.com/blocks/backgrounds/background-with-skewed-lines"
+  ]
 }

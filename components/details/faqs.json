@@ -21,5 +21,26 @@
     "Dashboards",
     "Content pages"
   ],
-  "free": false
+  "free": false,
+  "full_source_available": false,
+  "block_variants": [
+    "Installation",
+    "Installation",
+    "Frequently asked questions with accordion",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Simple FAQs with Background",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "FAQs with grid",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
+    "Build faster with\n\nAll-Access"
+  ],
+  "block_urls": [
+    "https://ui.aceternity.com/blocks/faqs/frequently-asked-questions-with-accordion",
+    "https://ui.aceternity.com/blocks/faqs/simple-faqs-with-background",
+    "https://ui.aceternity.com/blocks/faqs/faqs-with-grid"
+  ]
 }

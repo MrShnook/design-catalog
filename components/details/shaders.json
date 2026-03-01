@@ -24,5 +24,26 @@
     "Landing pages",
     "Feature sections"
   ],
-  "free": false
+  "free": false,
+  "full_source_available": false,
+  "block_variants": [
+    "Installation",
+    "Installation",
+    "Lines Gradient Shader",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Dot Distortion Shader",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Spotlight Shader",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
+    "Build faster with\n\nAll-Access"
+  ],
+  "block_urls": [
+    "https://ui.aceternity.com/blocks/shaders/lines-gradient-shader",
+    "https://ui.aceternity.com/blocks/shaders/dot-distortion-shader",
+    "https://ui.aceternity.com/blocks/shaders/spotlight-shader"
+  ]
 }

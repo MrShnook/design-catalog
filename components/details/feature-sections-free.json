@@ -23,5 +23,6 @@
     "Dashboards",
     "Content pages"
   ],
-  "free": true
+  "free": true,
+  "full_source_available": false
 }

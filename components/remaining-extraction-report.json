@@ -1,0 +1,163 @@
+{
+  "3d-globe": {
+    "status": "success",
+    "blocks_found": 8,
+    "source_length": 16467,
+    "has_real_source": true,
+    "type": "component"
+  },
+  "feature-sections-free": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 0,
+    "has_real_source": false,
+    "type": "component"
+  },
+  "backgrounds": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 4097,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "bento-grids": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 438,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "blog-content-sections": {
+    "status": "partial",
+    "blocks_found": 2,
+    "source_length": 2347,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "blog-sections": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2166,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "cards": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2712,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "contact-sections": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2564,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "cta-sections": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2794,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "faqs": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2512,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "feature-sections": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 4473,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "footers": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2438,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "hero-sections": {
+    "status": "partial",
+    "blocks_found": 4,
+    "source_length": 7387,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "illustrations": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 3912,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "login-and-signup-sections": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 3112,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "logo-clouds": {
+    "status": "partial",
+    "blocks_found": 2,
+    "source_length": 2913,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "navbars": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 3253,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "pricing-sections": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 3117,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "shaders": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2423,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "sidebars": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2181,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "stats-sections": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2723,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "testimonials": {
+    "status": "partial",
+    "blocks_found": 6,
+    "source_length": 3272,
+    "has_real_source": false,
+    "type": "block"
+  },
+  "text-animations": {
+    "status": "partial",
+    "blocks_found": 0,
+    "source_length": 2538,
+    "has_real_source": false,
+    "type": "block"
+  }
+}

@@ -26,5 +26,9 @@
     "Dashboards",
     "Content pages"
   ],
-  "free": false
+  "free": false,
+  "full_source_available": false,
+  "block_variants": [
+    "Oops! Something went wrong"
+  ]
 }

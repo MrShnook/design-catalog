@@ -22,5 +22,27 @@
     "Contact forms",
     "Search"
   ],
-  "free": false
+  "free": false,
+  "full_source_available": false,
+  "block_variants": [
+    "Installation",
+    "Installation",
+    "Contact Form Grid with Details",
+    "Download the world map SVG from here world-map.svg",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Simple Centered Contact Form",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Contact Section With Shader",
+    "This component block is a part\nof Aceternity UI all-access pass",
+    "For a one-time payment, you get access to all components and templates, including future updates and new templates.",
+    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
+    "Build faster with\n\nAll-Access"
+  ],
+  "block_urls": [
+    "https://ui.aceternity.com/blocks/contact-sections/contact-form-grid-with-details",
+    "https://ui.aceternity.com/blocks/contact-sections/simple-centered-contact-form",
+    "https://ui.aceternity.com/blocks/contact-sections/contact-section-with-shader"
+  ]
 }
