@@ -1,0 +1,27 @@
+{
+  "name": "Timeline",
+  "slug": "timeline",
+  "url": "https://ui.aceternity.com/components/timeline",
+  "type": "component",
+  "description": "A timeline component with sticky header and scroll beam follow.",
+  "category": "Layout",
+  "tags": [
+    "scroll"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Vertical timeline with animated entry points. Items animate into view as user scrolls with staggered fade and slide transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "type TimelineEntry = {\n  title: string;\n  content: React.ReactNode;\n};CopySelect Language",
+  "install_command": "npx shadcn@latest add @aceternity/timeline-demo",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": true
+}

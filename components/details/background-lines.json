@@ -1,0 +1,30 @@
+{
+  "name": "Background Lines",
+  "slug": "background-lines",
+  "url": "https://ui.aceternity.com/components/background-lines",
+  "type": "component",
+  "description": "A set of svg paths that animate in a wave pattern. Good for hero sections background, as seen on height.app",
+  "category": "Backgrounds",
+  "tags": [
+    "animation",
+    "text",
+    "background"
+  ],
+  "animation_type": "load",
+  "animation_description": "Animated lines sweep across the background creating a dynamic linear pattern with varying opacity and speed.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "SVG"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/background-lines",
+  "install_command": "npx shadcn@latest add @aceternity/background-lines-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

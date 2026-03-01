@@ -1,0 +1,25 @@
+{
+  "name": "CTA Sections",
+  "slug": "cta-sections",
+  "url": "https://ui.aceternity.com/blocks/cta-sections",
+  "type": "block",
+  "description": "CTA sections with modern and minimalist styles",
+  "category": "Layout",
+  "tags": [],
+  "animation_type": "load",
+  "animation_description": "Grid layout with hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": false
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Background Beams With Collision",
+  "slug": "background-beams-with-collision",
+  "url": "https://ui.aceternity.com/components/background-beams-with-collision",
+  "type": "component",
+  "description": "Exploding beams in the background",
+  "category": "Backgrounds",
+  "tags": [
+    "background"
+  ],
+  "animation_type": "load",
+  "animation_description": "Light beams animate across the screen and collide/interact when meeting, creating particle effects at intersection points.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/background-beams-with-collision",
+  "install_command": "npx shadcn@latest add @aceternity/background-beams-with-collision-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

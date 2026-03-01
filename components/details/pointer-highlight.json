@@ -1,0 +1,28 @@
+{
+  "name": "Pointer Highlight",
+  "slug": "pointer-highlight",
+  "url": "https://ui.aceternity.com/components/pointer-highlight",
+  "type": "component",
+  "description": "A component that highlights text when it's in view, with a pointer and border.",
+  "category": "Text Effects",
+  "tags": [
+    "interactive",
+    "text"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Interactive UI component with hover animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/pointer-highlight",
+  "install_command": "npx shadcn@latest add @aceternity/pointer-highlight-demo",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

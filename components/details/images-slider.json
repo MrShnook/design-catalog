@@ -1,0 +1,25 @@
+{
+  "name": "Images Slider",
+  "slug": "images-slider",
+  "url": "https://ui.aceternity.com/components/images-slider",
+  "type": "component",
+  "description": "A full page slider with images that can be navigated with the keyboard.",
+  "category": "Carousels & Sliders",
+  "tags": [],
+  "animation_type": "load",
+  "animation_description": "Full-width image slider with smooth crossfade or slide transitions between images. Supports autoplay and gesture-based navigation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/images-slider",
+  "install_command": "npx shadcn@latest add @aceternity/images-slider-demo",
+  "use_cases": [
+    "Testimonials",
+    "Image galleries",
+    "Feature showcases"
+  ],
+  "free": true
+}

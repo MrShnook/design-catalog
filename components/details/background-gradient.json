@@ -1,0 +1,30 @@
+{
+  "name": "Background Gradient",
+  "slug": "background-gradient",
+  "url": "https://ui.aceternity.com/components/background-gradient",
+  "type": "component",
+  "description": "An animated gradient that sits at the background of a card, button or anything.",
+  "category": "Backgrounds",
+  "tags": [
+    "gradient",
+    "animation",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Gradient colors shift and blend continuously.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/background-gradient",
+  "install_command": "npx shadcn@latest add @aceternity/background-gradient-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

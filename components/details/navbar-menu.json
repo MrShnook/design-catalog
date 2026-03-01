@@ -1,0 +1,28 @@
+{
+  "name": "Navbar Menu",
+  "slug": "navbar-menu",
+  "url": "https://ui.aceternity.com/components/navbar-menu",
+  "type": "component",
+  "description": "A navbar menu that animates its children on hover, makes a beautiful bignav",
+  "category": "Navigation",
+  "tags": [
+    "hover",
+    "animation"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Animated navigation menu with dropdown panels. Menu items expand to show sub-content with smooth height and opacity transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/navbar-menu",
+  "install_command": "npx shadcn@latest add @aceternity/navbar-menu-demo",
+  "use_cases": [
+    "App navigation",
+    "Dashboards",
+    "Marketing sites"
+  ],
+  "free": true
+}

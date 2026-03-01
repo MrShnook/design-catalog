@@ -1,0 +1,28 @@
+{
+  "name": "Dotted Glow Background",
+  "slug": "dotted-glow-background",
+  "url": "https://ui.aceternity.com/components/dotted-glow-background",
+  "type": "component",
+  "description": "A background effect with opacity animation, glow effect and more.",
+  "category": "Backgrounds",
+  "tags": [
+    "background",
+    "animated"
+  ],
+  "animation_type": "continuous",
+  "animation_description": "Background with animated glowing dots arranged in a grid pattern. Dots pulse with radial glow effects and optional cursor-reactive highlighting.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// Install: npx shadcn@latest add @aceternity/dotted-glow-background-demo\n// Key Props:\n//   className: `string` - -\n//   gap: `number` - `12`\n//   radius: `number` - `2`\n//   color: `string` - `\"rgba(0,0,0,0.7)\"`\n//   darkColor: `string` - -\n//   glowColor: `string` - `\"rgba(0, 170, 255, 0.85)\"`",
+  "install_command": "npx shadcn@latest add @aceternity/dotted-glow-background-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Visual accents"
+  ],
+  "free": true
+}

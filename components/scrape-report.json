@@ -1,0 +1,616 @@
+{
+  "total": 123,
+  "success": 115,
+  "errors": 0,
+  "skipped": 8,
+  "results": [
+    {
+      "slug": "tooltip-card",
+      "status": "skipped"
+    },
+    {
+      "slug": "macbook-scroll",
+      "status": "skipped"
+    },
+    {
+      "slug": "3d-card-effect",
+      "status": "skipped"
+    },
+    {
+      "slug": "ascii-art",
+      "status": "skipped"
+    },
+    {
+      "slug": "canvas-text",
+      "status": "skipped"
+    },
+    {
+      "slug": "3d-globe",
+      "status": "skipped"
+    },
+    {
+      "slug": "dither-shader",
+      "status": "skipped"
+    },
+    {
+      "slug": "dotted-glow-background",
+      "status": "skipped"
+    },
+    {
+      "slug": "encrypted-text",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "images-badge",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "keyboard",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "noise-background",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "scales",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "text-hover-effect",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "webcam-pixel-grid",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "animated-testimonials",
+      "status": "success",
+      "category": "Carousels & Sliders"
+    },
+    {
+      "slug": "apple-cards-carousel",
+      "status": "success",
+      "category": "Carousels & Sliders"
+    },
+    {
+      "slug": "background-beams-with-collision",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "background-lines",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "background-ripple-effect",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "card-spotlight",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "carousel",
+      "status": "success",
+      "category": "Carousels & Sliders"
+    },
+    {
+      "slug": "code-block",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "colourful-text",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "comet-card",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "compare",
+      "status": "success",
+      "category": "Comparison"
+    },
+    {
+      "slug": "container-cover",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "container-text-flip",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "draggable-card",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "expandable-card",
+      "status": "success",
+      "category": "Modals & Overlays"
+    },
+    {
+      "slug": "feature-sections-free",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "file-upload",
+      "status": "success",
+      "category": "Inputs & Forms"
+    },
+    {
+      "slug": "floating-dock",
+      "status": "success",
+      "category": "Navigation"
+    },
+    {
+      "slug": "focus-cards",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "hero-sections-free",
+      "status": "success",
+      "category": "Hero Sections"
+    },
+    {
+      "slug": "layout-text-flip",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "lens",
+      "status": "success",
+      "category": "Modals & Overlays"
+    },
+    {
+      "slug": "loader",
+      "status": "success",
+      "category": "Loaders"
+    },
+    {
+      "slug": "pixelated-canvas",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "pointer-highlight",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "resizable-navbar",
+      "status": "success",
+      "category": "Navigation"
+    },
+    {
+      "slug": "stateful-button",
+      "status": "success",
+      "category": "Buttons"
+    },
+    {
+      "slug": "sticky-banner",
+      "status": "success",
+      "category": "Navigation"
+    },
+    {
+      "slug": "world-map",
+      "status": "success",
+      "category": "Data Viz"
+    },
+    {
+      "slug": "google-gemini-effect",
+      "status": "success",
+      "category": "Hero Sections"
+    },
+    {
+      "slug": "tracing-beam",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "3d-marquee",
+      "status": "success",
+      "category": "Hero Sections"
+    },
+    {
+      "slug": "animated-modal",
+      "status": "success",
+      "category": "Modals & Overlays"
+    },
+    {
+      "slug": "animated-tooltip",
+      "status": "success",
+      "category": "Tooltips"
+    },
+    {
+      "slug": "aurora-background",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "background-beams",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "background-gradient-animation",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "bento-grid",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "canvas-reveal-effect",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "card-stack",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "cards-free",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "container-scroll-animation",
+      "status": "success",
+      "category": "Hero Sections"
+    },
+    {
+      "slug": "evervault-card",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "flip-words",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "github-globe",
+      "status": "success",
+      "category": "Data Viz"
+    },
+    {
+      "slug": "glare-card",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "glowing-effect",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "glowing-stars-effect",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "grid-and-dot-backgrounds",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "hero-highlight",
+      "status": "success",
+      "category": "Hero Sections"
+    },
+    {
+      "slug": "hero-parallax",
+      "status": "success",
+      "category": "Hero Sections"
+    },
+    {
+      "slug": "infinite-moving-cards",
+      "status": "success",
+      "category": "Carousels & Sliders"
+    },
+    {
+      "slug": "lamp-effect",
+      "status": "success",
+      "category": "Hero Sections"
+    },
+    {
+      "slug": "layout-grid",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "link-preview",
+      "status": "success",
+      "category": "Tooltips"
+    },
+    {
+      "slug": "meteors",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "moving-border",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "parallax-scroll",
+      "status": "success",
+      "category": "Carousels & Sliders"
+    },
+    {
+      "slug": "placeholders-and-vanish-input",
+      "status": "success",
+      "category": "Inputs & Forms"
+    },
+    {
+      "slug": "shooting-stars-and-stars-background",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "sidebar",
+      "status": "success",
+      "category": "Navigation"
+    },
+    {
+      "slug": "signup-form",
+      "status": "success",
+      "category": "Inputs & Forms"
+    },
+    {
+      "slug": "sparkles",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "spotlight-new",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "spotlight",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "sticky-scroll-reveal",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "svg-mask-effect",
+      "status": "success",
+      "category": "Modals & Overlays"
+    },
+    {
+      "slug": "tabs",
+      "status": "success",
+      "category": "Navigation"
+    },
+    {
+      "slug": "text-generate-effect",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "text-reveal-card",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "typewriter-effect",
+      "status": "success",
+      "category": "Text Effects"
+    },
+    {
+      "slug": "vortex",
+      "status": "success",
+      "category": "Hero Sections"
+    },
+    {
+      "slug": "wavy-background",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "wobble-card",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "hover-border-gradient",
+      "status": "success",
+      "category": "Buttons"
+    },
+    {
+      "slug": "multi-step-loader",
+      "status": "success",
+      "category": "Loaders"
+    },
+    {
+      "slug": "3d-pin",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "background-boxes",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "background-gradient",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "card-hover-effect",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "direction-aware-hover",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "floating-navbar",
+      "status": "success",
+      "category": "Navigation"
+    },
+    {
+      "slug": "following-pointer",
+      "status": "success",
+      "category": "Decorative"
+    },
+    {
+      "slug": "images-slider",
+      "status": "success",
+      "category": "Carousels & Sliders"
+    },
+    {
+      "slug": "navbar-menu",
+      "status": "success",
+      "category": "Navigation"
+    },
+    {
+      "slug": "tailwindcss-buttons",
+      "status": "success",
+      "category": "Buttons"
+    },
+    {
+      "slug": "timeline",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "hero-sections",
+      "status": "success",
+      "category": "Hero Sections"
+    },
+    {
+      "slug": "shaders",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "logo-clouds",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "feature-sections",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "backgrounds",
+      "status": "success",
+      "category": "Backgrounds"
+    },
+    {
+      "slug": "bento-grids",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "blog-content-sections",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "blog-sections",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "cards",
+      "status": "success",
+      "category": "Cards"
+    },
+    {
+      "slug": "contact-sections",
+      "status": "success",
+      "category": "Inputs & Forms"
+    },
+    {
+      "slug": "cta-sections",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "faqs",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "footers",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "illustrations",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "login-and-signup-sections",
+      "status": "success",
+      "category": "Inputs & Forms"
+    },
+    {
+      "slug": "navbars",
+      "status": "success",
+      "category": "Navigation"
+    },
+    {
+      "slug": "pricing-sections",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "sidebars",
+      "status": "success",
+      "category": "Navigation"
+    },
+    {
+      "slug": "stats-sections",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "testimonials",
+      "status": "success",
+      "category": "Layout"
+    },
+    {
+      "slug": "text-animations",
+      "status": "success",
+      "category": "Text Effects"
+    }
+  ],
+  "timestamp": "2026-03-01T06:20:14Z"
+}

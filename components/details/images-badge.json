@@ -1,0 +1,30 @@
+{
+  "name": "Images Badge",
+  "slug": "images-badge",
+  "url": "https://ui.aceternity.com/components/images-badge",
+  "type": "component",
+  "description": "A badge with images that can be hovered to reveal more images.",
+  "category": "Layout",
+  "tags": [
+    "hover",
+    "gradient",
+    "background",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Content reveals progressively with staggered opacity and blur transitions. Grid layout with hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/images-badge",
+  "install_command": "npx shadcn@latest add @aceternity/images-badge-demo",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": true
+}

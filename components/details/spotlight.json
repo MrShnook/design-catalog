@@ -1,0 +1,27 @@
+{
+  "name": "Spotlight",
+  "slug": "spotlight",
+  "url": "https://ui.aceternity.com/components/spotlight",
+  "type": "component",
+  "description": "A spotlight effect with Tailwind CSS, good for drawing attention to a particular element on the page.",
+  "category": "Decorative",
+  "tags": [
+    "tailwind"
+  ],
+  "animation_type": "load",
+  "animation_description": "Radial spotlight effect follows cursor position over the element surface. Creates a dramatic lighting effect highlighting content under the cursor.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "@import \"tailwindcss\";\n\n@theme inline {\n  --animate-spotlight: spotlight 2s ease 0.75s 1 forwards;\n}\n\n@keyframes spotlight {\n  0% {\n    opacity: 0;\n    transform: translate(-72%, -62%) scale(0.5);\n  }\n  100% {\n    opacity: 1;\n    transform: translate(-50%, -40%) scale(1);\n  }\n}Copy",
+  "install_command": "npx shadcn@latest add @aceternity/spotlight-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}

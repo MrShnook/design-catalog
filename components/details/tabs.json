@@ -1,0 +1,28 @@
+{
+  "name": "Animated Tabs",
+  "slug": "tabs",
+  "url": "https://ui.aceternity.com/components/tabs",
+  "type": "component",
+  "description": "Tabs to switch content, click on a tab to check background animation.",
+  "category": "Navigation",
+  "tags": [
+    "animation",
+    "background"
+  ],
+  "animation_type": "click",
+  "animation_description": "Animated tab switching with active indicator that slides between tab options using layout animation. Content transitions with fade or slide.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": ".no-visible-scrollbar {\n  scrollbar-width: none;\n  -ms-overflow-style: none;\n  -webkit-overflow-scrolling: touch;\n}\n\n.no-visible-scrollbar::-webkit-scrollbar {\n  display: none;\n}Copy",
+  "install_command": "npx shadcn@latest add @aceternity/tabs-demo",
+  "use_cases": [
+    "App navigation",
+    "Dashboards",
+    "Marketing sites"
+  ],
+  "free": true
+}

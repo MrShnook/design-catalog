@@ -1,0 +1,29 @@
+{
+  "name": "Text Reveal Card",
+  "slug": "text-reveal-card",
+  "url": "https://ui.aceternity.com/components/text-reveal-card",
+  "type": "component",
+  "description": "Mousemove effect to reveal text content at the bottom of the card.",
+  "category": "Text Effects",
+  "tags": [
+    "interactive",
+    "text",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Card content with text that reveals on hover or scroll with directional mask animation. Text slides in from a specific direction.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/text-reveal-card",
+  "install_command": "npx shadcn@latest add @aceternity/text-reveal-card-demo",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

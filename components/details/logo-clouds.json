@@ -1,0 +1,27 @@
+{
+  "name": "Logo Clouds",
+  "slug": "logo-clouds",
+  "url": "https://ui.aceternity.com/blocks/logo-clouds",
+  "type": "block",
+  "description": "A collection of logo clouds with micro interactions and minimal animations",
+  "category": "Layout",
+  "tags": [
+    "animation"
+  ],
+  "animation_type": "load",
+  "animation_description": "Content flips with 3D rotation transition between states.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npm i react-fast-marqueeCopy",
+  "install_command": "",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": false
+}

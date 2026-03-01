@@ -1,0 +1,27 @@
+{
+  "name": "Colourful Text",
+  "slug": "colourful-text",
+  "url": "https://ui.aceternity.com/components/colourful-text",
+  "type": "component",
+  "description": "A text component with various colours, filter and scale effects.",
+  "category": "Text Effects",
+  "tags": [
+    "text"
+  ],
+  "animation_type": "load",
+  "animation_description": "Text cycles through vibrant color transitions with smooth gradient animations applied to individual characters or words.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/colourful-text",
+  "install_command": "npx shadcn@latest add @aceternity/colourful-text-demo",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

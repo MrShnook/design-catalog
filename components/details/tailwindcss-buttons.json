@@ -1,0 +1,35 @@
+{
+  "name": "Tailwind CSS buttons",
+  "slug": "tailwindcss-buttons",
+  "url": "https://ui.aceternity.com/components/tailwindcss-buttons",
+  "type": "component",
+  "description": "A curated list of awesome, battle tested Tailwind CSS buttons components",
+  "category": "Buttons",
+  "tags": [
+    "gradient",
+    "tailwind"
+  ],
+  "animation_type": "continuous",
+  "animation_description": "Collection of styled button variants with hover, active, and focus state animations. Includes gradient, outline, and ghost styles.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "React"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [
+    "@/lib/utils",
+    "@tabler/icons-react",
+    "clsx",
+    "motion",
+    "tailwind-merge"
+  ],
+  "code_snippet": "/** @type {import('tailwindcss').Config} */\nmodule.exports = {\n  content: [\\\n    \"./src/pages/**/*.{js,ts,jsx,tsx,mdx}\",\\\n    \"./src/components/**/*.{js,ts,jsx,tsx,mdx}\",\\\n    \"./src/app/**/*.{js,ts,jsx,tsx,mdx}\",\\\n  ],\n  darkMode: \"class\",\n  theme: {\n    extend: {\n      animation: {\n        shimmer: \"shimmer 2s linear infinite\",\n      },\n      keyframes: {\n        shimmer: {\n          from: {\n            backgroundPosition: \"0 0\",\n          },\n          to: {\n            backgroundPosition: \"-200% 0\",\n          },\n        },\n      },\n    },\n  },\n  plugins: [],\n};CopySelect Language",
+  "install_command": "npx shadcn@latest add @aceternity/tailwindcss-buttons-demo",
+  "use_cases": [
+    "CTAs",
+    "Form submissions",
+    "Navigation"
+  ],
+  "free": true
+}

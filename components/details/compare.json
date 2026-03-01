@@ -1,0 +1,28 @@
+{
+  "name": "Compare",
+  "slug": "compare",
+  "url": "https://ui.aceternity.com/components/compare",
+  "type": "component",
+  "description": "A comparison component between two images, slide or drag to compare",
+  "category": "Comparison",
+  "tags": [
+    "interactive",
+    "card"
+  ],
+  "animation_type": "drag",
+  "animation_description": "Draggable slider reveals before/after comparison of two overlapping images. Slider handle follows cursor with smooth tracking.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/compare @aceternity/sparkles",
+  "install_command": "npx shadcn@latest add @aceternity/compare-demo",
+  "use_cases": [
+    "Before/after",
+    "Feature comparison",
+    "Pricing"
+  ],
+  "free": true
+}

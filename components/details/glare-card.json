@@ -1,0 +1,28 @@
+{
+  "name": "Glare Card",
+  "slug": "glare-card",
+  "url": "https://ui.aceternity.com/components/glare-card",
+  "type": "component",
+  "description": "A glare effect that happens on hover, as seen on Linear's website",
+  "category": "Cards",
+  "tags": [
+    "hover",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Card with animated glare/shine effect that follows cursor position, simulating light reflection on a glossy surface.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "Linear",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/glare-card",
+  "install_command": "npx shadcn@latest add @aceternity/glare-card-demo",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

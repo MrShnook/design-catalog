@@ -1,0 +1,28 @@
+{
+  "name": "Signup Form",
+  "slug": "signup-form",
+  "url": "https://ui.aceternity.com/components/signup-form",
+  "type": "component",
+  "description": "A customizable form built on top of shadcn's input and label, with a touch of framer motion",
+  "category": "Inputs & Forms",
+  "tags": [
+    "animation",
+    "framer-motion"
+  ],
+  "animation_type": "load",
+  "animation_description": "Sign-up form with animated input fields. Labels float on focus, validation states animate, and submit button has loading/success states.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "@import \"tailwindcss\";\n\n@theme inline {\n  --shadow-input:\n    0px 2px 3px -1px rgba(0, 0, 0, 0.1),\n    0px 1px 0px 0px rgba(25, 28, 33, 0.02),\n    0px 0px 0px 1px rgba(25, 28, 33, 0.08);\n}Copy",
+  "install_command": "npx shadcn@latest add @aceternity/signup-form-demo",
+  "use_cases": [
+    "Sign-up forms",
+    "Contact forms",
+    "Search"
+  ],
+  "free": true
+}

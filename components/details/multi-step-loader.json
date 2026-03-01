@@ -1,0 +1,25 @@
+{
+  "name": "Multi Step Loader",
+  "slug": "multi-step-loader",
+  "url": "https://ui.aceternity.com/components/multi-step-loader",
+  "type": "component",
+  "description": "A step loader for screens that take a lot of time to load.",
+  "category": "Loaders",
+  "tags": [],
+  "animation_type": "click",
+  "animation_description": "Multi-step loading animation with sequential progress indicators. Steps animate in sequence with checkmarks and transitions between states.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/multi-step-loader",
+  "install_command": "npx shadcn@latest add @aceternity/multi-step-loader-demo",
+  "use_cases": [
+    "Page transitions",
+    "Data loading",
+    "Progress indicators"
+  ],
+  "free": true
+}

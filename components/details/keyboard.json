@@ -1,0 +1,29 @@
+{
+  "name": "Keyboard",
+  "slug": "keyboard",
+  "url": "https://ui.aceternity.com/components/keyboard",
+  "type": "component",
+  "description": "A mac style keyboard component with mechanical keys sound effects.",
+  "category": "Decorative",
+  "tags": [
+    "gradient",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Gradient colors shift and blend continuously.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/keyboard",
+  "install_command": "npx shadcn@latest add @aceternity/keyboard-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Layout Text Flip",
+  "slug": "layout-text-flip",
+  "url": "https://ui.aceternity.com/components/layout-text-flip",
+  "type": "component",
+  "description": "A text flip effect that changes the layout of surrounding text",
+  "category": "Text Effects",
+  "tags": [
+    "text"
+  ],
+  "animation_type": "load",
+  "animation_description": "Light beam effect sweeps across the element. Soft gradient blobs shift and morph creating an aurora borealis effect. Content flips with 3D rotation transition between states. Floating tooltip card appears on hover with spring animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/layout-text-flip",
+  "install_command": "npx shadcn@latest add @aceternity/layout-text-flip-demo",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

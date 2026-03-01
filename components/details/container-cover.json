@@ -1,0 +1,27 @@
+{
+  "name": "Cover",
+  "slug": "container-cover",
+  "url": "https://ui.aceternity.com/components/container-cover",
+  "type": "component",
+  "description": "A Cover component that wraps any children, providing beams and space effect, hover to reveal speed.",
+  "category": "Backgrounds",
+  "tags": [
+    "hover"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Layers move at different speeds creating depth illusion on scroll. Light beam effect sweeps across the element. Soft gradient blobs shift and morph creating an aurora borealis effect. Content reveals progressively with staggered opacity and blur transitions. Interactive 3D globe with rotating/interactive earth visualization. Icons magnify on hover with smooth spring animation, similar to macOS dock. Floating tooltip card appears on hover with spring animation. Grid layout with hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/cover",
+  "install_command": "npx shadcn@latest add @aceternity/cover-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

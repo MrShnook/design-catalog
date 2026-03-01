@@ -1,0 +1,28 @@
+{
+  "name": "Google Gemini Effect",
+  "slug": "google-gemini-effect",
+  "url": "https://ui.aceternity.com/components/google-gemini-effect",
+  "type": "component",
+  "description": "An effect of SVGs as seen on the Google Gemini Website",
+  "category": "Hero Sections",
+  "tags": [
+    "scroll"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Dramatic 3D particle/mesh effect that responds to scroll and mouse movement. Particles form shapes and disperse with physics-based animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "SVG"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/google-gemini-effect",
+  "install_command": "npx shadcn@latest add @aceternity/google-gemini-effect-demo",
+  "use_cases": [
+    "Landing pages",
+    "Product pages",
+    "Marketing sites"
+  ],
+  "free": true
+}

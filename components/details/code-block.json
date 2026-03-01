@@ -1,0 +1,26 @@
+{
+  "name": "Code Block",
+  "slug": "code-block",
+  "url": "https://ui.aceternity.com/components/code-block",
+  "type": "component",
+  "description": "A configurable code block component built on top of react-syntax-highlighter.",
+  "category": "Layout",
+  "tags": [],
+  "animation_type": "click",
+  "animation_description": "Active tab indicator slides between options with layout animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "React"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/code-block",
+  "install_command": "npx shadcn@latest add @aceternity/code-block-demo",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": true
+}

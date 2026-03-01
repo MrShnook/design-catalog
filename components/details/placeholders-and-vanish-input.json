@@ -1,0 +1,25 @@
+{
+  "name": "Placeholders And Vanish Input",
+  "slug": "placeholders-and-vanish-input",
+  "url": "https://ui.aceternity.com/components/placeholders-and-vanish-input",
+  "type": "component",
+  "description": "Sliding in placeholders and vanish effect of input on submit",
+  "category": "Inputs & Forms",
+  "tags": [],
+  "animation_type": "load",
+  "animation_description": "Input placeholder text cycles through suggestions and vanishes with animation when user starts typing. Smooth text transition effects.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/placeholders-and-vanish-input",
+  "install_command": "npx shadcn@latest add @aceternity/placeholders-and-vanish-input-demo",
+  "use_cases": [
+    "Sign-up forms",
+    "Contact forms",
+    "Search"
+  ],
+  "free": true
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Floating Navbar",
+  "slug": "floating-navbar",
+  "url": "https://ui.aceternity.com/components/floating-navbar",
+  "type": "component",
+  "description": "A sticky Navbar that hides on scroll, reveals when scrolled up.",
+  "category": "Navigation",
+  "tags": [
+    "scroll"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Navigation bar floats and transforms on scroll. Shrinks, changes background opacity, or repositions based on scroll direction and position.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/floating-navbar",
+  "install_command": "npx shadcn@latest add @aceternity/floating-navbar-demo",
+  "use_cases": [
+    "App navigation",
+    "Dashboards",
+    "Marketing sites"
+  ],
+  "free": true
+}

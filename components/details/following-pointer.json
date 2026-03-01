@@ -1,0 +1,29 @@
+{
+  "name": "Following Pointer",
+  "slug": "following-pointer",
+  "url": "https://ui.aceternity.com/components/following-pointer",
+  "type": "component",
+  "description": "A custom pointer that follows mouse arrow and animates in pointer and content.",
+  "category": "Decorative",
+  "tags": [
+    "animation",
+    "interactive",
+    "tailwind"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Element smoothly follows cursor position with spring physics and configurable lag. Creates a trailing effect with eased movement.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/following-pointer",
+  "install_command": "npx shadcn@latest add @aceternity/following-pointer-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}

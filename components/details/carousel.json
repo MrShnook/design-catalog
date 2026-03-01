@@ -1,0 +1,27 @@
+{
+  "name": "Carousel",
+  "slug": "carousel",
+  "url": "https://ui.aceternity.com/components/carousel",
+  "type": "component",
+  "description": "A customizable carousel with microinteractions and slider.",
+  "category": "Carousels & Sliders",
+  "tags": [
+    "3d"
+  ],
+  "animation_type": "load",
+  "animation_description": "Smooth sliding transitions between content panels with configurable autoplay, navigation controls, and spring-based animations.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/carousel",
+  "install_command": "npx shadcn@latest add @aceternity/carousel-demo",
+  "use_cases": [
+    "Testimonials",
+    "Image galleries",
+    "Feature showcases"
+  ],
+  "free": true
+}

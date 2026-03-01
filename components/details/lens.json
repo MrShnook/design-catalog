@@ -1,0 +1,27 @@
+{
+  "name": "Lens",
+  "slug": "lens",
+  "url": "https://ui.aceternity.com/components/lens",
+  "type": "component",
+  "description": "A lens component to zoom into images, videos, or practically anything.",
+  "category": "Modals & Overlays",
+  "tags": [
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Magnifying lens effect follows cursor revealing zoomed or alternate content underneath. Lens has smooth tracking with configurable zoom level.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/lens",
+  "install_command": "npx shadcn@latest add @aceternity/lens-demo",
+  "use_cases": [
+    "Dialogs",
+    "Image zoom",
+    "Detail views"
+  ],
+  "free": true
+}

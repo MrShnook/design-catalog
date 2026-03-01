@@ -1,0 +1,28 @@
+{
+  "name": "Pricing sections",
+  "slug": "pricing-sections",
+  "url": "https://ui.aceternity.com/blocks/pricing-sections",
+  "type": "block",
+  "description": "Minimal and elegant pricing sections.",
+  "category": "Layout",
+  "tags": [
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Grid layout with hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Three.js"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": false
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Testimonials",
+  "slug": "testimonials",
+  "url": "https://ui.aceternity.com/blocks/testimonials",
+  "type": "block",
+  "description": "Testimonials sections for social proof and trust",
+  "category": "Layout",
+  "tags": [
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Interactive UI component with load animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [
+    "@headlessui/reactCopy"
+  ],
+  "code_snippet": "npm i react-fast-marqueeCopy",
+  "install_command": "",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": false
+}

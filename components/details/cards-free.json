@@ -1,0 +1,30 @@
+{
+  "name": "Cards",
+  "slug": "cards-free",
+  "url": "https://ui.aceternity.com/components/cards-free",
+  "type": "component",
+  "description": "A set of cards that can be used for different use cases",
+  "category": "Cards",
+  "tags": [
+    "card",
+    "tailwind"
+  ],
+  "animation_type": "load",
+  "animation_description": "Card transforms on hover with smooth spring transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [
+    "tailwindcss"
+  ],
+  "code_snippet": "import type { Config } from \"tailwindcss\";\n\nconst config: Config = {\n  content: [\\\n    \"./pages/**/*.{js,ts,jsx,tsx,mdx}\",\\\n    \"./components/**/*.{js,ts,jsx,tsx,mdx}\",\\\n    \"./app/**/*.{js,ts,jsx,tsx,mdx}\",\\\n  ],\n  theme: {\n    extend: {\n      animation: {\n        move: \"move 5s linear infinite\",\n      },\n      keyframes: {\n        move: {\n          \"0%\": { transform: \"translateX(-200px)\" },\n          \"100%\": { transform: \"translateX(200px)\" },\n        },\n      },\n    },\n  },\n  plugins: [],\n};\n\nexport default config;CopySelect Language",
+  "install_command": "npx shadcn@latest add @aceternity/cards-demo-1 @aceternity/cards-demo-2 @aceternity/cards-demo-3",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

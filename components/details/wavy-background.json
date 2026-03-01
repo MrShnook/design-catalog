@@ -1,0 +1,28 @@
+{
+  "name": "Wavy Background",
+  "slug": "wavy-background",
+  "url": "https://ui.aceternity.com/components/wavy-background",
+  "type": "component",
+  "description": "A cool background effect with waves that move.",
+  "category": "Backgrounds",
+  "tags": [
+    "background"
+  ],
+  "animation_type": "load",
+  "animation_description": "Background with animated wave shapes that move continuously. Multiple wave layers create depth with varying speeds and amplitudes.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Canvas API"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/wavy-background",
+  "install_command": "npx shadcn@latest add @aceternity/wavy-background-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

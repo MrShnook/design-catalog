@@ -1,0 +1,31 @@
+{
+  "name": "Noise Background",
+  "slug": "noise-background",
+  "url": "https://ui.aceternity.com/components/noise-background",
+  "type": "component",
+  "description": "A dynamic background effect with animated gradients, noise texture, and smooth motion.",
+  "category": "Backgrounds",
+  "tags": [
+    "gradient",
+    "animation",
+    "text",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Gradient colors shift and blend continuously. Grid layout with hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/noise-background",
+  "install_command": "npx shadcn@latest add @aceternity/noise-background-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Glowing Effect",
+  "slug": "glowing-effect",
+  "url": "https://ui.aceternity.com/components/glowing-effect",
+  "type": "component",
+  "description": "A border glowing effect that adapts to any container or card, as seen on Cursor's website.",
+  "category": "Decorative",
+  "tags": [
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Pulsing glow effect around element borders. Glow intensity and color shift continuously with CSS animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/glowing-effect",
+  "install_command": "npx shadcn@latest add @aceternity/glowing-effect-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}

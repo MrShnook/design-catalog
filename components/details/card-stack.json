@@ -1,0 +1,30 @@
+{
+  "name": "Card Stack",
+  "slug": "card-stack",
+  "url": "https://ui.aceternity.com/components/card-stack",
+  "type": "component",
+  "description": "Cards stack on top of each other after some interval. Perfect for showing testimonials.",
+  "category": "Cards",
+  "tags": [
+    "gradient",
+    "animation",
+    "card",
+    "framer-motion"
+  ],
+  "animation_type": "load",
+  "animation_description": "Cards stack with depth offset and can be swiped/dragged to reveal cards underneath with spring physics.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/card-stack",
+  "install_command": "npx shadcn@latest add @aceternity/card-stack-demo",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

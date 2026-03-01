@@ -1,0 +1,28 @@
+{
+  "name": "Tracing Beam",
+  "slug": "tracing-beam",
+  "url": "https://ui.aceternity.com/components/tracing-beam",
+  "type": "component",
+  "description": "A Beam that follows the path of an SVG as the user scrolls. Adjusts beam length with scroll speed.",
+  "category": "Decorative",
+  "tags": [
+    "scroll"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "A beam of light traces along a vertical path as user scrolls down the page. Beam follows scroll progress with glowing head and fading trail.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "SVG"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/tracing-beam",
+  "install_command": "npx shadcn@latest add @aceternity/tracing-beam-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}

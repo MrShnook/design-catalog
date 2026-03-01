@@ -1,0 +1,30 @@
+{
+  "name": "Background Beams",
+  "slug": "background-beams",
+  "url": "https://ui.aceternity.com/components/background-beams",
+  "type": "component",
+  "description": "Multiple background beams that follow a path of SVG, makes a good hero section background.",
+  "category": "Backgrounds",
+  "tags": [
+    "gradient",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Animated light beams sweep across the background. Beams follow paths with varying speeds and opacity, creating a dynamic lighting effect.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "SVG"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/background-beams",
+  "install_command": "npx shadcn@latest add @aceternity/background-beams-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Parallax Grid Scroll",
+  "slug": "parallax-scroll",
+  "url": "https://ui.aceternity.com/components/parallax-scroll",
+  "type": "component",
+  "description": "A grid where two columns scroll in oposite directions, giving a parallax effect.",
+  "category": "Carousels & Sliders",
+  "tags": [
+    "scroll",
+    "card"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Content sections with parallax depth effect on scroll. Elements move at different rates creating a layered 3D scrolling experience.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/parallax-scroll parallax-scroll-2",
+  "install_command": "npx shadcn@latest add @aceternity/parallax-scroll-demo",
+  "use_cases": [
+    "Testimonials",
+    "Image galleries",
+    "Feature showcases"
+  ],
+  "free": true
+}

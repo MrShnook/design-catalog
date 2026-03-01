@@ -1,0 +1,25 @@
+{
+  "name": "Lamp Section Header",
+  "slug": "lamp-effect",
+  "url": "https://ui.aceternity.com/components/lamp-effect",
+  "type": "component",
+  "description": "A lamp effect as seen on linear, great for section headers.",
+  "category": "Hero Sections",
+  "tags": [],
+  "animation_type": "load",
+  "animation_description": "Dramatic lamp/light cone effect with glow and shadow animations. Light beam expands from a point source with radial gradient and blur.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "Linear",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/lamp",
+  "install_command": "npx shadcn@latest add @aceternity/lamp-demo",
+  "use_cases": [
+    "Landing pages",
+    "Product pages",
+    "Marketing sites"
+  ],
+  "free": true
+}

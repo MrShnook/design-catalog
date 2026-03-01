@@ -1,0 +1,28 @@
+{
+  "name": "Shaders",
+  "slug": "shaders",
+  "url": "https://ui.aceternity.com/blocks/shaders",
+  "type": "block",
+  "description": "A collection of reusable shaders for your backgrounds.",
+  "category": "Backgrounds",
+  "tags": [
+    "gradient",
+    "background"
+  ],
+  "animation_type": "load",
+  "animation_description": "Gradient colors shift and blend continuously. Radial light effect follows cursor position. Floating tooltip card appears on hover with spring animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": false
+}

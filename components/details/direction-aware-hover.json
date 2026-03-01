@@ -1,0 +1,31 @@
+{
+  "name": "Direction Aware Hover",
+  "slug": "direction-aware-hover",
+  "url": "https://ui.aceternity.com/components/direction-aware-hover",
+  "type": "component",
+  "description": "A direction aware hover effect using Framer Motion, Tailwindcss and good old javascript.",
+  "category": "Cards",
+  "tags": [
+    "hover",
+    "animation",
+    "card",
+    "framer-motion",
+    "tailwind"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Soft gradient blobs shift and morph creating an aurora borealis effect. Floating tooltip card appears on hover with spring animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/direction-aware-hover",
+  "install_command": "npx shadcn@latest add @aceternity/direction-aware-hover-demo",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

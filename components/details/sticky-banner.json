@@ -1,0 +1,27 @@
+{
+  "name": "Sticky Banner",
+  "slug": "sticky-banner",
+  "url": "https://ui.aceternity.com/components/sticky-banner",
+  "type": "component",
+  "description": "A banner component that sticks to top, hides when user scrolls down",
+  "category": "Navigation",
+  "tags": [
+    "scroll"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Content sticks while scrolling with progressive reveal.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/sticky-banner",
+  "install_command": "npx shadcn@latest add @aceternity/sticky-banner-demo",
+  "use_cases": [
+    "App navigation",
+    "Dashboards",
+    "Marketing sites"
+  ],
+  "free": true
+}

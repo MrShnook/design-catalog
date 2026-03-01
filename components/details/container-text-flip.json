@@ -1,0 +1,28 @@
+{
+  "name": "Container Text Flip",
+  "slug": "container-text-flip",
+  "url": "https://ui.aceternity.com/components/container-text-flip",
+  "type": "component",
+  "description": "A container that flips through words, animating the width.",
+  "category": "Text Effects",
+  "tags": [
+    "animation",
+    "text"
+  ],
+  "animation_type": "load",
+  "animation_description": "Content flips with 3D rotation transition between states.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/container-text-flip",
+  "install_command": "npx shadcn@latest add @aceternity/container-text-flip-demo",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

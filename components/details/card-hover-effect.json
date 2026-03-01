@@ -1,0 +1,28 @@
+{
+  "name": "Hover Effect",
+  "slug": "card-hover-effect",
+  "url": "https://ui.aceternity.com/components/card-hover-effect",
+  "type": "component",
+  "description": "Hover over the cards and the effect slides to the currently hovered card.",
+  "category": "Cards",
+  "tags": [
+    "hover",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Card transforms on hover with 3D perspective tilt, spotlight gradient that follows cursor, and elevated shadow effect.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/card-hover-effect",
+  "install_command": "npx shadcn@latest add @aceternity/card-hover-effect-demo",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

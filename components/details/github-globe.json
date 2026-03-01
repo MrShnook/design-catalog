@@ -1,0 +1,29 @@
+{
+  "name": "GitHub Globe",
+  "slug": "github-globe",
+  "url": "https://ui.aceternity.com/components/github-globe",
+  "type": "component",
+  "description": "A globe animation as seen on GitHub's homepage. Interactive and customizable.",
+  "category": "Data Viz",
+  "tags": [
+    "animation",
+    "interactive",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Interactive 3D globe visualization rendered with WebGL/Three.js. Shows connection arcs between points with animated travel paths.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "GitHub",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/globe",
+  "install_command": "npx shadcn@latest add @aceternity/globe-demo",
+  "use_cases": [
+    "Data dashboards",
+    "Location displays",
+    "Analytics"
+  ],
+  "free": true
+}

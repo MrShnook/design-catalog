@@ -1,0 +1,27 @@
+{
+  "name": "Encrypted Text",
+  "slug": "encrypted-text",
+  "url": "https://ui.aceternity.com/components/encrypted-text",
+  "type": "component",
+  "description": "A text component that reveals the text gradually, gibberish effect.",
+  "category": "Text Effects",
+  "tags": [
+    "text"
+  ],
+  "animation_type": "load",
+  "animation_description": "Content flips with 3D rotation transition between states. Content reveals progressively with staggered opacity and blur transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/encrypted-text",
+  "install_command": "npx shadcn@latest add @aceternity/encrypted-text-demo-2",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

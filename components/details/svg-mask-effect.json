@@ -1,0 +1,31 @@
+{
+  "name": "SVG Mask Effect",
+  "slug": "svg-mask-effect",
+  "url": "https://ui.aceternity.com/components/svg-mask-effect",
+  "type": "component",
+  "description": "A mask reveal effect, hover the cursor over a container to reveal what's underneath.",
+  "category": "Modals & Overlays",
+  "tags": [
+    "hover",
+    "animation",
+    "card",
+    "tailwind"
+  ],
+  "animation_type": "hover",
+  "animation_description": "SVG-based mask reveals content underneath with animated mask shape changes. Cursor position or scroll controls the mask reveal area.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "SVG"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "<svg\n  width=\"1298\"\n  height=\"1298\"\n  viewBox=\"0 0 1298 1298\"\n  fill=\"none\"\n  xmlns=\"http://www.w3.org/2000/svg\"\n>\n  <circle cx=\"649\" cy=\"649\" r=\"649\" fill=\"black\" />\n</svg>CopySelect Language",
+  "install_command": "npx shadcn@latest add @aceternity/svg-mask-effect-demo",
+  "use_cases": [
+    "Dialogs",
+    "Image zoom",
+    "Detail views"
+  ],
+  "free": true
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Resizable Navbar",
+  "slug": "resizable-navbar",
+  "url": "https://ui.aceternity.com/components/resizable-navbar",
+  "type": "component",
+  "description": "A navbar that changes width on scroll, responsive and animated.",
+  "category": "Navigation",
+  "tags": [
+    "scroll",
+    "animation",
+    "responsive"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Navigation bar that resizes and reorganizes its layout based on scroll position or viewport size with smooth dimension transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/resizable-navbar",
+  "install_command": "npx shadcn@latest add @aceternity/resizable-navbar-demo",
+  "use_cases": [
+    "App navigation",
+    "Dashboards",
+    "Marketing sites"
+  ],
+  "free": true
+}

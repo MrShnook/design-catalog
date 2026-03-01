@@ -1,0 +1,33 @@
+{
+  "name": "Grid and Dot Backgrounds",
+  "slug": "grid-and-dot-backgrounds",
+  "url": "https://ui.aceternity.com/components/grid-and-dot-backgrounds",
+  "type": "component",
+  "description": "A simple grid and dots background to make your sections stand out.",
+  "category": "Backgrounds",
+  "tags": [
+    "animation",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Configurable grid or dot pattern backgrounds with optional radial gradient fade and hover-activated highlight effects.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [
+    "clsx",
+    "motion",
+    "tailwind-merge"
+  ],
+  "code_snippet": "import { ClassValue, clsx } from \"clsx\";\nimport { twMerge } from \"tailwind-merge\";\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs));\n}CopySelect Language",
+  "install_command": "npx shadcn@latest add @aceternity/grid-background-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

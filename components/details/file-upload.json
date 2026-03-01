@@ -1,0 +1,28 @@
+{
+  "name": "File Upload",
+  "slug": "file-upload",
+  "url": "https://ui.aceternity.com/components/file-upload",
+  "type": "component",
+  "description": "A minimal file upload form with background grid, drag and drop, and micro interactions.",
+  "category": "Inputs & Forms",
+  "tags": [
+    "interactive",
+    "background"
+  ],
+  "animation_type": "click",
+  "animation_description": "File upload component with drag-and-drop zone. Visual feedback on dragover with border animation and progress indication on upload.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/file-upload",
+  "install_command": "npx shadcn@latest add @aceternity/file-upload-demo",
+  "use_cases": [
+    "Sign-up forms",
+    "Contact forms",
+    "Search"
+  ],
+  "free": true
+}

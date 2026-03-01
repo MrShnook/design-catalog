@@ -1,0 +1,28 @@
+{
+  "name": "World Map",
+  "slug": "world-map",
+  "url": "https://ui.aceternity.com/components/world-map",
+  "type": "component",
+  "description": "A world map with animated lines and dots, programatically generated.",
+  "category": "Data Viz",
+  "tags": [
+    "animation"
+  ],
+  "animation_type": "load",
+  "animation_description": "Interactive world map with animated connection arcs between geographic points. Dots pulse at locations with arcs that animate along curved paths.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "SVG"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/world-map",
+  "install_command": "npx shadcn@latest add @aceternity/world-map-demo",
+  "use_cases": [
+    "Data dashboards",
+    "Location displays",
+    "Analytics"
+  ],
+  "free": true
+}

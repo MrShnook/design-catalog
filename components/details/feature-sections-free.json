@@ -1,0 +1,27 @@
+{
+  "name": "Feature Sections",
+  "slug": "feature-sections-free",
+  "url": "https://ui.aceternity.com/components/feature-sections-free",
+  "type": "component",
+  "description": "A set of feature sections ranging from bento grids to simple layouts",
+  "category": "Layout",
+  "tags": [
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Grid layout with hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/features-section-demo-1 @aceternity/features-section-demo-2 @aceternity/features-section-demo-3",
+  "install_command": "npx shadcn@latest add @aceternity/features-section-demo-1 @aceternity/features-section-demo-2 @aceternity/features-section-demo-3",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": true
+}

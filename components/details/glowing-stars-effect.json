@@ -1,0 +1,30 @@
+{
+  "name": "Glowing Background Stars Card",
+  "slug": "glowing-stars-effect",
+  "url": "https://ui.aceternity.com/components/glowing-stars-effect",
+  "type": "component",
+  "description": "Card background stars that animate on hover and animate anyway",
+  "category": "Backgrounds",
+  "tags": [
+    "hover",
+    "animation",
+    "background",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Layers move at different speeds creating depth illusion on scroll. Light beam effect sweeps across the element. Soft gradient blobs shift and morph creating an aurora borealis effect. Interactive 3D globe with rotating/interactive earth visualization. Items scroll continuously in a seamless loop. Icons magnify on hover with smooth spring animation, similar to macOS dock. Floating tooltip card appears on hover with spring animation. Grid layout with hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/glowing-stars",
+  "install_command": "npx shadcn@latest add @aceternity/glowing-stars-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Card Spotlight",
+  "slug": "card-spotlight",
+  "url": "https://ui.aceternity.com/components/card-spotlight",
+  "type": "component",
+  "description": "A card component with a spotlight effect revealing a radial gradient background",
+  "category": "Backgrounds",
+  "tags": [
+    "gradient",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Gradient colors shift and blend continuously. Soft gradient blobs shift and morph creating an aurora borealis effect. Content reveals progressively with staggered opacity and blur transitions. Radial light effect follows cursor position. Floating tooltip card appears on hover with spring animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/card-spotlight",
+  "install_command": "npx shadcn@latest add @aceternity/card-spotlight-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

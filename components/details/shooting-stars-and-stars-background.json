@@ -1,0 +1,31 @@
+{
+  "name": "Shooting Stars and Stars Background",
+  "slug": "shooting-stars-and-stars-background",
+  "url": "https://ui.aceternity.com/components/shooting-stars-and-stars-background",
+  "type": "component",
+  "description": "A shooting star animation on top of a starry background, as seen on figmaplug.in",
+  "category": "Backgrounds",
+  "tags": [
+    "gradient",
+    "animation",
+    "background",
+    "card"
+  ],
+  "animation_type": "continuous",
+  "animation_description": "Streaks of light animate diagonally across the container.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "SVG"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/shooting-stars stars-background",
+  "install_command": "npx shadcn@latest add @aceternity/shooting-stars-and-stars-background-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

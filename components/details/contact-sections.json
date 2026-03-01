@@ -1,0 +1,26 @@
+{
+  "name": "Contact Sections",
+  "slug": "contact-sections",
+  "url": "https://ui.aceternity.com/blocks/contact-sections",
+  "type": "block",
+  "description": "Contact sections with forms and micro interactions",
+  "category": "Inputs & Forms",
+  "tags": [],
+  "animation_type": "load",
+  "animation_description": "Interactive UI component with load animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "SVG"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Sign-up forms",
+    "Contact forms",
+    "Search"
+  ],
+  "free": false
+}

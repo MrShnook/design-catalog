@@ -1,0 +1,29 @@
+{
+  "name": "Wobble Card",
+  "slug": "wobble-card",
+  "url": "https://ui.aceternity.com/components/wobble-card",
+  "type": "component",
+  "description": "A card effect that translates and scales on mousemove, perfect for feature cards.",
+  "category": "Cards",
+  "tags": [
+    "interactive",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Card wobbles with slight rotation and tilt on hover interaction. Spring-based physics create a natural, playful movement.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/wobble-card",
+  "install_command": "npx shadcn@latest add @aceternity/wobble-card-demo",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

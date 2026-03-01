@@ -1,0 +1,28 @@
+{
+  "name": "Animated Testimonials",
+  "slug": "animated-testimonials",
+  "url": "https://ui.aceternity.com/components/animated-testimonials",
+  "type": "component",
+  "description": "Minimal testimonials sections with image and quote.",
+  "category": "Carousels & Sliders",
+  "tags": [
+    "3d",
+    "animation"
+  ],
+  "animation_type": "load",
+  "animation_description": "Testimonial cards transition between entries with smooth fade and slide animations. Auto-plays or responds to navigation controls.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/animated-testimonials",
+  "install_command": "npx shadcn@latest add @aceternity/animated-testimonials-demo",
+  "use_cases": [
+    "Testimonials",
+    "Image galleries",
+    "Feature showcases"
+  ],
+  "free": true
+}

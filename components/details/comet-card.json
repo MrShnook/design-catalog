@@ -1,0 +1,29 @@
+{
+  "name": "Comet Card",
+  "slug": "comet-card",
+  "url": "https://ui.aceternity.com/components/comet-card",
+  "type": "component",
+  "description": "A perspective, 3D, Tilt card as seen on Perplexity Comet's website.",
+  "category": "Cards",
+  "tags": [
+    "3d",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Element transforms in 3D space with perspective. Soft gradient blobs shift and morph creating an aurora borealis effect. Floating tooltip card appears on hover with spring animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/comet-card",
+  "install_command": "npx shadcn@latest add @aceternity/comet-card-demo",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

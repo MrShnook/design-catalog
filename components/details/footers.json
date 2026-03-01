@@ -1,0 +1,27 @@
+{
+  "name": "Footers",
+  "slug": "footers",
+  "url": "https://ui.aceternity.com/blocks/footers",
+  "type": "block",
+  "description": "Clean footers with a variety of styles and layouts",
+  "category": "Layout",
+  "tags": [
+    "hover"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Interactive UI component with hover animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": false
+}

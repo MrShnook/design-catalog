@@ -1,0 +1,28 @@
+{
+  "name": "Hero Sections",
+  "slug": "hero-sections-free",
+  "url": "https://ui.aceternity.com/components/hero-sections-free",
+  "type": "component",
+  "description": "A set of hero sections ranging from simple to complex layouts",
+  "category": "Hero Sections",
+  "tags": [
+    "animation",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Layers move at different speeds creating depth illusion on scroll. Light beam effect sweeps across the element. Soft gradient blobs shift and morph creating an aurora borealis effect. Interactive 3D globe with rotating/interactive earth visualization. Icons magnify on hover with smooth spring animation, similar to macOS dock. Floating tooltip card appears on hover with spring animation. Grid layout with hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/hero-section-demo-1",
+  "install_command": "npx shadcn@latest add @aceternity/hero-section-demo-1",
+  "use_cases": [
+    "Landing pages",
+    "Product pages",
+    "Marketing sites"
+  ],
+  "free": true
+}

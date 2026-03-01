@@ -1,0 +1,27 @@
+{
+  "name": "Typewriter Effect",
+  "slug": "typewriter-effect",
+  "url": "https://ui.aceternity.com/components/typewriter-effect",
+  "type": "component",
+  "description": "Text generates as if it is being typed on the screen.",
+  "category": "Text Effects",
+  "tags": [
+    "text"
+  ],
+  "animation_type": "load",
+  "animation_description": "Text types out character by character with a blinking cursor. Configurable speed, with optional delete and retype animation for multiple strings.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/typewriter-effect",
+  "install_command": "npx shadcn@latest add @aceternity/typewriter-effect-demo-1",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

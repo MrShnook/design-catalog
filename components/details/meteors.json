@@ -1,0 +1,28 @@
+{
+  "name": "Meteor Effect",
+  "slug": "meteors",
+  "url": "https://ui.aceternity.com/components/meteors",
+  "type": "component",
+  "description": "A group of beams in the background of a container, sort of like meteors.",
+  "category": "Decorative",
+  "tags": [
+    "background",
+    "card"
+  ],
+  "animation_type": "continuous",
+  "animation_description": "Animated meteor streaks fall diagonally across the container with varying speeds, sizes, and trail effects. Continuous loop animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "@theme inline {\n  --animate-meteor-effect: meteor 5s linear infinite;\n\n  @keyframes meteor {\n    0% {\n      transform: rotate(215deg) translateX(0);\n      opacity: 1;\n    }\n    70% {\n      opacity: 1;\n    }\n    100% {\n      transform: rotate(215deg) translateX(-500px);\n      opacity: 0;\n    }\n  }\n}Copy",
+  "install_command": "npx shadcn@latest add @aceternity/meteors-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}

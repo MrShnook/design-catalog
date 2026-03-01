@@ -1,0 +1,27 @@
+{
+  "name": "Moving Border",
+  "slug": "moving-border",
+  "url": "https://ui.aceternity.com/components/moving-border",
+  "type": "component",
+  "description": "A border that moves around the container. Perfect for making your buttons stand out.",
+  "category": "Decorative",
+  "tags": [
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Animated gradient border that travels along the element perimeter. Gradient rotates continuously around the border path with smooth color transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/moving-border",
+  "install_command": "npx shadcn@latest add @aceternity/moving-border-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}

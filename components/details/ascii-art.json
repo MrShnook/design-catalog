@@ -1,0 +1,30 @@
+{
+  "name": "ASCII Art",
+  "slug": "ascii-art",
+  "url": "https://ui.aceternity.com/components/ascii-art",
+  "type": "component",
+  "description": "Convert any image to ASCII art with customizable charsets, colors, and animations.",
+  "category": "Layout",
+  "tags": [
+    "animation",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Text appears character by character simulating typing.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Canvas API"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/ascii-art",
+  "install_command": "npx shadcn@latest add @aceternity/ascii-art-demo",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": true
+}

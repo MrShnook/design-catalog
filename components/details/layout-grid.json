@@ -1,0 +1,28 @@
+{
+  "name": "Layout Grid",
+  "slug": "layout-grid",
+  "url": "https://ui.aceternity.com/components/layout-grid",
+  "type": "component",
+  "description": "A layout effect that animates the grid item on click, powered by framer motion layout",
+  "category": "Layout",
+  "tags": [
+    "animation",
+    "framer-motion"
+  ],
+  "animation_type": "click",
+  "animation_description": "Responsive grid with animated card layouts. Items can be rearranged with layout animations and hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/layout-grid",
+  "install_command": "npx shadcn@latest add @aceternity/layout-grid-demo",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": true
+}

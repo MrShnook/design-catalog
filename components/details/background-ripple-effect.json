@@ -1,0 +1,29 @@
+{
+  "name": "Background Ripple Effect",
+  "slug": "background-ripple-effect",
+  "url": "https://ui.aceternity.com/components/background-ripple-effect",
+  "type": "component",
+  "description": "A grid of cells that ripple when clicked.",
+  "category": "Backgrounds",
+  "tags": [
+    "hover",
+    "interactive",
+    "background"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Interactive UI component with hover animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "@theme inline {\n  --animate-cell-ripple: cell-ripple var(--duration, 200ms) ease-out none 1\n  var(--delay, 0ms);\n\n  @keyframes cell-ripple {\n    0% {\n      opacity: 0.4;\n    }\n    50% {\n      opacity: 0.8;\n    }\n    100% {\n      opacity: 0.4;\n    }\n  }\n}Copy",
+  "install_command": "npx shadcn@latest add @aceternity/background-ripple-effect-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

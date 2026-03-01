@@ -1,0 +1,28 @@
+{
+  "name": "Text Animations",
+  "slug": "text-animations",
+  "url": "https://ui.aceternity.com/blocks/text-animations",
+  "type": "block",
+  "description": "Text animations components for headings and paragraphs",
+  "category": "Text Effects",
+  "tags": [
+    "animation",
+    "text"
+  ],
+  "animation_type": "load",
+  "animation_description": "Text appears character by character simulating typing. Content flips with 3D rotation transition between states.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": false
+}

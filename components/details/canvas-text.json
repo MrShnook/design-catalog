@@ -1,0 +1,29 @@
+{
+  "name": "Canvas Text",
+  "slug": "canvas-text",
+  "url": "https://ui.aceternity.com/components/canvas-text",
+  "type": "component",
+  "description": "Animated text component with colorful curved lines rendered on canvas, clipped to the text shape.",
+  "category": "Text Effects",
+  "tags": [
+    "canvas",
+    "shader"
+  ],
+  "animation_type": "load",
+  "animation_description": "Text rendered on HTML5 Canvas with animated particle or pixel effects. Characters appear with custom canvas-based animations.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Canvas API"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// Install: npx shadcn@latest add @aceternity/canvas-text-demo\n// Key Props:\n//   text: `string` - -\n//   className: `string` - `\"\"`\n//   backgroundClassName: `string` - `\"bg-white dark:bg-neutral-950\"`\n//   colors: `string[]` - `[\"#ff6b6b\", \"#4ecdc4\", \"#45b7d1\", \"#96ceb4\", \"#ffeaa7\", ...]`\n//   animationDuration: `number` - `5`\n//   lineWidth: `number` - `1.5`",
+  "install_command": "npx shadcn@latest add @aceternity/canvas-text-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Visual accents"
+  ],
+  "free": true
+}

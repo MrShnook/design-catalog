@@ -1,0 +1,28 @@
+{
+  "name": "Apple Cards Carousel",
+  "slug": "apple-cards-carousel",
+  "url": "https://ui.aceternity.com/components/apple-cards-carousel",
+  "type": "component",
+  "description": "A sleek and minimal carousel implementation, as seen on apple.com",
+  "category": "Carousels & Sliders",
+  "tags": [
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Cards fan out in a carousel with 3D perspective transforms. Each card can expand to full view with layout animation, similar to Apple's design pattern.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "React"
+  ],
+  "inspired_by": "Apple",
+  "dependencies": [],
+  "code_snippet": "import React, { useEffect } from \"react\";\n\nexport const useOutsideClick = (\n  ref: React.RefObject<HTMLDivElement>,\n  callback: Function\n) => {\n  useEffect(() => {\n    const listener = (event: any) => {\n      if (!ref.current || ref.current.contains(event.target)) {\n        return;\n      }\n      callback(event);\n    };\n\n    document.addEventListener(\"mousedown\", listener);\n    document.addEventListener(\"touchstart\", listener);\n\n    return () => {\n      document.removeEventListener(\"mousedown\", listener);\n      document.removeEventListener(\"touchstart\", listener);\n    };\n  }, [ref, callback]);\n};CopySelect Language",
+  "install_command": "npx shadcn@latest add @aceternity/apple-cards-carousel-demo",
+  "use_cases": [
+    "Testimonials",
+    "Image galleries",
+    "Feature showcases"
+  ],
+  "free": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Floating Dock",
+  "slug": "floating-dock",
+  "url": "https://ui.aceternity.com/components/floating-dock",
+  "type": "component",
+  "description": "A floating dock mac os style component, acts as a navigation bar.",
+  "category": "Navigation",
+  "tags": [],
+  "animation_type": "continuous",
+  "animation_description": "Icons magnify on hover with smooth spring animation, similar to macOS dock. Adjacent icons also scale proportionally based on distance from hovered item.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/floating-dock",
+  "install_command": "npx shadcn@latest add @aceternity/floating-dock-demo",
+  "use_cases": [
+    "App navigation",
+    "Dashboards",
+    "Marketing sites"
+  ],
+  "free": true
+}

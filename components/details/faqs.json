@@ -1,0 +1,25 @@
+{
+  "name": "Frequently asked questions",
+  "slug": "faqs",
+  "url": "https://ui.aceternity.com/blocks/faqs",
+  "type": "block",
+  "description": "Elegant and minimal FAQs with grid, accordions and micro-interactions",
+  "category": "Layout",
+  "tags": [],
+  "animation_type": "load",
+  "animation_description": "Interactive UI component with load animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": false
+}

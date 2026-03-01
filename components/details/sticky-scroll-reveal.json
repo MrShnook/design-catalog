@@ -1,0 +1,28 @@
+{
+  "name": "Sticky Scroll Reveal",
+  "slug": "sticky-scroll-reveal",
+  "url": "https://ui.aceternity.com/components/sticky-scroll-reveal",
+  "type": "component",
+  "description": "A sticky container that sticks while scrolling, text reveals on scroll",
+  "category": "Layout",
+  "tags": [
+    "scroll",
+    "text"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Content sticks while scrolling with progressive reveal of new sections. Each section animates into place as previous content scrolls away.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/sticky-scroll-reveal",
+  "install_command": "npx shadcn@latest add @aceternity/sticky-scroll-reveal-demo",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": true
+}

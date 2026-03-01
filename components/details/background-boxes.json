@@ -1,0 +1,33 @@
+{
+  "name": "Background Boxes",
+  "slug": "background-boxes",
+  "url": "https://ui.aceternity.com/components/background-boxes",
+  "type": "component",
+  "description": "A full width background box container that highlights on hover",
+  "category": "Backgrounds",
+  "tags": [
+    "hover",
+    "gradient",
+    "animation",
+    "background",
+    "card",
+    "framer-motion",
+    "tailwind"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Grid of boxes with hover-activated color fill effects. Boxes light up as cursor moves over them, creating a trail effect.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/background-boxes",
+  "install_command": "npx shadcn@latest add @aceternity/background-boxes-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

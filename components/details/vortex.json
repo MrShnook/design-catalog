@@ -1,0 +1,28 @@
+{
+  "name": "Vortex Background",
+  "slug": "vortex",
+  "url": "https://ui.aceternity.com/components/vortex",
+  "type": "component",
+  "description": "A wavy, swirly, vortex background ideal for CTAs and backgrounds.",
+  "category": "Hero Sections",
+  "tags": [
+    "background"
+  ],
+  "animation_type": "load",
+  "animation_description": "Swirling vortex particle effect creating a tunnel or spiral animation. Particles orbit a central point with depth and perspective.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Canvas API"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/vortex",
+  "install_command": "npx shadcn@latest add @aceternity/vortex-demo",
+  "use_cases": [
+    "Landing pages",
+    "Product pages",
+    "Marketing sites"
+  ],
+  "free": true
+}

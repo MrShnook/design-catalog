@@ -1,0 +1,30 @@
+{
+  "name": "Bento Grids",
+  "slug": "bento-grids",
+  "url": "https://ui.aceternity.com/blocks/bento-grids",
+  "type": "block",
+  "description": "A set of bento grids for various use cases",
+  "category": "Layout",
+  "tags": [
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Grid layout with hover effects on individual cells.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Three.js"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [
+    "cobeCopy"
+  ],
+  "code_snippet": "npm i cobeCopy",
+  "install_command": "",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": false
+}

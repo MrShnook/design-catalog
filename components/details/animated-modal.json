@@ -1,0 +1,27 @@
+{
+  "name": "Animated Modal",
+  "slug": "animated-modal",
+  "url": "https://ui.aceternity.com/components/animated-modal",
+  "type": "component",
+  "description": "A customizable, compound modal component with animated transitions",
+  "category": "Modals & Overlays",
+  "tags": [
+    "animation"
+  ],
+  "animation_type": "load",
+  "animation_description": "Modal animates in with scale and opacity transition. Background blurs with backdrop-filter. Exit animation reverses the entrance with spring physics.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/animated-modal",
+  "install_command": "npx shadcn@latest add @aceternity/animated-modal-demo",
+  "use_cases": [
+    "Dialogs",
+    "Image zoom",
+    "Detail views"
+  ],
+  "free": true
+}

@@ -1,0 +1,863 @@
+[
+  {
+    "raw_text": "Tooltip CardA tooltip card container that follows mouse pointer when hovered over",
+    "slug": "tooltip-card",
+    "path": "/components/tooltip-card",
+    "url": "https://ui.aceternity.com/components/tooltip-card",
+    "type": "component"
+  },
+  {
+    "raw_text": "Fey.com Macbook ScrollScroll through the page and see the image come out of the screen, as seen on Fey.com website.",
+    "slug": "macbook-scroll",
+    "path": "/components/macbook-scroll",
+    "url": "https://ui.aceternity.com/components/macbook-scroll",
+    "type": "component"
+  },
+  {
+    "raw_text": "3D Card EffectA card perspective effect, hover over the card to elevate card elements.",
+    "slug": "3d-card-effect",
+    "path": "/components/3d-card-effect",
+    "url": "https://ui.aceternity.com/components/3d-card-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "ASCII ArtConvert any image to ASCII art with customizable charsets, colors, and animations.",
+    "slug": "ascii-art",
+    "path": "/components/ascii-art",
+    "url": "https://ui.aceternity.com/components/ascii-art",
+    "type": "component"
+  },
+  {
+    "raw_text": "Canvas TextAnimated text component with colorful curved lines rendered on canvas, clipped to the text shape.",
+    "slug": "canvas-text",
+    "path": "/components/canvas-text",
+    "url": "https://ui.aceternity.com/components/canvas-text",
+    "type": "component"
+  },
+  {
+    "raw_text": "3D GlobeA realistic globe component with tooltips and avatar tips",
+    "slug": "3d-globe",
+    "path": "/components/3d-globe",
+    "url": "https://ui.aceternity.com/components/3d-globe",
+    "type": "component"
+  },
+  {
+    "raw_text": "Dither ShaderA real-time ordered dithering effect for images, perfect for pixel art and retro aesthetics.",
+    "slug": "dither-shader",
+    "path": "/components/dither-shader",
+    "url": "https://ui.aceternity.com/components/dither-shader",
+    "type": "component"
+  },
+  {
+    "raw_text": "Dotted Glow BackgroundA background effect with opacity animation, glow effect and more.",
+    "slug": "dotted-glow-background",
+    "path": "/components/dotted-glow-background",
+    "url": "https://ui.aceternity.com/components/dotted-glow-background",
+    "type": "component"
+  },
+  {
+    "raw_text": "Encrypted TextA text component that reveals the text gradually, gibberish effect.",
+    "slug": "encrypted-text",
+    "path": "/components/encrypted-text",
+    "url": "https://ui.aceternity.com/components/encrypted-text",
+    "type": "component"
+  },
+  {
+    "raw_text": "Images BadgeA badge with images that can be hovered to reveal more images.",
+    "slug": "images-badge",
+    "path": "/components/images-badge",
+    "url": "https://ui.aceternity.com/components/images-badge",
+    "type": "component"
+  },
+  {
+    "raw_text": "KeyboardA mac style keyboard component with mechanical keys sound effects.",
+    "slug": "keyboard",
+    "path": "/components/keyboard",
+    "url": "https://ui.aceternity.com/components/keyboard",
+    "type": "component"
+  },
+  {
+    "raw_text": "Noise BackgroundA dynamic background effect with animated gradients, noise texture, and smooth motion.",
+    "slug": "noise-background",
+    "path": "/components/noise-background",
+    "url": "https://ui.aceternity.com/components/noise-background",
+    "type": "component"
+  },
+  {
+    "raw_text": "ScalesA repeating diagonal, horizontal, or vertical line pattern background effect.",
+    "slug": "scales",
+    "path": "/components/scales",
+    "url": "https://ui.aceternity.com/components/scales",
+    "type": "component"
+  },
+  {
+    "raw_text": "Text Hover EffectA text hover effect that animates and outlines gradient on hover, as seen on x.ai",
+    "slug": "text-hover-effect",
+    "path": "/components/text-hover-effect",
+    "url": "https://ui.aceternity.com/components/text-hover-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Webcam Pixel GridA real-time webcam pixel grid effect, perfect for pixel art and retro aesthetics.",
+    "slug": "webcam-pixel-grid",
+    "path": "/components/webcam-pixel-grid",
+    "url": "https://ui.aceternity.com/components/webcam-pixel-grid",
+    "type": "component"
+  },
+  {
+    "raw_text": "Animated TestimonialsMinimal testimonials sections with image and quote.",
+    "slug": "animated-testimonials",
+    "path": "/components/animated-testimonials",
+    "url": "https://ui.aceternity.com/components/animated-testimonials",
+    "type": "component"
+  },
+  {
+    "raw_text": "Apple Cards CarouselA sleek and minimal carousel implementation, as seen on apple.com",
+    "slug": "apple-cards-carousel",
+    "path": "/components/apple-cards-carousel",
+    "url": "https://ui.aceternity.com/components/apple-cards-carousel",
+    "type": "component"
+  },
+  {
+    "raw_text": "Background Beams With CollisionExploding beams in the background",
+    "slug": "background-beams-with-collision",
+    "path": "/components/background-beams-with-collision",
+    "url": "https://ui.aceternity.com/components/background-beams-with-collision",
+    "type": "component"
+  },
+  {
+    "raw_text": "Background LinesA set of svg paths that animate in a wave pattern. Good for hero sections background, as seen on height.app",
+    "slug": "background-lines",
+    "path": "/components/background-lines",
+    "url": "https://ui.aceternity.com/components/background-lines",
+    "type": "component"
+  },
+  {
+    "raw_text": "Background Ripple EffectA grid of cells that ripple when clicked.",
+    "slug": "background-ripple-effect",
+    "path": "/components/background-ripple-effect",
+    "url": "https://ui.aceternity.com/components/background-ripple-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Card SpotlightA card component with a spotlight effect revealing a radial gradient background",
+    "slug": "card-spotlight",
+    "path": "/components/card-spotlight",
+    "url": "https://ui.aceternity.com/components/card-spotlight",
+    "type": "component"
+  },
+  {
+    "raw_text": "CarouselA customizable carousel with microinteractions and slider.",
+    "slug": "carousel",
+    "path": "/components/carousel",
+    "url": "https://ui.aceternity.com/components/carousel",
+    "type": "component"
+  },
+  {
+    "raw_text": "Code BlockA configurable code block component built on top of react-syntax-highlighter.",
+    "slug": "code-block",
+    "path": "/components/code-block",
+    "url": "https://ui.aceternity.com/components/code-block",
+    "type": "component"
+  },
+  {
+    "raw_text": "Colourful TextA text component with various colours, filter and scale effects.",
+    "slug": "colourful-text",
+    "path": "/components/colourful-text",
+    "url": "https://ui.aceternity.com/components/colourful-text",
+    "type": "component"
+  },
+  {
+    "raw_text": "Comet CardA perspective, 3D, Tilt card as seen on Perplexity Comet's website.",
+    "slug": "comet-card",
+    "path": "/components/comet-card",
+    "url": "https://ui.aceternity.com/components/comet-card",
+    "type": "component"
+  },
+  {
+    "raw_text": "CompareA comparison component between two images, slide or drag to compare",
+    "slug": "compare",
+    "path": "/components/compare",
+    "url": "https://ui.aceternity.com/components/compare",
+    "type": "component"
+  },
+  {
+    "raw_text": "CoverA Cover component that wraps any children, providing beams and space effect, hover to reveal speed.",
+    "slug": "container-cover",
+    "path": "/components/container-cover",
+    "url": "https://ui.aceternity.com/components/container-cover",
+    "type": "component"
+  },
+  {
+    "raw_text": "Container Text FlipA container that flips through words, animating the width.",
+    "slug": "container-text-flip",
+    "path": "/components/container-text-flip",
+    "url": "https://ui.aceternity.com/components/container-text-flip",
+    "type": "component"
+  },
+  {
+    "raw_text": "Draggable CardA tiltable, draggable card component that jumps on bounds.",
+    "slug": "draggable-card",
+    "path": "/components/draggable-card",
+    "url": "https://ui.aceternity.com/components/draggable-card",
+    "type": "component"
+  },
+  {
+    "raw_text": "Expandable CardsClick cards to expand them and show additional information",
+    "slug": "expandable-card",
+    "path": "/components/expandable-card",
+    "url": "https://ui.aceternity.com/components/expandable-card",
+    "type": "component"
+  },
+  {
+    "raw_text": "Feature SectionsA set of feature sections ranging from bento grids to simple layouts",
+    "slug": "feature-sections-free",
+    "path": "/components/feature-sections-free",
+    "url": "https://ui.aceternity.com/components/feature-sections-free",
+    "type": "component"
+  },
+  {
+    "raw_text": "File UploadA minimal file upload form with background grid, drag and drop, and micro interactions.",
+    "slug": "file-upload",
+    "path": "/components/file-upload",
+    "url": "https://ui.aceternity.com/components/file-upload",
+    "type": "component"
+  },
+  {
+    "raw_text": "Floating DockA floating dock mac os style component, acts as a navigation bar.",
+    "slug": "floating-dock",
+    "path": "/components/floating-dock",
+    "url": "https://ui.aceternity.com/components/floating-dock",
+    "type": "component"
+  },
+  {
+    "raw_text": "Focus CardsHover over the card to focus on it, blurring the rest of the cards.",
+    "slug": "focus-cards",
+    "path": "/components/focus-cards",
+    "url": "https://ui.aceternity.com/components/focus-cards",
+    "type": "component"
+  },
+  {
+    "raw_text": "Hero SectionsA set of hero sections ranging from simple to complex layouts",
+    "slug": "hero-sections-free",
+    "path": "/components/hero-sections-free",
+    "url": "https://ui.aceternity.com/components/hero-sections-free",
+    "type": "component"
+  },
+  {
+    "raw_text": "Layout Text FlipA text flip effect that changes the layout of surrounding text",
+    "slug": "layout-text-flip",
+    "path": "/components/layout-text-flip",
+    "url": "https://ui.aceternity.com/components/layout-text-flip",
+    "type": "component"
+  },
+  {
+    "raw_text": "LensA lens component to zoom into images, videos, or practically anything.",
+    "slug": "lens",
+    "path": "/components/lens",
+    "url": "https://ui.aceternity.com/components/lens",
+    "type": "component"
+  },
+  {
+    "raw_text": "LoadersA set of simple and minimal loaders for your loading screens and components.",
+    "slug": "loader",
+    "path": "/components/loader",
+    "url": "https://ui.aceternity.com/components/loader",
+    "type": "component"
+  },
+  {
+    "raw_text": "Pixelated CanvasConvert any image to a pixelated canvas mouse distortion effects, as seen on Tailwind CSS Website.",
+    "slug": "pixelated-canvas",
+    "path": "/components/pixelated-canvas",
+    "url": "https://ui.aceternity.com/components/pixelated-canvas",
+    "type": "component"
+  },
+  {
+    "raw_text": "Pointer HighlightA component that highlights text when it's in view, with a pointer and border.",
+    "slug": "pointer-highlight",
+    "path": "/components/pointer-highlight",
+    "url": "https://ui.aceternity.com/components/pointer-highlight",
+    "type": "component"
+  },
+  {
+    "raw_text": "Resizable NavbarA navbar that changes width on scroll, responsive and animated.",
+    "slug": "resizable-navbar",
+    "path": "/components/resizable-navbar",
+    "url": "https://ui.aceternity.com/components/resizable-navbar",
+    "type": "component"
+  },
+  {
+    "raw_text": "Stateful ButtonA button that shows a loading state when clicked, and a success state when the action is completed.",
+    "slug": "stateful-button",
+    "path": "/components/stateful-button",
+    "url": "https://ui.aceternity.com/components/stateful-button",
+    "type": "component"
+  },
+  {
+    "raw_text": "Sticky BannerA banner component that sticks to top, hides when user scrolls down",
+    "slug": "sticky-banner",
+    "path": "/components/sticky-banner",
+    "url": "https://ui.aceternity.com/components/sticky-banner",
+    "type": "component"
+  },
+  {
+    "raw_text": "World MapA world map with animated lines and dots, programatically generated.",
+    "slug": "world-map",
+    "path": "/components/world-map",
+    "url": "https://ui.aceternity.com/components/world-map",
+    "type": "component"
+  },
+  {
+    "raw_text": "Google Gemini EffectAn effect of SVGs as seen on the Google Gemini Website",
+    "slug": "google-gemini-effect",
+    "path": "/components/google-gemini-effect",
+    "url": "https://ui.aceternity.com/components/google-gemini-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Tracing BeamA Beam that follows the path of an SVG as the user scrolls. Adjusts beam length with scroll speed.",
+    "slug": "tracing-beam",
+    "path": "/components/tracing-beam",
+    "url": "https://ui.aceternity.com/components/tracing-beam",
+    "type": "component"
+  },
+  {
+    "raw_text": "3D MarqueeA 3D Marquee effect with grid, good for showcasing testimonials and hero sections",
+    "slug": "3d-marquee",
+    "path": "/components/3d-marquee",
+    "url": "https://ui.aceternity.com/components/3d-marquee",
+    "type": "component"
+  },
+  {
+    "raw_text": "Animated ModalA customizable, compound modal component with animated transitions",
+    "slug": "animated-modal",
+    "path": "/components/animated-modal",
+    "url": "https://ui.aceternity.com/components/animated-modal",
+    "type": "component"
+  },
+  {
+    "raw_text": "Animated TooltipA cool tooltip that reveals on hover, follows mouse pointer",
+    "slug": "animated-tooltip",
+    "path": "/components/animated-tooltip",
+    "url": "https://ui.aceternity.com/components/animated-tooltip",
+    "type": "component"
+  },
+  {
+    "raw_text": "Aurora BackgroundA subtle Aurora or Southern Lights background for your website.",
+    "slug": "aurora-background",
+    "path": "/components/aurora-background",
+    "url": "https://ui.aceternity.com/components/aurora-background",
+    "type": "component"
+  },
+  {
+    "raw_text": "Background BeamsMultiple background beams that follow a path of SVG, makes a good hero section background.",
+    "slug": "background-beams",
+    "path": "/components/background-beams",
+    "url": "https://ui.aceternity.com/components/background-beams",
+    "type": "component"
+  },
+  {
+    "raw_text": "Background Gradient AnimationA smooth and elegant background gradient animation that changes the gradient position over time.",
+    "slug": "background-gradient-animation",
+    "path": "/components/background-gradient-animation",
+    "url": "https://ui.aceternity.com/components/background-gradient-animation",
+    "type": "component"
+  },
+  {
+    "raw_text": "Bento GridA skewed grid layout with Title, description and a header component",
+    "slug": "bento-grid",
+    "path": "/components/bento-grid",
+    "url": "https://ui.aceternity.com/components/bento-grid",
+    "type": "component"
+  },
+  {
+    "raw_text": "Canvas Reveal EffectA dot background that expands on hover, as seen on Clerk's website",
+    "slug": "canvas-reveal-effect",
+    "path": "/components/canvas-reveal-effect",
+    "url": "https://ui.aceternity.com/components/canvas-reveal-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Card StackCards stack on top of each other after some interval. Perfect for showing testimonials.",
+    "slug": "card-stack",
+    "path": "/components/card-stack",
+    "url": "https://ui.aceternity.com/components/card-stack",
+    "type": "component"
+  },
+  {
+    "raw_text": "CardsA set of cards that can be used for different use cases",
+    "slug": "cards-free",
+    "path": "/components/cards-free",
+    "url": "https://ui.aceternity.com/components/cards-free",
+    "type": "component"
+  },
+  {
+    "raw_text": "Container Scroll AnimationA scroll animation that rotates in 3d on scroll. Perfect for hero or marketing sections.",
+    "slug": "container-scroll-animation",
+    "path": "/components/container-scroll-animation",
+    "url": "https://ui.aceternity.com/components/container-scroll-animation",
+    "type": "component"
+  },
+  {
+    "raw_text": "Evervault CardA cool card with amazing hover effect, reveals encrypted text and a mixed gradient.",
+    "slug": "evervault-card",
+    "path": "/components/evervault-card",
+    "url": "https://ui.aceternity.com/components/evervault-card",
+    "type": "component"
+  },
+  {
+    "raw_text": "Flip WordsA component that flips through a list of words",
+    "slug": "flip-words",
+    "path": "/components/flip-words",
+    "url": "https://ui.aceternity.com/components/flip-words",
+    "type": "component"
+  },
+  {
+    "raw_text": "GitHub GlobeA globe animation as seen on GitHub's homepage. Interactive and customizable.",
+    "slug": "github-globe",
+    "path": "/components/github-globe",
+    "url": "https://ui.aceternity.com/components/github-globe",
+    "type": "component"
+  },
+  {
+    "raw_text": "Glare CardA glare effect that happens on hover, as seen on Linear's website",
+    "slug": "glare-card",
+    "path": "/components/glare-card",
+    "url": "https://ui.aceternity.com/components/glare-card",
+    "type": "component"
+  },
+  {
+    "raw_text": "Glowing EffectA border glowing effect that adapts to any container or card, as seen on Cursor's website.",
+    "slug": "glowing-effect",
+    "path": "/components/glowing-effect",
+    "url": "https://ui.aceternity.com/components/glowing-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Glowing Background Stars CardCard background stars that animate on hover and animate anyway",
+    "slug": "glowing-stars-effect",
+    "path": "/components/glowing-stars-effect",
+    "url": "https://ui.aceternity.com/components/glowing-stars-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Grid and Dot BackgroundsA simple grid and dots background to make your sections stand out.",
+    "slug": "grid-and-dot-backgrounds",
+    "path": "/components/grid-and-dot-backgrounds",
+    "url": "https://ui.aceternity.com/components/grid-and-dot-backgrounds",
+    "type": "component"
+  },
+  {
+    "raw_text": "Hero HighlightA background effect with a text highlight component, perfect for hero sections.",
+    "slug": "hero-highlight",
+    "path": "/components/hero-highlight",
+    "url": "https://ui.aceternity.com/components/hero-highlight",
+    "type": "component"
+  },
+  {
+    "raw_text": "Hero ParallaxA scroll effect with rotation, translation and opacity animations.",
+    "slug": "hero-parallax",
+    "path": "/components/hero-parallax",
+    "url": "https://ui.aceternity.com/components/hero-parallax",
+    "type": "component"
+  },
+  {
+    "raw_text": "Infinite Moving CardsA customizable group of cards that move infinitely in a loop. Made with Framer Motion and Tailwind CSS.",
+    "slug": "infinite-moving-cards",
+    "path": "/components/infinite-moving-cards",
+    "url": "https://ui.aceternity.com/components/infinite-moving-cards",
+    "type": "component"
+  },
+  {
+    "raw_text": "Lamp Section HeaderA lamp effect as seen on linear, great for section headers.",
+    "slug": "lamp-effect",
+    "path": "/components/lamp-effect",
+    "url": "https://ui.aceternity.com/components/lamp-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Layout GridA layout effect that animates the grid item on click, powered by framer motion layout",
+    "slug": "layout-grid",
+    "path": "/components/layout-grid",
+    "url": "https://ui.aceternity.com/components/layout-grid",
+    "type": "component"
+  },
+  {
+    "raw_text": "Link PreviewDynamic link previews for your anchor tags",
+    "slug": "link-preview",
+    "path": "/components/link-preview",
+    "url": "https://ui.aceternity.com/components/link-preview",
+    "type": "component"
+  },
+  {
+    "raw_text": "Meteor EffectA group of beams in the background of a container, sort of like meteors.",
+    "slug": "meteors",
+    "path": "/components/meteors",
+    "url": "https://ui.aceternity.com/components/meteors",
+    "type": "component"
+  },
+  {
+    "raw_text": "Moving BorderA border that moves around the container. Perfect for making your buttons stand out.",
+    "slug": "moving-border",
+    "path": "/components/moving-border",
+    "url": "https://ui.aceternity.com/components/moving-border",
+    "type": "component"
+  },
+  {
+    "raw_text": "Parallax Grid ScrollA grid where two columns scroll in oposite directions, giving a parallax effect.",
+    "slug": "parallax-scroll",
+    "path": "/components/parallax-scroll",
+    "url": "https://ui.aceternity.com/components/parallax-scroll",
+    "type": "component"
+  },
+  {
+    "raw_text": "Placeholders And Vanish InputSliding in placeholders and vanish effect of input on submit",
+    "slug": "placeholders-and-vanish-input",
+    "path": "/components/placeholders-and-vanish-input",
+    "url": "https://ui.aceternity.com/components/placeholders-and-vanish-input",
+    "type": "component"
+  },
+  {
+    "raw_text": "Shooting Stars and Stars BackgroundA shooting star animation on top of a starry background, as seen on figmaplug.in",
+    "slug": "shooting-stars-and-stars-background",
+    "path": "/components/shooting-stars-and-stars-background",
+    "url": "https://ui.aceternity.com/components/shooting-stars-and-stars-background",
+    "type": "component"
+  },
+  {
+    "raw_text": "SidebarExpandable sidebar that expands on hover, mobile responsive and dark mode support",
+    "slug": "sidebar",
+    "path": "/components/sidebar",
+    "url": "https://ui.aceternity.com/components/sidebar",
+    "type": "component"
+  },
+  {
+    "raw_text": "Signup FormA customizable form built on top of shadcn's input and label, with a touch of framer motion",
+    "slug": "signup-form",
+    "path": "/components/signup-form",
+    "url": "https://ui.aceternity.com/components/signup-form",
+    "type": "component"
+  },
+  {
+    "raw_text": "SparklesA configurable sparkles component that can be used as a background or as a standalone component.",
+    "slug": "sparkles",
+    "path": "/components/sparkles",
+    "url": "https://ui.aceternity.com/components/sparkles",
+    "type": "component"
+  },
+  {
+    "raw_text": "Spotlight NewA new spotlight component with left and right spotlight, configurable and customizable.",
+    "slug": "spotlight-new",
+    "path": "/components/spotlight-new",
+    "url": "https://ui.aceternity.com/components/spotlight-new",
+    "type": "component"
+  },
+  {
+    "raw_text": "SpotlightA spotlight effect with Tailwind CSS, good for drawing attention to a particular element on the page.",
+    "slug": "spotlight",
+    "path": "/components/spotlight",
+    "url": "https://ui.aceternity.com/components/spotlight",
+    "type": "component"
+  },
+  {
+    "raw_text": "Sticky Scroll RevealA sticky container that sticks while scrolling, text reveals on scroll",
+    "slug": "sticky-scroll-reveal",
+    "path": "/components/sticky-scroll-reveal",
+    "url": "https://ui.aceternity.com/components/sticky-scroll-reveal",
+    "type": "component"
+  },
+  {
+    "raw_text": "SVG Mask EffectA mask reveal effect, hover the cursor over a container to reveal what's underneath.",
+    "slug": "svg-mask-effect",
+    "path": "/components/svg-mask-effect",
+    "url": "https://ui.aceternity.com/components/svg-mask-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Animated TabsTabs to switch content, click on a tab to check background animation.",
+    "slug": "tabs",
+    "path": "/components/tabs",
+    "url": "https://ui.aceternity.com/components/tabs",
+    "type": "component"
+  },
+  {
+    "raw_text": "Text Generate EffectA cool text effect that fades in text on page load, one by one.",
+    "slug": "text-generate-effect",
+    "path": "/components/text-generate-effect",
+    "url": "https://ui.aceternity.com/components/text-generate-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Text Reveal CardMousemove effect to reveal text content at the bottom of the card.",
+    "slug": "text-reveal-card",
+    "path": "/components/text-reveal-card",
+    "url": "https://ui.aceternity.com/components/text-reveal-card",
+    "type": "component"
+  },
+  {
+    "raw_text": "Typewriter EffectText generates as if it is being typed on the screen.",
+    "slug": "typewriter-effect",
+    "path": "/components/typewriter-effect",
+    "url": "https://ui.aceternity.com/components/typewriter-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Vortex BackgroundA wavy, swirly, vortex background ideal for CTAs and backgrounds.",
+    "slug": "vortex",
+    "path": "/components/vortex",
+    "url": "https://ui.aceternity.com/components/vortex",
+    "type": "component"
+  },
+  {
+    "raw_text": "Wavy BackgroundA cool background effect with waves that move.",
+    "slug": "wavy-background",
+    "path": "/components/wavy-background",
+    "url": "https://ui.aceternity.com/components/wavy-background",
+    "type": "component"
+  },
+  {
+    "raw_text": "Wobble CardA card effect that translates and scales on mousemove, perfect for feature cards.",
+    "slug": "wobble-card",
+    "path": "/components/wobble-card",
+    "url": "https://ui.aceternity.com/components/wobble-card",
+    "type": "component"
+  },
+  {
+    "raw_text": "Hover Border GradientA hover effect that expands to the entire container with a gradient border.",
+    "slug": "hover-border-gradient",
+    "path": "/components/hover-border-gradient",
+    "url": "https://ui.aceternity.com/components/hover-border-gradient",
+    "type": "component"
+  },
+  {
+    "raw_text": "Multi Step LoaderA step loader for screens that take a lot of time to load.",
+    "slug": "multi-step-loader",
+    "path": "/components/multi-step-loader",
+    "url": "https://ui.aceternity.com/components/multi-step-loader",
+    "type": "component"
+  },
+  {
+    "raw_text": "3D Animated PinA gradient pin that animates on hover, perfect for product links.",
+    "slug": "3d-pin",
+    "path": "/components/3d-pin",
+    "url": "https://ui.aceternity.com/components/3d-pin",
+    "type": "component"
+  },
+  {
+    "raw_text": "Background BoxesA full width background box container that highlights on hover",
+    "slug": "background-boxes",
+    "path": "/components/background-boxes",
+    "url": "https://ui.aceternity.com/components/background-boxes",
+    "type": "component"
+  },
+  {
+    "raw_text": "Background GradientAn animated gradient that sits at the background of a card, button or anything.",
+    "slug": "background-gradient",
+    "path": "/components/background-gradient",
+    "url": "https://ui.aceternity.com/components/background-gradient",
+    "type": "component"
+  },
+  {
+    "raw_text": "Hover EffectHover over the cards and the effect slides to the currently hovered card.",
+    "slug": "card-hover-effect",
+    "path": "/components/card-hover-effect",
+    "url": "https://ui.aceternity.com/components/card-hover-effect",
+    "type": "component"
+  },
+  {
+    "raw_text": "Direction Aware HoverA direction aware hover effect using Framer Motion, Tailwindcss and good old javascript.",
+    "slug": "direction-aware-hover",
+    "path": "/components/direction-aware-hover",
+    "url": "https://ui.aceternity.com/components/direction-aware-hover",
+    "type": "component"
+  },
+  {
+    "raw_text": "Floating NavbarA sticky Navbar that hides on scroll, reveals when scrolled up.",
+    "slug": "floating-navbar",
+    "path": "/components/floating-navbar",
+    "url": "https://ui.aceternity.com/components/floating-navbar",
+    "type": "component"
+  },
+  {
+    "raw_text": "Following PointerA custom pointer that follows mouse arrow and animates in pointer and content.",
+    "slug": "following-pointer",
+    "path": "/components/following-pointer",
+    "url": "https://ui.aceternity.com/components/following-pointer",
+    "type": "component"
+  },
+  {
+    "raw_text": "Images SliderA full page slider with images that can be navigated with the keyboard.",
+    "slug": "images-slider",
+    "path": "/components/images-slider",
+    "url": "https://ui.aceternity.com/components/images-slider",
+    "type": "component"
+  },
+  {
+    "raw_text": "Navbar MenuA navbar menu that animates its children on hover, makes a beautiful bignav",
+    "slug": "navbar-menu",
+    "path": "/components/navbar-menu",
+    "url": "https://ui.aceternity.com/components/navbar-menu",
+    "type": "component"
+  },
+  {
+    "raw_text": "Tailwind CSS buttonsA curated list of awesome, battle tested Tailwind CSS buttons components",
+    "slug": "tailwindcss-buttons",
+    "path": "/components/tailwindcss-buttons",
+    "url": "https://ui.aceternity.com/components/tailwindcss-buttons",
+    "type": "component"
+  },
+  {
+    "raw_text": "TimelineA timeline component with sticky header and scroll beam follow.",
+    "slug": "timeline",
+    "path": "/components/timeline",
+    "url": "https://ui.aceternity.com/components/timeline",
+    "type": "component"
+  },
+  {
+    "raw_text": "Hero Sections17+A collection of hero sections that are modern and stand out",
+    "slug": "hero-sections",
+    "path": "/blocks/hero-sections",
+    "url": "https://ui.aceternity.com/blocks/hero-sections",
+    "type": "block"
+  },
+  {
+    "raw_text": "Shaders3+A collection of reusable shaders for your backgrounds.",
+    "slug": "shaders",
+    "path": "/blocks/shaders",
+    "url": "https://ui.aceternity.com/blocks/shaders",
+    "type": "block"
+  },
+  {
+    "raw_text": "Logo Clouds4+A collection of logo clouds with micro interactions and minimal animations",
+    "slug": "logo-clouds",
+    "path": "/blocks/logo-clouds",
+    "url": "https://ui.aceternity.com/blocks/logo-clouds",
+    "type": "block"
+  },
+  {
+    "raw_text": "Feature Sections9+A set of feature sections ranging from bento grids to simple layouts",
+    "slug": "feature-sections",
+    "path": "/blocks/feature-sections",
+    "url": "https://ui.aceternity.com/blocks/feature-sections",
+    "type": "block"
+  },
+  {
+    "raw_text": "Backgrounds8+A set of beautiful, creative backgrounds for landing pages",
+    "slug": "backgrounds",
+    "path": "/blocks/backgrounds",
+    "url": "https://ui.aceternity.com/blocks/backgrounds",
+    "type": "block"
+  },
+  {
+    "raw_text": "Bento Grids5+A set of bento grids for various use cases",
+    "slug": "bento-grids",
+    "path": "/blocks/bento-grids",
+    "url": "https://ui.aceternity.com/blocks/bento-grids",
+    "type": "block"
+  },
+  {
+    "raw_text": "Blog Content Sections2+Content sections for your single blog posts",
+    "slug": "blog-content-sections",
+    "path": "/blocks/blog-content-sections",
+    "url": "https://ui.aceternity.com/blocks/blog-content-sections",
+    "type": "block"
+  },
+  {
+    "raw_text": "Blog Sections2+Blog sections with search and filters",
+    "slug": "blog-sections",
+    "path": "/blocks/blog-sections",
+    "url": "https://ui.aceternity.com/blocks/blog-sections",
+    "type": "block"
+  },
+  {
+    "raw_text": "Cards4+A set of cards that can be used for different use cases",
+    "slug": "cards",
+    "path": "/blocks/cards",
+    "url": "https://ui.aceternity.com/blocks/cards",
+    "type": "block"
+  },
+  {
+    "raw_text": "Contact Sections3+Contact sections with forms and micro interactions",
+    "slug": "contact-sections",
+    "path": "/blocks/contact-sections",
+    "url": "https://ui.aceternity.com/blocks/contact-sections",
+    "type": "block"
+  },
+  {
+    "raw_text": "CTA Sections4+CTA sections with modern and minimalist styles",
+    "slug": "cta-sections",
+    "path": "/blocks/cta-sections",
+    "url": "https://ui.aceternity.com/blocks/cta-sections",
+    "type": "block"
+  },
+  {
+    "raw_text": "Frequently asked questions3+Elegant and minimal FAQs with grid, accordions and micro-interactions",
+    "slug": "faqs",
+    "path": "/blocks/faqs",
+    "url": "https://ui.aceternity.com/blocks/faqs",
+    "type": "block"
+  },
+  {
+    "raw_text": "Footers3+Clean footers with a variety of styles and layouts",
+    "slug": "footers",
+    "path": "/blocks/footers",
+    "url": "https://ui.aceternity.com/blocks/footers",
+    "type": "block"
+  },
+  {
+    "raw_text": "Illustrations8+A set of motion illustrations for blocks, sections and pages",
+    "slug": "illustrations",
+    "path": "/blocks/illustrations",
+    "url": "https://ui.aceternity.com/blocks/illustrations",
+    "type": "block"
+  },
+  {
+    "raw_text": "Login and Signup Sections5+Login, registration and authentication form sections",
+    "slug": "login-and-signup-sections",
+    "path": "/blocks/login-and-signup-sections",
+    "url": "https://ui.aceternity.com/blocks/login-and-signup-sections",
+    "type": "block"
+  },
+  {
+    "raw_text": "Navbars6+Simple and elegant headers for your website.",
+    "slug": "navbars",
+    "path": "/blocks/navbars",
+    "url": "https://ui.aceternity.com/blocks/navbars",
+    "type": "block"
+  },
+  {
+    "raw_text": "Pricing sections5+Minimal and elegant pricing sections.",
+    "slug": "pricing-sections",
+    "path": "/blocks/pricing-sections",
+    "url": "https://ui.aceternity.com/blocks/pricing-sections",
+    "type": "block"
+  },
+  {
+    "raw_text": "Sidebars2+Elegant sidebars with hover effects and open, close states",
+    "slug": "sidebars",
+    "path": "/blocks/sidebars",
+    "url": "https://ui.aceternity.com/blocks/sidebars",
+    "type": "block"
+  },
+  {
+    "raw_text": "Stats Sections4+Perfect for displaying numbers, stats and changelogs",
+    "slug": "stats-sections",
+    "path": "/blocks/stats-sections",
+    "url": "https://ui.aceternity.com/blocks/stats-sections",
+    "type": "block"
+  },
+  {
+    "raw_text": "Testimonials5+Testimonials sections for social proof and trust",
+    "slug": "testimonials",
+    "path": "/blocks/testimonials",
+    "url": "https://ui.aceternity.com/blocks/testimonials",
+    "type": "block"
+  },
+  {
+    "raw_text": "Text Animations3+Text animations components for headings and paragraphs",
+    "slug": "text-animations",
+    "path": "/blocks/text-animations",
+    "url": "https://ui.aceternity.com/blocks/text-animations",
+    "type": "block"
+  }
+]

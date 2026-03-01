@@ -1,0 +1,28 @@
+{
+  "name": "Bento Grid",
+  "slug": "bento-grid",
+  "url": "https://ui.aceternity.com/components/bento-grid",
+  "type": "component",
+  "description": "A skewed grid layout with Title, description and a header component",
+  "category": "Layout",
+  "tags": [
+    "hover",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Grid layout with hover effects on individual cells. Items can have varying sizes and animate on hover with scale and shadow transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/bento-grid",
+  "install_command": "npx shadcn@latest add @aceternity/bento-grid-demo",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": true
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Infinite Moving Cards",
+  "slug": "infinite-moving-cards",
+  "url": "https://ui.aceternity.com/components/infinite-moving-cards",
+  "type": "component",
+  "description": "A customizable group of cards that move infinitely in a loop. Made with Framer Motion and Tailwind CSS.",
+  "category": "Carousels & Sliders",
+  "tags": [
+    "animation",
+    "card",
+    "framer-motion",
+    "tailwind"
+  ],
+  "animation_type": "continuous",
+  "animation_description": "Cards scroll continuously in a seamless infinite loop. Direction and speed are configurable. Duplicated items create the illusion of infinite content.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "@import \"tailwindcss\";\n\n@theme inline {\n  --animate-scroll: scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite;\n\n  @keyframes scroll {\n    to {\n      transform: translate(calc(-50% - 0.5rem));\n    }\n  }\n}Copy",
+  "install_command": "npx shadcn@latest add @aceternity/infinite-moving-cards-demo",
+  "use_cases": [
+    "Testimonials",
+    "Image galleries",
+    "Feature showcases"
+  ],
+  "free": true
+}

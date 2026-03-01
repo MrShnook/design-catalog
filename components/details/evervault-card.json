@@ -1,0 +1,30 @@
+{
+  "name": "Evervault Card",
+  "slug": "evervault-card",
+  "url": "https://ui.aceternity.com/components/evervault-card",
+  "type": "component",
+  "description": "A cool card with amazing hover effect, reveals encrypted text and a mixed gradient.",
+  "category": "Cards",
+  "tags": [
+    "hover",
+    "gradient",
+    "text",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Card with animated noise/encryption pattern. Characters randomize and shift continuously, creating a matrix-like encryption visualization effect.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/evervault-card",
+  "install_command": "npx shadcn@latest add @aceternity/evervault-card-demo",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

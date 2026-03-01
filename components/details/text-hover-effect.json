@@ -1,0 +1,30 @@
+{
+  "name": "Text Hover Effect",
+  "slug": "text-hover-effect",
+  "url": "https://ui.aceternity.com/components/text-hover-effect",
+  "type": "component",
+  "description": "A text hover effect that animates and outlines gradient on hover, as seen on x.ai",
+  "category": "Text Effects",
+  "tags": [
+    "hover",
+    "gradient",
+    "animation",
+    "text"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Text characters animate individually on hover with effects like bounce, color change, or displacement creating a wave-like interactive text.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/text-hover-effect",
+  "install_command": "npx shadcn@latest add @aceternity/text-hover-effect-demo",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

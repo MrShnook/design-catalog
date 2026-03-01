@@ -1,0 +1,28 @@
+{
+  "name": "3D Globe",
+  "slug": "3d-globe",
+  "url": "https://ui.aceternity.com/components/3d-globe",
+  "type": "component",
+  "description": "A realistic globe component with tooltips and avatar tips",
+  "category": "Data Viz",
+  "tags": [
+    "background",
+    "animated"
+  ],
+  "animation_type": "continuous",
+  "animation_description": "Interactive 3D globe with rotating earth visualization. Points and arcs animate on the surface with smooth orbital camera controls using Three.js/WebGL.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// Install: npx shadcn@latest add @aceternity/3d-globe-demo\n// Key Props:\n//   Globe3DConfig: `{}` - Globe configuration options\n//   string: - - Additional CSS classes\n//   number: - - Latitude coordinate\n//   number: - - Longitude coordinate\n//   string: - - Image source URL for the marker\n//   string: - - Optional label for the marker",
+  "install_command": "npx shadcn@latest add @aceternity/3d-globe-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Visual accents"
+  ],
+  "free": true
+}

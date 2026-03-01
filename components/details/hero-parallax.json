@@ -1,0 +1,28 @@
+{
+  "name": "Hero Parallax",
+  "slug": "hero-parallax",
+  "url": "https://ui.aceternity.com/components/hero-parallax",
+  "type": "component",
+  "description": "A scroll effect with rotation, translation and opacity animations.",
+  "category": "Hero Sections",
+  "tags": [
+    "scroll",
+    "animation"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Hero section with layered parallax scrolling. Multiple image/content layers move at different speeds creating depth on scroll.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/hero-parallax",
+  "install_command": "npx shadcn@latest add @aceternity/hero-parallax-demo",
+  "use_cases": [
+    "Landing pages",
+    "Product pages",
+    "Marketing sites"
+  ],
+  "free": true
+}

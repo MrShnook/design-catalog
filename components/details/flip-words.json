@@ -1,0 +1,27 @@
+{
+  "name": "Flip Words",
+  "slug": "flip-words",
+  "url": "https://ui.aceternity.com/components/flip-words",
+  "type": "component",
+  "description": "A component that flips through a list of words",
+  "category": "Text Effects",
+  "tags": [
+    "text"
+  ],
+  "animation_type": "load",
+  "animation_description": "Words flip vertically with 3D rotation transition, cycling through a list of terms. Each word animates out and the next animates in with perspective transform.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/flip-words",
+  "install_command": "npx shadcn@latest add @aceternity/flip-words-demo",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Link Preview",
+  "slug": "link-preview",
+  "url": "https://ui.aceternity.com/components/link-preview",
+  "type": "component",
+  "description": "Dynamic link previews for your anchor tags",
+  "category": "Tooltips",
+  "tags": [
+    "text",
+    "tailwind"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Hovering over a link shows an animated preview card with the target page content. Card appears with spring-based scale and opacity transition.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "/** @type {import('next').NextConfig} */\nconst nextConfig = {\n  images: {\n    domains: [\\\n      \"api.microlink.io\", // Microlink Image Preview\\\n    ],\n  },\n};\n\nmodule.exports = nextConfig;CopySelect Language",
+  "install_command": "npx shadcn@latest add @aceternity/link-preview-demo",
+  "use_cases": [
+    "Navigation hints",
+    "Info cards",
+    "Link previews"
+  ],
+  "free": true
+}

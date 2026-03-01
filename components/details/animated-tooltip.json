@@ -1,0 +1,30 @@
+{
+  "name": "Animated Tooltip",
+  "slug": "animated-tooltip",
+  "url": "https://ui.aceternity.com/components/animated-tooltip",
+  "type": "component",
+  "description": "A cool tooltip that reveals on hover, follows mouse pointer",
+  "category": "Tooltips",
+  "tags": [
+    "hover",
+    "animation",
+    "interactive",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Tooltip appears on hover with spring-based scale and opacity animation. Supports multiple items with staggered entrance.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/animated-tooltip",
+  "install_command": "npx shadcn@latest add @aceternity/animated-tooltip-demo",
+  "use_cases": [
+    "Navigation hints",
+    "Info cards",
+    "Link previews"
+  ],
+  "free": true
+}

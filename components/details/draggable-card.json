@@ -1,0 +1,29 @@
+{
+  "name": "Draggable Card",
+  "slug": "draggable-card",
+  "url": "https://ui.aceternity.com/components/draggable-card",
+  "type": "component",
+  "description": "A tiltable, draggable card component that jumps on bounds.",
+  "category": "Cards",
+  "tags": [
+    "3d",
+    "interactive",
+    "card"
+  ],
+  "animation_type": "drag",
+  "animation_description": "Interactive UI component with drag animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/draggable-card",
+  "install_command": "npx shadcn@latest add @aceternity/draggable-card-demo-2",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

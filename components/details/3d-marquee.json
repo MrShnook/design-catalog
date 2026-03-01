@@ -1,0 +1,30 @@
+{
+  "name": "3D Marquee",
+  "slug": "3d-marquee",
+  "url": "https://ui.aceternity.com/components/3d-marquee",
+  "type": "component",
+  "description": "A 3D Marquee effect with grid, good for showcasing testimonials and hero sections",
+  "category": "Hero Sections",
+  "tags": [
+    "3d",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Element transforms in 3D space with perspective. Layers move at different speeds creating depth illusion on scroll. Text appears character by character simulating typing. Gradient colors shift and blend continuously. Streaks of light animate diagonally across the container. Light beam effect sweeps across the element. Content flips with 3D rotation transition between states. Radial light effect follows cursor position. Element wobbles with slight rotation on interaction. Interactive 3D globe with rotating/interactive earth visualization. Items scroll continuously in a seamless loop. Dramatic lamp/light cone effect with glow and shadow animations. Floating tooltip card appears on hover with spring animation. Modal animates in with scale/opacity transition and backdrop blur. Active tab indicator slides between options with layout animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Three.js"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/3d-marquee",
+  "install_command": "npx shadcn@latest add @aceternity/3d-marquee-demo",
+  "use_cases": [
+    "Landing pages",
+    "Product pages",
+    "Marketing sites"
+  ],
+  "free": true
+}

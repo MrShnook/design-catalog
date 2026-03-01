@@ -1,0 +1,30 @@
+{
+  "name": "3D Card Effect",
+  "slug": "3d-card-effect",
+  "url": "https://ui.aceternity.com/components/3d-card-effect",
+  "type": "component",
+  "description": "A card perspective effect, hover over the card to elevate card elements.",
+  "category": "Cards",
+  "tags": [
+    "hover",
+    "3d",
+    "background",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Card tilts in 3D space following mouse position with perspective transform. Inner elements float upward with varying translateZ depths on hover. Smooth spring transition on enter/exit.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/3d-card",
+  "install_command": "npx shadcn@latest add @aceternity/3d-card-demo",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

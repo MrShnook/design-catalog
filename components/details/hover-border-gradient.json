@@ -1,0 +1,29 @@
+{
+  "name": "Hover Border Gradient",
+  "slug": "hover-border-gradient",
+  "url": "https://ui.aceternity.com/components/hover-border-gradient",
+  "type": "component",
+  "description": "A hover effect that expands to the entire container with a gradient border.",
+  "category": "Buttons",
+  "tags": [
+    "hover",
+    "gradient",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Animated gradient travels along the button/element border on hover. Gradient rotates around the perimeter with smooth color transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/hover-border-gradient",
+  "install_command": "npx shadcn@latest add @aceternity/hover-border-gradient-demo",
+  "use_cases": [
+    "CTAs",
+    "Form submissions",
+    "Navigation"
+  ],
+  "free": true
+}

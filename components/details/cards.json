@@ -1,0 +1,28 @@
+{
+  "name": "Cards",
+  "slug": "cards",
+  "url": "https://ui.aceternity.com/blocks/cards",
+  "type": "block",
+  "description": "A set of cards that can be used for different use cases",
+  "category": "Cards",
+  "tags": [
+    "animation",
+    "card"
+  ],
+  "animation_type": "click",
+  "animation_description": "Card transforms on hover with smooth spring transitions. Element expands from compact to full view with smooth layout animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": false
+}

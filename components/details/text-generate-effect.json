@@ -1,0 +1,27 @@
+{
+  "name": "Text Generate Effect",
+  "slug": "text-generate-effect",
+  "url": "https://ui.aceternity.com/components/text-generate-effect",
+  "type": "component",
+  "description": "A cool text effect that fades in text on page load, one by one.",
+  "category": "Text Effects",
+  "tags": [
+    "text"
+  ],
+  "animation_type": "load",
+  "animation_description": "Text appears word by word or character by character with staggered opacity and slight upward movement. Creates a progressive reveal effect.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/text-generate-effect",
+  "install_command": "npx shadcn@latest add @aceternity/text-generate-effect-demo",
+  "use_cases": [
+    "Headlines",
+    "Hero text",
+    "Loading states"
+  ],
+  "free": true
+}

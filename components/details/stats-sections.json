@@ -1,0 +1,25 @@
+{
+  "name": "Stats Sections",
+  "slug": "stats-sections",
+  "url": "https://ui.aceternity.com/blocks/stats-sections",
+  "type": "block",
+  "description": "Perfect for displaying numbers, stats and changelogs",
+  "category": "Layout",
+  "tags": [],
+  "animation_type": "load",
+  "animation_description": "Light beam effect sweeps across the element.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": false
+}

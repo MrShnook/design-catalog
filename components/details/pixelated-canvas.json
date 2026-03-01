@@ -1,0 +1,32 @@
+{
+  "name": "Pixelated Canvas",
+  "slug": "pixelated-canvas",
+  "url": "https://ui.aceternity.com/components/pixelated-canvas",
+  "type": "component",
+  "description": "Convert any image to a pixelated canvas mouse distortion effects, as seen on Tailwind CSS Website.",
+  "category": "Decorative",
+  "tags": [
+    "3d",
+    "interactive",
+    "background",
+    "card",
+    "tailwind"
+  ],
+  "animation_type": "load",
+  "animation_description": "Interactive UI component with load animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Canvas API"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/pixelated-canvas",
+  "install_command": "npx shadcn@latest add @aceternity/pixelated-canvas-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Container Scroll Animation",
+  "slug": "container-scroll-animation",
+  "url": "https://ui.aceternity.com/components/container-scroll-animation",
+  "type": "component",
+  "description": "A scroll animation that rotates in 3d on scroll. Perfect for hero or marketing sections.",
+  "category": "Hero Sections",
+  "tags": [
+    "3d",
+    "scroll",
+    "animation"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Content transforms and animates within a scrollable container. Elements scale, rotate, and move based on scroll position.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/container-scroll-animation",
+  "install_command": "npx shadcn@latest add @aceternity/container-scroll-animation-demo",
+  "use_cases": [
+    "Landing pages",
+    "Product pages",
+    "Marketing sites"
+  ],
+  "free": true
+}

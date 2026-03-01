@@ -1,0 +1,29 @@
+{
+  "name": "Aurora Background",
+  "slug": "aurora-background",
+  "url": "https://ui.aceternity.com/components/aurora-background",
+  "type": "component",
+  "description": "A subtle Aurora or Southern Lights background for your website.",
+  "category": "Backgrounds",
+  "tags": [
+    "gradient",
+    "background",
+    "card"
+  ],
+  "animation_type": "continuous",
+  "animation_description": "Soft gradient blobs shift and morph continuously creating an aurora borealis effect. Multiple color layers blend with CSS filter blur.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "@import \"tailwindcss\";\n\n@theme inline {\n  --animate-aurora: aurora 60s linear infinite;\n  @keyframes aurora {\n    from {\n      background-position:\n        50% 50%,\n        50% 50%;\n    }\n    to {\n      background-position:\n        350% 50%,\n        350% 50%;\n    }\n  }\n}Copy",
+  "install_command": "npx shadcn@latest add @aceternity/aurora-background-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

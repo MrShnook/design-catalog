@@ -1,0 +1,25 @@
+{
+  "name": "Spotlight New",
+  "slug": "spotlight-new",
+  "url": "https://ui.aceternity.com/components/spotlight-new",
+  "type": "component",
+  "description": "A new spotlight component with left and right spotlight, configurable and customizable.",
+  "category": "Layout",
+  "tags": [],
+  "animation_type": "load",
+  "animation_description": "Radial light effect follows cursor position.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/spotlight-new",
+  "install_command": "npx shadcn@latest add @aceternity/spotlight-new-demo",
+  "use_cases": [
+    "Feature sections",
+    "Dashboards",
+    "Content pages"
+  ],
+  "free": true
+}

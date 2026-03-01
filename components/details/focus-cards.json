@@ -1,0 +1,29 @@
+{
+  "name": "Focus Cards",
+  "slug": "focus-cards",
+  "url": "https://ui.aceternity.com/components/focus-cards",
+  "type": "component",
+  "description": "Hover over the card to focus on it, blurring the rest of the cards.",
+  "category": "Cards",
+  "tags": [
+    "hover",
+    "3d",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Cards dim and blur when another card is focused/hovered. The focused card scales up slightly while siblings recede with opacity and blur transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/focus-cards",
+  "install_command": "npx shadcn@latest add @aceternity/focus-cards-demo",
+  "use_cases": [
+    "Feature cards",
+    "Product showcases",
+    "Team members"
+  ],
+  "free": true
+}

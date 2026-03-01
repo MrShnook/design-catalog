@@ -1,0 +1,33 @@
+{
+  "name": "3D Animated Pin",
+  "slug": "3d-pin",
+  "url": "https://ui.aceternity.com/components/3d-pin",
+  "type": "component",
+  "description": "A gradient pin that animates on hover, perfect for product links.",
+  "category": "Decorative",
+  "tags": [
+    "hover",
+    "3d",
+    "gradient",
+    "animation",
+    "card",
+    "framer-motion",
+    "tailwind"
+  ],
+  "animation_type": "hover",
+  "animation_description": "3D pin rises from the surface with perspective transform on hover. Pin content appears with scale and opacity animation.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/3d-pin",
+  "install_command": "npx shadcn@latest add @aceternity/3d-pin-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Canvas Reveal Effect",
+  "slug": "canvas-reveal-effect",
+  "url": "https://ui.aceternity.com/components/canvas-reveal-effect",
+  "type": "component",
+  "description": "A dot background that expands on hover, as seen on Clerk's website",
+  "category": "Backgrounds",
+  "tags": [
+    "hover",
+    "gradient",
+    "background",
+    "card"
+  ],
+  "animation_type": "hover",
+  "animation_description": "Content reveals through a canvas drawing effect. Element content appears as if being drawn or painted on screen.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Canvas API"
+  ],
+  "inspired_by": "Clerk",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/canvas-reveal-effect",
+  "install_command": "npx shadcn@latest add @aceternity/canvas-reveal-effect-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

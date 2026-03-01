@@ -1,0 +1,28 @@
+{
+  "name": "Fey.com Macbook Scroll",
+  "slug": "macbook-scroll",
+  "url": "https://ui.aceternity.com/components/macbook-scroll",
+  "type": "component",
+  "description": "Scroll through the page and see the image come out of the screen, as seen on Fey.com website.",
+  "category": "Hero Sections",
+  "tags": [
+    "scroll",
+    "tailwind"
+  ],
+  "animation_type": "scroll",
+  "animation_description": "Macbook mockup with content sliding out of the screen as user scrolls. Lid opens with scroll progress, revealing inner content with parallax depth.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "Fey",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/macbook-scroll",
+  "install_command": "npx shadcn@latest add @aceternity/macbook-scroll-demo",
+  "use_cases": [
+    "Landing pages",
+    "Product pages",
+    "Marketing sites"
+  ],
+  "free": true
+}

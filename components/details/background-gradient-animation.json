@@ -1,0 +1,30 @@
+{
+  "name": "Background Gradient Animation",
+  "slug": "background-gradient-animation",
+  "url": "https://ui.aceternity.com/components/background-gradient-animation",
+  "type": "component",
+  "description": "A smooth and elegant background gradient animation that changes the gradient position over time.",
+  "category": "Backgrounds",
+  "tags": [
+    "gradient",
+    "animation",
+    "background",
+    "card"
+  ],
+  "animation_type": "load",
+  "animation_description": "Gradient colors shift and blend continuously across the background with smooth color transitions and movement.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "@import \"tailwindcss\";\n\n@theme inline {\n  --animate-first: moveVertical 30s ease infinite;\n  --animate-second: moveInCircle 20s reverse infinite;\n  --animate-third: moveInCircle 40s linear infinite;\n  --animate-fourth: moveHorizontal 40s ease infinite;\n  --animate-fifth: moveInCircle 20s ease infinite;\n}\n\n@keyframes moveHorizontal {\n  0% {\n    transform: translateX(-50%) translateY(-10%);\n  }\n  50% {\n    transform: translateX(50%) translateY(10%);\n  }\n  100% {\n    transform: translateX(-50%) translateY(-10%);\n  }\n}\n\n@keyframes moveInCircle {\n  0% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(180deg);\n  }\n  100% {\n    transform: rotate(360deg);\n  }\n}\n\n@keyframes moveVertical {\n  0% {\n    transform: translateY(-50%);\n  }\n  50% {\n    transform: translateY(50%);\n  }\n  100% {\n    transform: translateY(-50%);\n  }\n}Copy",
+  "install_command": "npx shadcn@latest add @aceternity/background-gradient-animation-demo",
+  "use_cases": [
+    "Hero sections",
+    "Landing pages",
+    "Feature sections"
+  ],
+  "free": true
+}

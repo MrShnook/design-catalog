@@ -1,0 +1,30 @@
+{
+  "name": "Login and Signup Sections",
+  "slug": "login-and-signup-sections",
+  "url": "https://ui.aceternity.com/blocks/login-and-signup-sections",
+  "type": "block",
+  "description": "Login, registration and authentication form sections",
+  "category": "Inputs & Forms",
+  "tags": [
+    "gradient",
+    "animation"
+  ],
+  "animation_type": "load",
+  "animation_description": "Interactive UI component with load animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [
+    "motion"
+  ],
+  "code_snippet": "// No code snippet found",
+  "install_command": "",
+  "use_cases": [
+    "Sign-up forms",
+    "Contact forms",
+    "Search"
+  ],
+  "free": false
+}

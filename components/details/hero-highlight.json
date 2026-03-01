@@ -1,0 +1,28 @@
+{
+  "name": "Hero Highlight",
+  "slug": "hero-highlight",
+  "url": "https://ui.aceternity.com/components/hero-highlight",
+  "type": "component",
+  "description": "A background effect with a text highlight component, perfect for hero sections.",
+  "category": "Hero Sections",
+  "tags": [
+    "text",
+    "background"
+  ],
+  "animation_type": "load",
+  "animation_description": "Hero text with animated highlight/underline effect. Highlight sweeps across text with gradient animation on load or scroll trigger.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/hero-highlight",
+  "install_command": "npx shadcn@latest add @aceternity/hero-highlight-demo",
+  "use_cases": [
+    "Landing pages",
+    "Product pages",
+    "Marketing sites"
+  ],
+  "free": true
+}

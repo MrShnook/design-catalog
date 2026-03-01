@@ -1,0 +1,27 @@
+{
+  "name": "Loaders",
+  "slug": "loader",
+  "url": "https://ui.aceternity.com/components/loader",
+  "type": "component",
+  "description": "A set of simple and minimal loaders for your loading screens and components.",
+  "category": "Loaders",
+  "tags": [],
+  "animation_type": "load",
+  "animation_description": "Interactive UI component with load animation effect. Provides visual feedback and smooth transitions.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "Three.js",
+    "SVG"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/loader",
+  "install_command": "npx shadcn@latest add @aceternity/loader-one-demo",
+  "use_cases": [
+    "Page transitions",
+    "Data loading",
+    "Progress indicators"
+  ],
+  "free": true
+}

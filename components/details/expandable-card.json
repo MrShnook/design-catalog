@@ -1,0 +1,28 @@
+{
+  "name": "Expandable Cards",
+  "slug": "expandable-card",
+  "url": "https://ui.aceternity.com/components/expandable-card",
+  "type": "component",
+  "description": "Click cards to expand them and show additional information",
+  "category": "Modals & Overlays",
+  "tags": [
+    "card"
+  ],
+  "animation_type": "click",
+  "animation_description": "Card expands from compact preview to full detailed view with smooth layout animation. Other cards dim and shift to accommodate expansion.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS",
+    "React"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "import React, { useEffect } from \"react\";\n\nexport const useOutsideClick = (\n  ref: React.RefObject<HTMLDivElement>,\n  callback: Function\n) => {\n  useEffect(() => {\n    const listener = (event: any) => {\n      if (!ref.current || ref.current.contains(event.target)) {\n        return;\n      }\n      callback(event);\n    };\n\n    document.addEventListener(\"mousedown\", listener);\n    document.addEventListener(\"touchstart\", listener);\n\n    return () => {\n      document.removeEventListener(\"mousedown\", listener);\n      document.removeEventListener(\"touchstart\", listener);\n    };\n  }, [ref, callback]);\n};CopySelect Language",
+  "install_command": "npx shadcn@latest add @aceternity/expandable-card-demo-standard",
+  "use_cases": [
+    "Dialogs",
+    "Image zoom",
+    "Detail views"
+  ],
+  "free": true
+}

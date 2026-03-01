@@ -1,0 +1,27 @@
+{
+  "name": "Sparkles",
+  "slug": "sparkles",
+  "url": "https://ui.aceternity.com/components/sparkles",
+  "type": "component",
+  "description": "A configurable sparkles component that can be used as a background or as a standalone component.",
+  "category": "Decorative",
+  "tags": [
+    "background"
+  ],
+  "animation_type": "continuous",
+  "animation_description": "Small bright particles appear and fade randomly across the element. Particles have varying sizes, opacity, and animated lifetimes creating a twinkling effect.",
+  "tech_stack": [
+    "Framer Motion",
+    "Tailwind CSS"
+  ],
+  "inspired_by": "N/A",
+  "dependencies": [],
+  "code_snippet": "npx shadcn@latest add @aceternity/sparkles",
+  "install_command": "npx shadcn@latest add @aceternity/sparkles-demo",
+  "use_cases": [
+    "Visual accents",
+    "Hero sections",
+    "Background effects"
+  ],
+  "free": true
+}
