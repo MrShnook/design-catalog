@@ -1,0 +1,49 @@
+{
+  "name": "Pramukh Rounded",
+  "url": "https://www.fontshare.com/fonts/pramukh-rounded",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Extralight Italic",
+      "Light",
+      "Light Italic",
+      "Semilight",
+      "Semilight Italic",
+      "Regular",
+      "Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Extrabold",
+      "Extrabold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 16,
+    "total_variable": 2
+  },
+  "glyphs": 453,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Editorial",
+    "Headlines",
+    "Posters",
+    "Text"
+  ],
+  "description": "Pramukh Rounded is a very condensed sans serif typeface in which all strokes end in round semicircular curves. As a family of fonts, it is particularly large; its 16 styles include a range of eight weights: ExtraLight, Light, SemiLight, Regular, SemiBold, Bold, ExtraBold, and Black. Each weight has a companion italic font, which is oblique in style. On Fontstore, you’ll find a matching font family for this design: Pramukh (a non-rounded version of this design). Both Pramukh and Pramukh Rounded are designed by Aarya Purohit and ITF. While Pramukh and Pramukh Rounded each make use of modernist typographic vocabulary, Pramukh Rounded is the more open and friendly adaptation of the theme. It offers an excellent toolkit for use in corporate identity, editorial, and even poster design – wherever a narrow sans serif is needed, but where a degree of warmth should brighten up the formal nature of the typography, too. The styles in the Pramukh Rounded family become less compressed with each step up the weight scale; however, the heaviest Black weight’s letters still have visibly-condensed proportions. The fonts’ lowercase letters have been designed with a tall x-height; their ascenders only rise slightly above the height of the capitals. OpenType features unlock alternate forms for the letters ‘A’, ‘G’, ‘K’, ‘R’, ‘V’, ‘W’, and ‘Y’. These alternates can be used to break up the strict-modernist feeling of the typeface, and make it look more constructed or industrial (the alternate ‘g’, on the other hand, offers an even more high-modernist shape than the standard ‘g’ form). The fonts also include TT and Ti ligatures, as well as the expected f-ligatures.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

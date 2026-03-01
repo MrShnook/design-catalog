@@ -1,0 +1,32 @@
+{
+  "name": "Kohinoor Zerone",
+  "url": "https://www.fontshare.com/fonts/kohinoor-zerone",
+  "category": "Display",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "One",
+      "Zero"
+    ],
+    "variable": [],
+    "total_static": 2,
+    "total_variable": 0
+  },
+  "glyphs": 227,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "13 Mar 2022",
+  "tags": [
+    "Beauty",
+    "Cosmetic",
+    "Posters",
+    "Headlines",
+    "Lettering"
+  ],
+  "description": "Kohinoor One is the world’s thinnest font ever produced. The strokes of its glyphs are just one-unit thick. As far as we’re aware, that makes Kohinoor One the thinnest retail (or open-source) font currently available in the market (indeed. there are fonts available elsewhere with strokes that are four or even two units wide). Kohinoor One is an addition to Kohinoor Multiscript – ITF’s oldest superfamily. As a series of fonts, Kohinoor was designed in a humanist sans serif style suitable for body text and display text, too. It is an all-around typeface for graphic designers, software engineers, and branding specialists. Thanks to its clear appearance, Kohinoor is easy to work with and inviting to read. Begun with the goal of supporting all of the major Indian languages while harmoniously translating a single design aesthetic across each writing system, Kohinoor Multiscript currently supports over 150 languages that are spoken natively by 3.5 billion people. The superfamily is an ideal choice for text-heavy multilingual projects, including those from the areas of corporate design, electronic-embedding in apps, navigation or signage systems, print publications, product instruction manuals, and television subtitling.\n\nKohinoor Zero is a base for designers to make their own creative digital lettering. You decide yourself what kind of outline to apply to the skeleton of the letters. The concept was to offer designers a font whose glyphs were just single strokes. Yet, it is impossible to export single strokes from a font editor and install that as a font in your operating system. Many designers already draw single-stroke lettering in applications like Illustrator and then space and kern the letters in that lettering themselves. But as a workflow that is slow and not ideal. At ITF, we came up with a work-around. We “temporarily” closed the counters of all the letters by a straight line and aligned these nodes as the same place under the baseline. Because that resulted in closed-shape forms, we could export those outlines as a proper OpenType font. To work with Kohinoor Zero, you first need to set text in an app like InDesign or Illustrator. Then, you convert that text into outlines. Finally, you must delete all the nodes below the descender line. That leaves you with simple outlines. Remove the fill color and apply the stroke, brush, or outline of your choice. Satya Rajpurohit began developing Kohinoor Zerone more than a dozen years ago. He first presented the idea at TypeCon 2010 in Los Angeles.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

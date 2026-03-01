@@ -1,0 +1,52 @@
+{
+  "name": "Switzer",
+  "url": "https://www.fontshare.com/fonts/switzer",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Thin",
+      "Thin Italic",
+      "Extralight",
+      "Extralight Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Extrabold",
+      "Extrabold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 18,
+    "total_variable": 2
+  },
+  "glyphs": 386,
+  "supported_languages": 135,
+  "version": "1.2",
+  "fontshare_debut": "20 Apr 2021",
+  "tags": [
+    "Books",
+    "Logo",
+    "Magazines",
+    "Poster",
+    "Screen",
+    "Websites"
+  ],
+  "description": "Switzer is a Latin-script typeface with 18 styles; nine of those are italics. The family is a neo-grotesk design. Switzer’s appearance is classic and timeless; it might resemble earlier typefaces, but it is a new design made for our time. While the neo-grotesk style didn’t originate in Switzerland per se, some of the most-famous neo-grotesk come from Swiss designers.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

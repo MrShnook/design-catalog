@@ -1,0 +1,12 @@
+{
+  "total": 100,
+  "scraped": 98,
+  "skipped": 1,
+  "failed": 1,
+  "failures": [
+    "roundo"
+  ],
+  "skipped_fonts": [
+    "satoshi"
+  ]
+}

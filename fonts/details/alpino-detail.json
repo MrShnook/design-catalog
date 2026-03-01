@@ -1,0 +1,37 @@
+{
+  "name": "Alpino",
+  "url": "https://www.fontshare.com/fonts/alpino",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 6,
+    "total_variable": 1
+  },
+  "glyphs": 414,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Branding",
+    "Magazines",
+    "Posters"
+  ],
+  "description": "Alpino is humanist sans with a small x-height optimised for magazine design and other editorial applications. The strokes of the letters have slightly rounded corners; this rounding is more apparent in the heavier weights. Alpino’s numerals are proportional oldstyle figures. The capital letters are wide, which harmonises well with the long ascenders and descenders. Alpino features some very distinctive letterforms: for instance, the capital ‘G’ has a beard, but no crossbar; the lowercase ‘a’ and ‘g’ are both double-storey; the ‘g’ has a flamboyant ear; the tail of the ‘y’ ends in a curve; the cedilla has a detached form.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

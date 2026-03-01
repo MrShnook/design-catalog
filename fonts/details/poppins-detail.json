@@ -1,0 +1,29 @@
+{
+  "name": "Poppins",
+  "url": "https://www.fontshare.com/fonts/poppins",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 397,
+  "supported_languages": 0,
+  "version": "6.0",
+  "fontshare_debut": "21 May 2022",
+  "tags": [
+    "Apps",
+    "Banners",
+    "Broadcast",
+    "Corporate",
+    "Poppins"
+  ],
+  "description": "Geometric sans serif typefaces have been a popular design tool ever since these actors took to the world’s stage. Poppins is one of the new comers to this long tradition. Many of the glyphs are more constructed and rationalist than is typical. Each letterform is nearly monolinear, with optical corrections applied to stroke joints where necessary to maintain an even typographic color.\n\nPoppins is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

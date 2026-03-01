@@ -1,0 +1,32 @@
+{
+  "name": "Pencerio",
+  "url": "https://www.fontshare.com/fonts/pencerio",
+  "category": "Script",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Hairline"
+    ],
+    "variable": [],
+    "total_static": 1,
+    "total_variable": 0
+  },
+  "glyphs": 674,
+  "supported_languages": 135,
+  "version": "1.1",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Calligraphy",
+    "Fashion",
+    "Packaging",
+    "Signboards",
+    "Titles",
+    "Wedding"
+  ],
+  "description": "Pencerio is a new take on a formal style of handwriting. Unlike a traditional Spencerian-script fonts, Pencerio’s letterforms are made from thin, monolinear strokes. These bring the formality of the past into the digital future. Calligraphers write Spencerian letters at a slant (or slope), are formed with a pointed pen. The natural state of each stroke is a thin hairline. When a calligrapher wants to create a thicker line to provide contrast, all she needs to do is add pressure to the nib at the right point of the stroke. But what if she does not want to apply contrast? You can see the answer to that question right here. Pencerio is an excellent choice for any formal occasion that needs a more contemporary typographic take. It is sure to shine on calling cards, certificates, invitations, and anything associated with weddings. Pencerio’s lowercase letters have a very large x-height. The swash-like parts of its capital letters are taller than the lowercase’s ascenders. This lively, legible and noble typeface was designed by Manushi Parikh.\n\nIn the Spencerian model, uppercase letters are characterised by a peculiar ornateness, and this is reflected in Pencerio, too. Almost all capital letters include multiple loops, swells, and swirls. Some characters have additional details – like n ‘A’ and ‘K’ – and others have long, descending swash elements. Particularly the out-strokes of the ‘L’ and ‘Q’ can be used to create powerful word shapes. There is also an alternate version of the ‘L’ featuring a bottom stroke that does not descend below the baseline. Pencerio’s character set includes 675 glyphs, or almost double the amount necessary to transcribe all commonly-spoken European languages written with the Latin script. Most of the approximately 300 ‘extra’ glyphs are alternates that can be swapped into your text on the fly to create ligatures. This functionality should work automatically, as long as the standard ligatures OpenType feature is activated in your layout app or defined in your CSS file.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

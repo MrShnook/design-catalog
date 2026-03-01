@@ -1,0 +1,27 @@
+{
+  "name": "Azeret Mono",
+  "url": "https://www.fontshare.com/fonts/azeret-mono",
+  "category": "Sans",
+  "designer": "Displaay",
+  "foundry": "Displaay",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 646,
+  "supported_languages": 0,
+  "version": "1.002",
+  "fontshare_debut": "22 May 2022",
+  "tags": [
+    "coding",
+    "Apps",
+    "Programming"
+  ],
+  "description": "Azeret Mono is a monospaced typeface with a mono-linear character. The story of the typeface began with a draft that was driven by an exploration of OCR fonts, past and futuristic operating systems, various interfaces and the nineties. The final result is more based on a desire to achieve an appearance of the typeface that could serve in operating systems. Thus the overall character is a conjunction of everything described with details that evoke a specific personality.\n\nAzeret Mono is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

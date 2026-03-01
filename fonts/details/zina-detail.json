@@ -1,0 +1,31 @@
+{
+  "name": "Zina",
+  "url": "https://www.fontshare.com/fonts/zina",
+  "category": "Display",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Regular"
+    ],
+    "variable": [],
+    "total_static": 1,
+    "total_variable": 0
+  },
+  "glyphs": 387,
+  "supported_languages": 135,
+  "version": "1.1",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Bold",
+    "Display",
+    "Grunge",
+    "Posters",
+    "Readable"
+  ],
+  "description": "Zina is a stately and elegant inline serif face for display use. At its heart, this is actually an early-nineteenth century Didone-style design. Its serifs are light and only slightly bracketed onto the main strokes. Several letters have prominent ball terminals. The inline strokes in Zina’s letters are really the typeface’s most prominent feature. These inlines run through the middle of each letterform’s thick strokes, creating a jewell-like appearance. In order for Zina’s inlines and the thin serifs to shine, the typeface should only be used in applications that are subheadline-sized or larger.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

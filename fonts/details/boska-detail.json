@@ -1,0 +1,46 @@
+{
+  "name": "Boska",
+  "url": "https://www.fontshare.com/fonts/boska",
+  "category": "Serif",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Extralight Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 12,
+    "total_variable": 2
+  },
+  "glyphs": 563,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "20 Apr 2021",
+  "tags": [
+    "Books",
+    "Logo",
+    "Magazines",
+    "Poster",
+    "Screen",
+    "Websites"
+  ],
+  "description": "Boska is a high-contrast ‘modern’, or Didone-style font family, with a calligraphic flourish. It is intended for typesetting headlines in editorial design settings, as well as signage, the larger texts in exhibition graphics, or any other place where you need big, elegant-looking type. Boska takes inspiration both from straight-axis nineteenth century typefaces and pointed-pen calligraphy. Its letterforms contain a high degree of stroke-contrast; this gives them a look of sophistication. The family includes six weights, ranging in style from Light through Black. Each weight has both an upright font and an italic on offer. The fonts’ default numerals are proportionally-spaced oldstyle figures. Lining figures are also available, via an OpenType feature. Boska’s characters are all a bit condensed; this narrow feeling is especially present in the fonts’ uppercase letters. The ascenders of the lowercase letters rise slightly above the tops of the capitals. In the upright fonts, the ‘a’ and the ‘g’ are double-storied. In the italics, they are single-storied. Each font includes small caps, and 13 f-ligatures, too. Special characters in the fonts – such as the hashtag and the @-symbol, as well several punctuation marks and mathematical glyphs – are drawn with thin, monolinear hairline strokes, allowing them to disappear into the background somewhat, and let the real alphabetic characters shine more prominently. Boska is the work of Barbara Bigosinska, a Polish type designer living in the Netherlands, who is a graduate of the MA Type & Media programme at the Royal Academy of Art (KABK) in The Hague.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

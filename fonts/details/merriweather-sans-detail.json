@@ -1,0 +1,27 @@
+{
+  "name": "Merriweather Sans",
+  "url": "https://www.fontshare.com/fonts/merriweather-sans",
+  "category": "Sans",
+  "designer": "Eben Sorkin",
+  "foundry": "Eben Sorkin",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 1173,
+  "supported_languages": 0,
+  "version": "2.001",
+  "fontshare_debut": "23 May 2022",
+  "tags": [
+    "Branding",
+    "Legible",
+    "Readable"
+  ],
+  "description": "Merriweather Sans is a low-contrast semi-condensed sans-serif typeface family designed to be readable at very small sizes. Merriweather Sans is traditional in feeling despite the modern shapes it has adopted for screens.It's a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts.\n\nMerriweather Sans is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

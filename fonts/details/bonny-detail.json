@@ -1,0 +1,37 @@
+{
+  "name": "Bonny",
+  "url": "https://www.fontshare.com/fonts/bonny",
+  "category": "Serif",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 5,
+    "total_variable": 1
+  },
+  "glyphs": 400,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Banners",
+    "Books",
+    "Logos",
+    "Magazines",
+    "Poster"
+  ],
+  "description": "Bonny is a family of decorative serif fonts, designed for display typography. The letterforms are very condensed. They also contain a lot of stroke-contrast. Bonny’s thin strokes often terminate in flourishes; these flourishes pair well with the typeface’s serifs, which are both thin and short. Bonny’s uppercase letters are very top-heavy; the upper halves of ‘B’, ‘E’, ‘F’, ‘H’, ‘K’, ‘M’, ‘R’, ‘S’, and ‘X’ are so large that they look almost like caricatures. This feature is carried over the some of the lowercase letters, too. For example, Bonny’s ‘a’, ‘c’, ‘f’, ‘g’, ‘k’, ‘r’, ‘s’, ‘t’, ‘y’, and ‘z’ are all extravagant and lovely. The ‘v’ and ‘w’ have calligraphic flourishes on their right-hand sides; similar expressions appear throughout rest of the the typeface, too. Each font includes 13 f-ligatures. An alternate ‘j’ may be automatically substituted into text, via the Contextual Alternates feature, preventing collisions with glyphs coming before it. The fonts’ numerals are oldstyle figures, which match the rhythm of the lowercase letters. From the Polish type designer Barbara Bigosinska, Bonny is an excellent choice for use on greeting cards and in packaging design. Its fonts should be set in large point sizes, so that its details have enough space to really shine.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

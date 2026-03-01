@@ -1,0 +1,28 @@
+{
+  "name": "Fira Sans",
+  "url": "https://www.fontshare.com/fonts/fira-sans",
+  "category": "Sans",
+  "designer": "Carrois Apostrophe",
+  "foundry": "Carrois Apostrophe",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 2702,
+  "supported_languages": 0,
+  "version": "4.202",
+  "fontshare_debut": "23 May 2022",
+  "tags": [
+    "Apps",
+    "Branding",
+    "Magazines",
+    "Screen"
+  ],
+  "description": "Designed to integrate with the character of the Mozilla FirefoxOS, the Fira typefaces also aim to cover the legibility needs for a large range of handsets varying in screen quality and rendering.\n\nThis project is led by Carrois, a type foundry based in Berlin.\n\nFira Sans is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

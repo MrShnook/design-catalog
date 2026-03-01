@@ -1,0 +1,42 @@
+{
+  "name": "Bespoke Stencil",
+  "url": "https://www.fontshare.com/fonts/bespoke-stencil",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Extrabold",
+      "Extrabold Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 10,
+    "total_variable": 2
+  },
+  "glyphs": 387,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Logos",
+    "Magazines",
+    "Poster",
+    "Websites"
+  ],
+  "description": "Bespoke Sans Stencil is family of humanist sans serif fonts that look like stencil letters. Each stroke in the fonts’ letterforms breaks at the place where a writer might pause, if they were written with a broad pen. The underlying structure is similar to the Bespoke Sans fonts. The typeface’s design features large, open counterforms; these hep maximise legibility. The Bespoke Sans Stencil family includes five weights that range from Light through Bold. Each weight has an upright and an italic font on offer. The lowercase ‘a’ and ‘g’ in the upright fonts are double-storied; in the italic fonts, these become single-storied. The fonts’ numerals are proportionally-spaced oldstyle figures that harmonise especially well with the lowercase letters. Bespoke Sans Stencil is an excellent choice for use in branding, corporate communication, or editorial design. The fonts are a real team effort; they were designed by Jeremie Hornus, Theo Guillard, Morgane Pambrun, Alisa Nowak, and Joachim Vu. Together with the Bespoke Sans and Bespoke Serif families, Bespoke Sans Stencil is part of a proper Fontstore series you could call ‘the Bespoke superfamily’.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

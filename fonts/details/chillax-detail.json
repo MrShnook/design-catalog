@@ -1,0 +1,38 @@
+{
+  "name": "Chillax",
+  "url": "https://www.fontshare.com/fonts/chillax",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 6,
+    "total_variable": 1
+  },
+  "glyphs": 443,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Banners",
+    "Books",
+    "Logos",
+    "Magazines",
+    "Poster"
+  ],
+  "description": "A new geometric sans for larger-size type in display applications, Chillax is a design bringing a 1920s modernist vibe to contemporary editorial design projects. Set headlines with it online or in print. Chillax would also be an excellent choice for embedding in a cultural or lifestyle app. Although its letterforms might look slightly decorative at first glance, Chillax has a high modernist pedigree. Manushi Parikh did not design the typeface in just any geometric direction: Chillax is a ‘Bauhaus’-style typeface. Its lowercase letters are designed directly along a pattern established in 1926 by Herbert Bayer as part of his ‘Universal’ alphabet. Since Bayer’s ideas explored unicase possibilities, they had no capital letters. The uppercase in Chillax is Parikh’s addition.\n\nAs installable fonts, Chillax is available either as a family of six fonts or a single Variable Font file. The standard font-format family offers predefined weights ranging from ExtraLight to Bold. Meanwhile, the Variable Font is even more versatile. Its weight axis allows you to pick the exact stroke thickness desired from hundreds of subtly different grades. No matter which font format you install, Chillax includes several alternate letterforms that you can substitute into your text via the fonts’ OpenType features. For instance, the Standard Alternates and the Stylistic Set 1 feature each swap in rounder forms for the uppercase ‘A’, ‘B’, ‘D’, ‘M’, ‘N’, ‘V’, ‘W’, ‘Y’ and ‘Z’. It also activates the lowercase letters ‘v’, ‘w’, ‘z’ and the numeral ‘3’. Those features substitute open-counter alternate forms for the ‘K’, ‘R’, ‘X’, ‘k’ and ‘x’ as well. Stylistic Set 2 activates even more-iconic letterforms. Its alternates for the ‘A’, ‘K’, ‘Y’ and ‘k’ look like the letters Bayer designed for the signage on the Bauhaus building in Dessau.\n\nWith more than 440 glyphs per font, Chillax supports all of the characters needed for European languages written with the Latin script. The x-height of Chillax’s lowercase letters is tall. Ascenders rise above the tops of the fonts’ capital letters. All this allows the interior counter forms in Chillax’s glyphs to be large. They are open and read clearly. Thanks to that, even the more decorative alternates are always legible.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

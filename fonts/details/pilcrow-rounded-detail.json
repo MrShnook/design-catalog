@@ -1,0 +1,36 @@
+{
+  "name": "Pilcrow Rounded",
+  "url": "https://www.fontshare.com/fonts/pilcrow-rounded",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 5,
+    "total_variable": 1
+  },
+  "glyphs": 415,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "8 Feb 2022",
+  "tags": [
+    "Books",
+    "Branding",
+    "Logos",
+    "Magazines"
+  ],
+  "description": "Pilcrow Rounded's design is simple and utilitarian, similar to forms found on street and highway signs around the world – or in-use on cast-metal lettering for industrial products. Pilcrow Rounded include five weights: Regular through Heavy. In keeping with the design’s mechanical nature, the family does not include Italics, as Pilcrow’ Rounded's style of letter fits better with typographic hierarchies using contrasting weights to define emphasis, whereas Italics use slants or a cursive stroke pattern. Pilcrow Rounded’s glyphs have square-like proportions, although most of them are narrower than perfect squares. While the typeface does have a monospaced feeling in longer passages of text, the glyphs are proportionally-spaced. Each glyph’s width increases just slightly as one goes up the family’s weight scale. A benefit of typefaces created for utilitarian purposes is that their clean and simple letterforms often increase legibility onscreen. Pilcrow Rounded is particularly suited for short texts on websites or for news-ticker scrollbars on television. Because of web 2.0-style logos that have been popular in the past decade, Pilcrow Rounded appears particularly suited for use in ‘tech’ applications.\n\nPilcrow Rounded is part of Pilcrow family that comes in three variants: Pilcrow, Pilcrow Soft and Pilcrow Rounded. Pilcrow and Pilcrow Soft are paid fonts (and can be purchased from Indian Type Foundry's website), whereas Pilcrow Rounded is distributed for free exclusively through Fontshare. The typeface name comes from the ‘pilcrow’ (¶), a typographic symbol used to mark the start of a paragraph.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

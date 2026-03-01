@@ -1,0 +1,31 @@
+{
+  "name": "Striper",
+  "url": "https://www.fontshare.com/fonts/striper",
+  "category": "Display",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Regular"
+    ],
+    "variable": [],
+    "total_static": 1,
+    "total_variable": 0
+  },
+  "glyphs": 824,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "9 Oct 2021",
+  "tags": [
+    "Branding",
+    "Experimental",
+    "Fun",
+    "Logos",
+    "Poster"
+  ],
+  "description": "Striper is a decorative sans serif font. In almost every letter or numeral in the font whose form contains a straight line (a horizontal, vertical, or diagonal stroke), that line has been replaced with a zebra-striped pattern. This whimsical effect adds levity and ornament to any texts set with the font. Because of the size of the stripes in Striper’s patterns, the Striper font is best used in large sizes. The pattern will have more of an effect if one or just a few words of a headline are set with Striper, instead of many lines of text in succession. The Striper font has a large character set, with two alternate forms for each letter; these alternates may be accessed via the font’s OpenType Stylistic Sets. The first Stylistic Set offers letterforms with different basic skeletal shapes – i.e., the lowercase ‘a’ changes from being double-storey to single-storey – as well as offering letterforms with striped patterns in different parts of the characters. The second Stylistic Set features letters that are much wider. Striper’s second Stylistic Set is almost have having a second, extended font packaged inside the same font file! The ascenders on Striper’s lowercase letters rise up to the same height as the tops of the font’s capitals. Striper was designed by Jitka Janečková.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

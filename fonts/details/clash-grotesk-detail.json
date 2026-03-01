@@ -1,0 +1,37 @@
+{
+  "name": "Clash Grotesk",
+  "url": "https://www.fontshare.com/fonts/clash-grotesk",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 6,
+    "total_variable": 1
+  },
+  "glyphs": 445,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Editorial",
+    "Magazines",
+    "Reading",
+    "Text"
+  ],
+  "description": "Clash Grotesk is a family of sans serif fonts, with a twist. While the design of the family’s six styles is generally neo-grotesk in style, one feature immediately sets it from other typefaces in that genre: Its letterforms have very small ‘apertures’. These are the openings at the edges of the counterforms; if you look at the letter ‘c’, for instance, the space between ends of the two arms on the right-hand side of the letter is very small. It almost looks as if that aperture is about to close shut. Clash Grotesk is eye catching, but its ‘design trick’ does not go overboard. The typeface is tame enough to be used in corporate identity work, while remaining exciting enough for editorial designers. The family’s weights range from Extralight through Bold; the strokes of the letterforms are optically monolinear in all of them. Except for the lighter weights, the fonts have been optimised for use at running-text sizes. Clash Grotesk’s numerals are proportional lining figures, just as tall as tops of the uppercase letters. The lowercase’s ascenders rise up to this common capital/numeral height, too. The fonts’ x-height is tall, and the counterforms inside the letters are rather large. Clash Grotesk’s lowercase ‘a’ is double-story, while its ‘g’ is single-storey. Clash Grotesk has a companion family available for use in larger sizes: Clash Grotesk Display.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

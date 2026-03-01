@@ -1,0 +1,40 @@
+{
+  "name": "Britney",
+  "url": "https://www.fontshare.com/fonts/britney",
+  "category": "Script",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Ultra"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 4,
+    "total_variable": 1
+  },
+  "glyphs": 387,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "9 Jul 2021",
+  "tags": [
+    "Album Covers",
+    "Books",
+    "Headlines",
+    "Logo",
+    "Magazines",
+    "Packaging",
+    "Poster",
+    "Screen",
+    "Websites"
+  ],
+  "description": "Britney is a quirky display family with very high contrast and double strokes on the stems. It lives on the border between sans serif, cursive, and script typeface. The shapes are loosely based on experiments designers made with the pointed brush, but they kept the Britney very clean and crisp as opposed to giving it a handwriting feel. Unlike other typefaces inspired by the pointed pen, capital letters have been kept rather simple, without loops or flourishes. That way, the used can even use words in all-caps if wanted. Britney is meant to be used for packaging, headlines, album covers, and magazines. Using a few letters of Britney gives an otherwise regular layout some flair.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

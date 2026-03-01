@@ -1,0 +1,35 @@
+{
+  "name": "Quilon",
+  "url": "https://www.fontshare.com/fonts/quilon",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 4,
+    "total_variable": 1
+  },
+  "glyphs": 386,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Banners",
+    "Magazines",
+    "Posters",
+    "Websites"
+  ],
+  "description": "Quilon is a high-contrast sans serif family. It’s design features also transcend the centuries – elements of both 19th century English grotesques and 1990s postmodernism are present in its letterforms. The family is an optimal selection for use in display typography. As the weights progress, their stroke contrast increases dramatically. Each font in the family includes 391 glyphs. “Quilon” is the previous name for Kollam, a city located in Kerala, India.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

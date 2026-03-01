@@ -1,0 +1,37 @@
+{
+  "name": "Sharpie",
+  "url": "https://www.fontshare.com/fonts/sharpie",
+  "category": "Display",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 5,
+    "total_variable": 1
+  },
+  "glyphs": 387,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Calligraphy",
+    "Lettering",
+    "Magazines",
+    "Pen",
+    "Posters"
+  ],
+  "description": "Sharpie is an informal family of script fonts. It includes five different styles, ranging in weight from Light to Black. The typeface, named after a kind of marker, looks very sign-painterly – almost as if its letters had been written out quickly with a flat brush. All of its letterforms are slanted, and they do not connect with the characters that come before or after them. Sharpie’s strokes are very angular in their appearance. The stroke-contrast is rather modest in the Light weight, but by the Black, it is very strong (really quite awesomely so). Sharpie’s lowercase letters don’t have a very tall x-height. The tops of the ascending-lowercase letters, the capitals, and the numerals all rise to about the same point. The ‘a’ and the ‘g’ in Sharpie are both single-storey in their forms. The typeface is designed by Théo Guillard.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

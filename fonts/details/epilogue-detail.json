@@ -1,0 +1,29 @@
+{
+  "name": "Epilogue",
+  "url": "https://www.fontshare.com/fonts/epilogue",
+  "category": "Sans",
+  "designer": "Tyler Finck",
+  "foundry": "Tyler Finck",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 1148,
+  "supported_languages": 0,
+  "version": "2.112",
+  "fontshare_debut": "22 May 2022",
+  "tags": [
+    "Logo",
+    "Websites",
+    "Banners",
+    "Headline",
+    "Products"
+  ],
+  "description": "Epilogue is a sans serif typeface family in 18 styles (9 Uprights + 9 Italics). It also has a variable style with weight axis. The family supports a wide range of languages in the latin script scope.\n\nThis project is led by Tyler Finck, a type designer running Etcetera Type Co in Ithaca, New-York, USA.\n\nEpilogue is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

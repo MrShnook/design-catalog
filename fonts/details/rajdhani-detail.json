@@ -1,0 +1,29 @@
+{
+  "name": "Rajdhani",
+  "url": "https://www.fontshare.com/fonts/rajdhani",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 340,
+  "supported_languages": 0,
+  "version": "3.0",
+  "fontshare_debut": "21 May 2022",
+  "tags": [
+    "Branding",
+    "Broadcast",
+    "Headlines",
+    "Tech",
+    "Websites"
+  ],
+  "description": "Rajdhani is an open source typeface designed for use in headlines and other display-sized text on screen. Its initial release includes five fonts.\n\nThe letterforms are modularised; their squared and condensed appearance may be interpreted as being technical or even futuristic. Typically round bowls and other letterform elements have straight sides in Rajdhani. Its stroke terminals typically end in flat line segments that terminate either on a horizontal or a vertical, rather than on a diagonal. Their corners are slightly rounded, giving stroke-endings a softer feeling, rather than a pointy one.\n\nRajdhani is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

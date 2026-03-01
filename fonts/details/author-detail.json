@@ -1,0 +1,44 @@
+{
+  "name": "Author",
+  "url": "https://www.fontshare.com/fonts/author",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Extralight Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 12,
+    "total_variable": 2
+  },
+  "glyphs": 417,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Branding",
+    "Logos",
+    "Magazines"
+  ],
+  "description": "Author is a family of humanist sans serif fonts. They are optimised for use in modern publications – hence the the name ‘Author.’ Its letterforms are slightly expanded, which gives the counterforms inside of them enough space to breathe, thus increasing their legibility and helps with their on-screen rendering, too. Author’s family includes six weights, ranging from Extralight through Bold. Each weight has an upright and an italic font on offer. The uppercase letters are virtually monolinear in appearance; however, several of the lowercase letters have visible stroke contrast. The tops of Author’s strokes terminate in diagonal cuts; these are reminiscent of the broad-pen that would be used to write the humanist letterforms the typeface is based on. In Author’s upright fonts, the lowercase ‘a’ and ‘g’ are double-storied; there is a single-storey ‘g’ in the fonts as an OpenType alternate. In the italic fonts, the ‘a’ and the ‘g’ are both single-storied. The ascenders of Author’s lowercase letters a slightly taller than the tops of the capitals. The family’s fonts include both lining and oldstyle figures; in both versions, the ‘3’ has a flat top. Author comes from Satya Rajpurohit, the founder of Fontshare and Indian Type Foundry.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

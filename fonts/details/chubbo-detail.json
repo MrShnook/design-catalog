@@ -1,0 +1,43 @@
+{
+  "name": "Chubbo",
+  "url": "https://www.fontshare.com/fonts/chubbo",
+  "category": "Display",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Extralight Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 10,
+    "total_variable": 2
+  },
+  "glyphs": 398,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Banners",
+    "Books",
+    "Logos",
+    "Magazines",
+    "Poster"
+  ],
+  "description": "Chubbo is a family of expressive slab serif fonts. It can lend a unique voice to the larger-sized texts in posters, brochures, website headlines and apps. A lot of Chubbo’s expressiveness and friendly-nature comes from the forms of its slab serifs themselves. These all end in rounded terminals, giving the typeface a soft feeling. The family encompasses five weights ranging in stroke thickness from ExtraLight to Bold. Each Chubbo weight has a complementary italic, too. Chubbo’s italics are even livelier than its upright fonts. The fonts’ characters are not sloped versions of the upright forms. Instead, they are redrawn in a more cursive style. Inside the italics, the stroke of the pen is kept. They are the most exciting contribution type designer Rafał Buchner brought to the project. Aside from Chubbo’s availability as ten ‘classic’ fonts, the design also ships as two Variable Fonts. There is one Variable Font for Chubbo’s upright styles and another for its italics.\n\nIn each style, the fonts’ strokes are optically monolinear. Some letters in the italic styles’ lowercase prove the exception, to strengthen their script-like appearance. Chubbo’s upright fonts have double-storey ‘a’ and ‘g’ forms per default. A single-storey ‘g’ is available as an alternate. In the italics, the ‘a’ and ‘g’ are always single-storey. Through an Opentype feature, you can replace the default forms of Chubbo’s ‘g’ and ‘y’ with alternates. The descenders of the standard italic ‘g’ and ‘y’ have closed loops; alternate glyphs provide open forms for those two letters. In both the upright and italic styles, the default ‘G’ has a curled beard that descends below the baseline, but there is a version with a straight, non-descending beard available as an alternate. All Chubbo fonts also have an alternate dollar sign where the stroke does not bisect the entire S-form.\n\nWith more than 390 glyphs per font, Chubbo supports all of the characters needed for European languages written with the Latin script. Chubbo’s lowercase letters have a moderate x-height, but their ascenders rise above the tops of the fonts’ capitals. The fonts feature interior forms that are clear and legible, no matter their total size. The typeface will lend a lively voice to any situation it is applied in.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

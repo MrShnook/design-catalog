@@ -1,0 +1,40 @@
+{
+  "name": "Neco",
+  "url": "https://www.fontshare.com/fonts/neco",
+  "category": "Serif",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 8,
+    "total_variable": 2
+  },
+  "glyphs": 615,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Magazines",
+    "Menus",
+    "Reading"
+  ],
+  "description": "Neco is a family of serif fonts, designed for use in headlines as well as smaller-sized texts of short and medium length. The fonts’ serifs have been designed with chunky, prominent wedge-shaped forms. The letterforms feature a diagonal axis of stress. As a family, Neco includes four weights, ranging from Regular through Black. Each weight has an upright and an italic font on offer. Neco’s letterforms have a high amount of stroke contrast, and the degree of contrast really increases from weight to weight. The Black and Black Italic fonts are particularly dynamic, in terms of their appearance. Neco’s lowercase letters have a tall x-height, and their ascenders rise up above the height of the fonts’ capitals. The letterforms in the Italic fonts are not oblique versions of the upright’s glyphs, but true cursive forms. The default numeral style in each font is proportional oldstyle figures, but tabular figures, lining figures, small cap figures, as well as a full range of numerators and denominators for typesetting fractions are in the character set as well. There are also several f-ligatures, substituted into the text by the fonts’ OpenType features. Neco is an excellent choice for use in editorial design, or for typesetting invitations and event-graphics. The fonts were designed by Jitka Janečková.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "New Title",
+  "url": "https://www.fontshare.com/fonts/new-title",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 5,
+    "total_variable": 1
+  },
+  "glyphs": 392,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "25 Apr 2022",
+  "tags": [
+    "Branding",
+    "Credits",
+    "Films",
+    "Logos",
+    "Magazines",
+    "Titles"
+  ],
+  "description": "New Title is a typeface family for film titles and credits sequences. Its design is narrow and utilitarian. The compressed letterforms are made up of almost monolinear strokes – only some characters have only visible contrast. Each font features a particularly unique capital ‘J’ that doesn’t descend; its out-stroke mirrors the terminals on ‘C’, ‘G’, ‘S’, ‘2’, ‘3’, ‘5’, ‘6’, and ‘9’. Title’s design also includes two forms of the lowercase ‘g’, and the fonts’ euro and yen currency symbols have a gap in the center of their main strokes.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

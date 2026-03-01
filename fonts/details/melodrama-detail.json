@@ -1,0 +1,37 @@
+{
+  "name": "Melodrama",
+  "url": "https://www.fontshare.com/fonts/melodrama",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 5,
+    "total_variable": 1
+  },
+  "glyphs": 523,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "2 Mar 2022",
+  "tags": [
+    "Banners",
+    "Branding",
+    "Magazines",
+    "Websites",
+    "Posters"
+  ],
+  "description": "Melodrama is a family of five sans serif fonts whose letterforms feature very high contrast. Its weights range from Light to Bold. Even in Melodrama Light, the vertical strokes in letters seem about twice as thick as the horizontals. Each weight in the family increases the thickness of those thicker strokes, while the thins stay just the same. That means that, as you go up the weight scale, you get more and more contrast with each style. The best feature in Melodrama is probably the number of decorative ligatures it includes. These include more than three dozen uppercase pairs, like a ‘CH’ where part of the ‘H’ is inside the ‘C’, and several L-ligatures with the bottom the ‘L’ extending under superscript-like letters. You can also have the ‘O’ partially overlap the ‘C’, ‘G’, ‘O’, or ‘Q’. The lowercase letters get to join in the ligature fun, too. As a sans serif, Melodrama is also a rather geometric typeface. Letters like ‘C’ and ‘G’ are nearly circular, just like the ‘O’, ‘Q’, ‘c’, and ‘e’. Most other letters are much narrower. The lowercase ‘a’ and ‘g’ are double-storied. Oldstlye figures can be substituted as alternates for the fonts’ standard lining figures. Melodrama’s mixing of geometry and high-contrast letterforms results in texts that look glamorous and fashionable. It is an excellent choice for setting headlines and designing the mastheads and logos of style websites.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

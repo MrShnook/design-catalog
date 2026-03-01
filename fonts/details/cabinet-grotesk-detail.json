@@ -1,0 +1,39 @@
+{
+  "name": "Cabinet Grotesk",
+  "url": "https://www.fontshare.com/fonts/cabinet-grotesk",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 8,
+    "total_variable": 1
+  },
+  "glyphs": 465,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Editorial",
+    "Magazines",
+    "Posters"
+  ],
+  "description": "Cabinet Grotesk is a family of contemporary fonts. In terms of design, Cabinet Grotesk is a sans; however, its letters feature of kind of stroke-contrast that set them apart from other sans serifs. The family includes eight styles, which range in weight from Thin through Extrabold – even the Thin weight maintains the family’s stroke-contrast model. As Cabinet Grotesk’s fonts get heavier, the stroke-contrast becomes most-prominent in the letterforms’ stroke connections. These get quite a ‘pinched’ look. Cabinet Grotesk’s numerals are proportional lining figures, and just as tall as the tops of the uppercase letters. The lowercase’s ascenders rise up to the common capital/numeral height, too. The letters ‘a’ and ‘g’ are double-storey by default, but single-storey variants are available via Stylistic Sets. The fonts also include several other unique OpenType features, including case-sensitive punctuation, 19 ligatures, a special form of the ‘IJ’ for the Dutch language (including the ‘IJ’ with acute accents over both the ‘I’ and the ‘J’), as well as alternate versions of the ‘Ä’ and ‘Ü’ that feature lowered dots. Cabinet Grotesk’s broad number of weights, combined with its eye-catching stroke-contrast, make it an ideal choice for use in editorial design.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

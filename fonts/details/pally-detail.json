@@ -1,0 +1,37 @@
+{
+  "name": "Pally",
+  "url": "https://www.fontshare.com/fonts/pally",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 3,
+    "total_variable": 1
+  },
+  "glyphs": 387,
+  "supported_languages": 135,
+  "version": "1.2",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Comics",
+    "Editorial",
+    "Funny",
+    "Informal",
+    "Kids",
+    "Poster"
+  ],
+  "description": "Pally is a highly-informal sans serif design. Its three weights were designed by Jean-Baptiste Morizot. Pally’s letterforms are all a bit wobbly; the angles of many letters’ strokes are atypical – just look at the capital ‘A’ – and the left and right-hand-sides of many letters are not the same size or height (e.g., the lowercase ‘a’ and ‘n’). As a result, Pally has a lot more character than most sans serif typefaces. It could be an excellent choice for headlines or signage in children’s services projects, like family centers, pediatricians’ offices, primary schools, etc. Once you begin to understand the different rhythm that Pally offers, its underlying typographic sophistication becomes clear. The ascenders of the lowercase letters, rise above the heights of capital letters and numerals. The lowercase alphabet includes a double-storey ‘a’, a single-storey ‘g’, and a Jensonian ‘e’, with a diagonal stroke in its middle-section. Each Pally weight has been drawn in a more-or-less monolinear fashion. In the fonts’ extended character sets, there is plenty of space between each letter and diacritics that come on top of it.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

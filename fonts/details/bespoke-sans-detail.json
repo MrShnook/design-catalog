@@ -1,0 +1,42 @@
+{
+  "name": "Bespoke Sans",
+  "url": "https://www.fontshare.com/fonts/bespoke-sans",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Extrabold",
+      "Extrabold Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 10,
+    "total_variable": 2
+  },
+  "glyphs": 387,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Logos",
+    "Magazines",
+    "Poster",
+    "Websites"
+  ],
+  "description": "Bespoke Sans is family of humanist sans serif fonts. They feature large, open counterforms, which hep maximise the typeface’s legibility in text. The family includes five weights, ranging from Light through Bold. Each weight has an upright and an italic font on offer. The tops of the Bespoke Sans’s lowercase ascenders all end in diagonal shears. This kind of diagonal stroke-ending is visible throughout the typeface’s design. It acts as a subtle reference to the kind of broad-pen that could be used to write Bespoke Sans’s letterforms out. The lowercase ‘a’ and ‘g’ in the five upright fonts are double-storied. In the italic fonts, these become single-storied. The fonts’ numerals are proportionally-spaced oldstyle figures, which harmonise especially well with the lowercase letters. Bespoke Sans is an excellent choice for use in branding, corporate communication, editorial design, and even in signage and wayfinding systems. It gets a text’s message across quickly – no matter if the text is long or short – without sacrificing its own unique and inherent voice.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

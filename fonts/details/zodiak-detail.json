@@ -1,0 +1,43 @@
+{
+  "name": "Zodiak",
+  "url": "https://www.fontshare.com/fonts/zodiak",
+  "category": "Serif",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Thin",
+      "Thin Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic",
+      "Extrabold",
+      "Extrabold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 12,
+    "total_variable": 2
+  },
+  "glyphs": 388,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Editorial",
+    "Magazines"
+  ],
+  "description": "Zodiak is a family of fonts with sturdy serifs. Several of the weights in the family are optimal for setting large amounts of running texts; the extreme light and heavy fonts, on the other hand, work great together in display applications. The letterforms in Clair have a vertical axis, and their design is reminiscent of contemporary newspaper fonts, as well as late-nineteenth century typefaces along the Century model. Zodiak includes 12 styles ranging in weight from Thin to Black. Each of those six weights has a companion italic font, too. Zodiak’s letterforms feature thick slab-like serifs that are bracketed onto their stems. Since the proportions of its uppercase letters are nineteenth-century, they optically feel like they are all almost the same width. The same is true for the numerals, which share the same height as the capitals. The numerals include nice, decorative features, such as flag-like strokes on the bottom of the ‘2’ and the top of the ‘7’. The ascenders of Zodiak’s lowercase letters rise slightly above the tops of the uppercase letters and numerals. Zodiak}s x-height is also rather tall. The lowercase ‘g’ in the upright fonts, which is double-storey, has a lovely ear that ascends above the x-height. In the italic fonts, both the ‘a’ and the ‘g’ are single-storey. The italic letterforms also feature especially-prominent ball terminals. Zodiak is the work of a team of Paris-based type designers including Jeremie Hornus, Gaetan Baehr, Jean-Baptiste Morizot, Alisa Nowak and Theo Guillard.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

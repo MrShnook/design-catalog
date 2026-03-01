@@ -1,0 +1,38 @@
+{
+  "name": "Synonym",
+  "url": "https://www.fontshare.com/fonts/synonym",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 6,
+    "total_variable": 1
+  },
+  "glyphs": 389,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Branding",
+    "Editorial",
+    "Magazines",
+    "Posters"
+  ],
+  "description": "Synonym is a family of six humanist sans serif fonts. The typeface is perfect for use in Branding and in Editorial Design projects – anywhere you need a sans that combines personality with clear, open, and instantly legible forms. Synonym’s letterforms are not as monolinear as those found in many other humanist sans serif designs. The stroke contrast in Synonym is particularly visible in the lowercase ‘a’. Like the fonts’ lowercase ‘g’, this letter is double-storied in all of the family’s weights. Several of the strokes in Synonym’s letterforms terminate in diagonals, rather than with horizontal or vertical cuts, such as the arms of the ‘E’, ‘F’, ‘L’, and ‘T’, the tops of the ascenders in the lowercase, and the in-strokes of ‘m’, ’n’, ‘r’, ‘t’, and ‘u’. The lowercase letters’ x-height is moderately positioned in relation to the capital letters, and the fonts’ ascenders rise up above the tops of the uppercase letters. The fonts’ numerals are lining – making them as tall of the capital letters – but they are proportionally-spaced, with the ‘1’ and the ‘7’, for instance, being narrower than the ‘0’ or ‘8’. Synonym is the work of Hugo Dumont, a type designer based in Paris.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

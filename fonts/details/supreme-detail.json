@@ -1,0 +1,48 @@
+{
+  "name": "Supreme",
+  "url": "https://www.fontshare.com/fonts/supreme",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Thin",
+      "Thin Italic",
+      "Extralight",
+      "Extralight Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Extrabold",
+      "Extrabold Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 14,
+    "total_variable": 2
+  },
+  "glyphs": 387,
+  "supported_languages": 135,
+  "version": "1.1",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Logo",
+    "Magazines",
+    "Poster",
+    "Screen",
+    "Websites"
+  ],
+  "description": "Supreme is a large family of constructed-style sans serif fonts. These fonts feature forms that look like those that have been favored by engineers for over a century. Their letters are straight-sided, and the strokes that make them up are monolinear. The Supreme family includes 14 members. Seven of these fonts are italics, although these italic fonts should really be called ‘obliques,’ as the letters are slanted versions of what you’ll find in the upright fonts. The family’s weights range from Extralight through Extrabold. The x-height is moderate, so the ascenders and the descenders are quite prominent. The ascenders rise above the capital letters and the numerals – both of which share the same height. Each font uses a double-storey ‘a’ and single-storey ‘g’. Years ago, fonts like Supreme were primarily used to brand firms in engineering and tech. Recently, however, they have become increasingly popular solutions for setting text on screen. The Regular weight of this family would be excellent for setting body copy either on screen or in print. The other weights can be used for text sizes, too, but will function even better when used large. Supreme was designed by Jeremie Hornus and Ilya Naumoff.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

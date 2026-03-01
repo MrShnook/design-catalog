@@ -1,0 +1,29 @@
+{
+  "name": "Kola",
+  "url": "https://www.fontshare.com/fonts/kola",
+  "category": "Display",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Regular"
+    ],
+    "variable": [],
+    "total_static": 1,
+    "total_variable": 0
+  },
+  "glyphs": 387,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Editorial",
+    "Poster"
+  ],
+  "description": "Kola is a technoid stencil-style sans serif font. All of the stroke endings in Kola’s glyphs are rounded, and the overall effect of Paris-based type designer Jean-Baptiste Morizot’s stencilling is a bit reminiscent of the kind of lettering used on LED displays. Kola’s lowercase letters have a large x-height, and the ascenders rise up to the same height as the tops of the font’s capital letters and numbers. Despite the x-height being tall, Kola’s diacritical marks are still huge. They tower above the ascenders, capital letters, and numbers, and are very legible and identifiable, even when the font is used in small sizes. In terms of proportion, Kola looks a bit like a contemporary condensed-style sans serif typeface. Many letters in the font have designs that are reduced; the ‘n’ for instance, is almost geometric. The capital ‘I’ and ‘J’ have contrasting designs so that they are easy to tell apart. The dynamic-placement of the stencil-bridges is particularly novel in Kola’s ‘K’, ‘j’, and ‘r’. The tail of Kola’s ‘Q’ is a completely-vertical stroke. Counterforms inside of the letters are large and easy to recognise. Although the lowercase ‘a’ is double-storied, the ‘g’ is single-storey. Because of its stencil treatment, Kola is best used in large sizes. It is an optimal selection for logo design, or for use on concert posters.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

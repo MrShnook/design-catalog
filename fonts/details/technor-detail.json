@@ -1,0 +1,38 @@
+{
+  "name": "Technor",
+  "url": "https://www.fontshare.com/fonts/technor",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 7,
+    "total_variable": 1
+  },
+  "glyphs": 387,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Logos",
+    "Magazines",
+    "Poster"
+  ],
+  "description": "Technor is a seven-weight family of constructed sans serif fonts. The sides of each letter in Technor are flat. Many of the typeface’s characters have rounded tops and bottoms; however, in the case of letters where these are traditionally flat – like in ‘E’, ‘F’, ‘I’, ‘L’, and ‘T’ – Technor keeps these flat, too. The family’s range of weights begins with Extralight and expands to Black. In all of the fonts, characters are drawn with monolinear strokes. In each of the weights, the fonts’ inter-character spacing is very tight. Technor is a little wide, especially in the lowercase. The lowercase letters also have a tall x-height. For their design, simple forms have been favored. The ‘a’ and the ‘g’ are both single-storey, for instance. Jean-Baptiste Morizot designed Technor for display applications; the larger the size, the better. This will give Technor’s unique design language enough space to make the intended statement.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

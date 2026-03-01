@@ -1,0 +1,29 @@
+{
+  "name": "Familjen Grotesk",
+  "url": "https://www.fontshare.com/fonts/familjen-grotesk",
+  "category": "Sans",
+  "designer": "Familjen STHLM AB",
+  "foundry": "Familjen STHLM AB",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 704,
+  "supported_languages": 0,
+  "version": "2.0",
+  "fontshare_debut": "25 May 2022",
+  "tags": [
+    "Banners",
+    "Headline",
+    "General",
+    "Packaging",
+    "Websites"
+  ],
+  "description": "Familjen Grotesk is a sans serif typeface with a contemporary appearance intended for both text and display. Large notches, known as “ink traps”, add style to headlines and clarity to captions. The large x-height, closed apertures and sturdy upper-case letters relate to the grotesque subgenre of sans serifs.\n\nFamiljen Grotesk project is led by Kristian Möller, a type designer based in Stockholm. The Latin component was designed by Anders Wikström, Jonas Bäckman, Matilda Gysing, Kristian Möller, Örjan Nordling ( Familjen STHLM AB/)).\n\nFamiljen Grotesk is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

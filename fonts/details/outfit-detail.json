@@ -1,0 +1,29 @@
+{
+  "name": "Outfit",
+  "url": "https://www.fontshare.com/fonts/outfit",
+  "category": "Sans",
+  "designer": "On Brand Investments Pty Ltd",
+  "foundry": "On Brand Investments Pty Ltd",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 263,
+  "supported_languages": 0,
+  "version": "1.0",
+  "fontshare_debut": "23 May 2022",
+  "tags": [
+    "Packaging",
+    "Websites",
+    "Magazines",
+    "Headline",
+    "Screen"
+  ],
+  "description": "Outfit is the official typeface for brand automation company outfit.io. Inspired by the ligature-rich outfit wordmark, Outfit.io is delighted to release it's own type family. The Outfit typeface links the Outfit written voice to Outfit product marks; on brand by default.\n\nThe proof files and QA tests are available automatically via GitHub Actions\n\nOutfit is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Array",
+  "url": "https://www.fontshare.com/fonts/array",
+  "category": "Display",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Wide",
+      "Regular",
+      "Semibold",
+      "Semibold Wide",
+      "Bold Wide",
+      "Bold"
+    ],
+    "variable": [],
+    "total_static": 6,
+    "total_variable": 0
+  },
+  "glyphs": 423,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Branding",
+    "Magazines",
+    "Posters",
+    "Signage"
+  ],
+  "description": "Array is a small family of electronic display style fonts. All of the design’s letterforms are made up of dots on a grid. The capital letters in each of the fonts are 10 dots tall. Lowercase letters like the “a”, which does not have an ascender or descender, are eight dots tall. Ascending lowercase letters are one dot taller than the capitals, so the “b” and “d” are 11 dots high. Descending letters like the “j” and the “g” have two dots that drop below the baseline. There are some characters, such as the Euro currency symbol, which dip below the baseline in order to accommodate all of the necessary “parts” on the Array grid, too. As a family, Array has a total of six fonts on offer. There are three “weights”: Regular, Medium, and Bold. The dots are the same size in each. As the weight of the family increases, the letterforms simply get wider. For example, as you move from Regular to Medium to Bold, the widths of the letters’ stems increase: the stems of Array’s Regular letters are two dots wide, while the Medium stems have three dots, and the Bold four. Each of the family’s weights has two “widths” available: normal and wide. Most of the widths of the letterforms in the three wide fonts are similar to those from the normal fonts, but with added space on their sides. The total width of the text that is wider in the Array Wide fonts, rather than the shapes of all letterforms themselves. Some characters are spaced and kerned differently in Array Wide, however, such as the “v”. Array was developed for Fontstore by Frode Helland, a Norwegian designer with several typefaces in our collection. The family is ideal for use in experimental graphic design. Its fonts could also be used on actual electronic displays, as well as in print or online editorial projects, especially in places where the fonts may be used in large sizes.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

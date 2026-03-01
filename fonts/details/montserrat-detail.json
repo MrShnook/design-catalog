@@ -1,0 +1,29 @@
+{
+  "name": "Montserrat",
+  "url": "https://www.fontshare.com/fonts/montserrat",
+  "category": "Sans",
+  "designer": "Julieta Ulanovsky",
+  "foundry": "Julieta Ulanovsky",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 1961,
+  "supported_languages": 0,
+  "version": "7.222",
+  "fontshare_debut": "23 May 2022",
+  "tags": [
+    "Banners",
+    "Packaging",
+    "General",
+    "Posters",
+    "Websites"
+  ],
+  "description": "Julieta Ulanovsky began this project in 2010 while a post-graduate student of typeface design at the FADU, University of Buenos Aires. She launched it as a Kickstarter project in 2011, in order to complete the first public release and share it with the world through Google Fonts.\n\nSince then it has been developed by Julieta in collaboration with several designers. In 2015, a full set of weights and italics were developed by Julieta in collaboration with Ale Paul, Carolina Giovagnoli, Andrés Torresi, Juan Pablo del Peral and Sol Matas. In 2017, Jacques Le Bailly reworked the entire Latin design, and in parallel Juan Pablo del Peral and Sol Matas developed the initial Cyrillic extension with review and advise from Maria Doreuli and Alexei Vanyashin. Technical reviews were made by Lasse Fister, Kalapi GajjarBordawekar and Marc Foley. Special thanks also to Thomas Linard, Valeria Dulitzky, Belén Quirós, and Germán Rozo.\n\nMontserrat is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

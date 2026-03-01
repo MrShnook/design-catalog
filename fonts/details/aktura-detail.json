@@ -1,0 +1,29 @@
+{
+  "name": "Aktura",
+  "url": "https://www.fontshare.com/fonts/aktura",
+  "category": "Serif",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Regular"
+    ],
+    "variable": [],
+    "total_static": 1,
+    "total_variable": 0
+  },
+  "glyphs": 450,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "9 Jul 2021",
+  "tags": [
+    "Magazines",
+    "Poster",
+    "Websites"
+  ],
+  "description": "Aktura is a medieval-style blackletter font. Its lowercase letters are a new digital/calligraphic take on traditional ‘gothic’ or textura-style forms. They look very much like the kinds of letters used on a lot of newspaper nameplates, or for certificate and diploma designs. Aktura’s uppercase is much more ornate; you could call the letters ‘lombardic’ capitals. Since gothic letterforms, historically speaking, were something of a unicase writing system – they were only really paired with matching caps after printing came along in the 15th century – Aktura reaches back to an occasional form of style-mixing practiced in the past, in which lombardic caps were used as the uppercase forms for gothic lowercase letters. The lombardic caps are so elaborate that they should almost never be used to set all-caps text; however, if you apply a lot of tracking, you might be able to get away with this for a logo, or in a headline that is about three-words-long. They will work just fine when they are used as presented in this font: as uppercase letters for otherwise mixed-case text. Aktura’s lombardic caps are a bit more calligraphic and playful than lombardic caps you might find in fonts based on more-specific historical source material. Like all ornamental capitals, Aktura’s uppercase can also be used as drop caps or initial letters for body text set in an otherwise completely different font, especially if that other font is a serif typeface, good for setting long passages of text.Aktura is a single-weight typeface designed by Gaetan Baehr.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

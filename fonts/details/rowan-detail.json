@@ -1,0 +1,42 @@
+{
+  "name": "Rowan",
+  "url": "https://www.fontshare.com/fonts/rowan",
+  "category": "Serif",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 10,
+    "total_variable": 2
+  },
+  "glyphs": 415,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Editorial",
+    "Reading",
+    "Text"
+  ],
+  "description": "Rowan is a family of serif fonts intended for setting long passages of text for immersive reading. It can be used in both normal text sizes, and really small sizes, too. This is due to its particularly chunky serifs and stroke-endings. The family features five different weights, ranging from Light through Bold. Even in the Light weight, Rowan’s unique serif and stroke-ending-structure give the text a degree of visible stroke contrast. Each weight has an upright and an italic font on offer. The default numerals in each font are oldstyle figures; however, lining figures are also available via an OpenType feature. Via a Stylistic Set, users can access a set of glyphs where the ascending lowercase letters (‘b’, ‘d’, ‘h’, ‘k’, and ‘l’) have no top-serifs; however, even without those serifs, the letters maintain their correct color, thanks to the swelling flairs at the tops of their stems. Each Rowan font also includes a full range of raised punctuation marks for all-caps typesetting. Rowan is an excellent selection for both book designers and editorial designers. It could also shine when used for the display of embedded text in iOS apps. Rowan was developed by the Berlin-based type designer Inga Plönnigs, a graduate of the Type & Media program at the Royal Academy of Art (KABK) in The Hague.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

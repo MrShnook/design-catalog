@@ -1,0 +1,42 @@
+{
+  "name": "Ranade",
+  "url": "https://www.fontshare.com/fonts/ranade",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "in Ahmedabad/India.",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Thin",
+      "Thin Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 10,
+    "total_variable": 2
+  },
+  "glyphs": 398,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Editorial",
+    "Magazines",
+    "Posters"
+  ],
+  "description": "Ranade is a family of sans serif fonts designed in the neo-grotesk style. It also includes a little kick, separating it from other typefaces in that genre: its diagonal letters feature stark contrast. The diagonals that are typically written with thin strokes in classic serif typefaces maintain thin strokes in Ranade as well, even in the family’s lightest weights. Speaking of weight, Ranade features ten font styles spread across five weights; these range from Thin through Bold. Every weight has both an upright font and an italic on offer. The italic fonts in Ranade are designed in the ‘oblique’ style. The fonts feature a tall x-height. Ascenders rise slightly above the tops of the capital letters, and the the numerals are slightly shorter than the uppercase letters’ height. Lines of text in Ranade can be set tightly and compactly; the uppercase includes no descending elements – both the ‘J’ and ‘Q’ keep all of their strokes between the baseline and the cap-height. Ranade is an excellent selection for use in branding and corporate design. The fonts were developed by Easha Ranade at the Indian Type Foundry in Ahmedabad/India.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

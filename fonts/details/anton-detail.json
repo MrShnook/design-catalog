@@ -1,0 +1,29 @@
+{
+  "name": "Anton",
+  "url": "https://www.fontshare.com/fonts/anton",
+  "category": "Sans",
+  "designer": "Vernon Adams",
+  "foundry": "Vernon Adams",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 1373,
+  "supported_languages": 0,
+  "version": "2.116",
+  "fontshare_debut": "21 May 2022",
+  "tags": [
+    "Apps",
+    "Books",
+    "Banners",
+    "Headlines",
+    "Tight"
+  ],
+  "description": "Anton is a reworking of a traditional advertising sans serif typeface. The letter forms have been digitised and then reshaped for use as a web-font, the counters have been opened up a little and the stems optimised for use as bold display font in modern web browsers.\n\nAnton is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

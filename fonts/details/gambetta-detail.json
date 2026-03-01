@@ -1,0 +1,42 @@
+{
+  "name": "Gambetta",
+  "url": "https://www.fontshare.com/fonts/gambetta",
+  "category": "Serif",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 10,
+    "total_variable": 2
+  },
+  "glyphs": 368,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Magazines",
+    "Newspapers",
+    "Text"
+  ],
+  "description": "Gambetta is a family of serif fonts designed for use in text. Its ten styles are spread across five weights, ranging from Light to Bold; each weight has an upright and a companion italic font on offer. Gambetta’s letterforms are drawn with diagonal stress, and they letters have visible contrast, too. The degree of contrast that is visible increases with every weight in the family. Several of the terminals on the strokes of Gambetta’s letterforms feature very prominent wedge-shapes. In the upright fonts’ uppercase, every vertical terminal has been designed with one of these ‘wedge terminals’. These have been left off of other letterforms, judiciously. For example, the lowercase ‘a’ in the upright fonts don’t have a top-left terminal. This decision results in ‘a’ counterforms that are quite open. The numerals in Gambetta are proportional lining figures; the top of the ‘3’ is very distinctive, as it is flat. The numeral height is slightly lower than that of the uppercase letters; the lowercase ascenders, in turn, are taller than the capitals. In Gambetta’s italic fonts, the lowercase ‘g’ is double-storey, while the ‘a’ is single-storey. The ear on the ‘g’ is a prominent diagonal stroke, and the top-right part of the ‘k’ is an open loop. Gambetta is intended for use in book design and in editorial design; the fonts come from Paul Troppmar.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

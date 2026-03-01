@@ -1,0 +1,42 @@
+{
+  "name": "Recia",
+  "url": "https://www.fontshare.com/fonts/recia",
+  "category": "Serif",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 10,
+    "total_variable": 2
+  },
+  "glyphs": 517,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Code",
+    "Magazines",
+    "Posters",
+    "Websites"
+  ],
+  "description": "Recia is Carlos De Toro’s debut typeface with ITF. Recia is a contemporary-style serif. The family comes in 10 styles, and its five Italic fonts are ‘true-italic’ designs, which feature a cursive-structure in the letters. Its x-height is pretty high and the characters are slightly condensed, with strokes that are rather low-contrast. In the lighter weights, hardly any stroke contrast is visible between the thick and thin portions of the letters, but in the Bold weights, stroke contrast is clear, but the thinner strokes are still quite chunky. The serifs all take wedge-shapes. Each font contains 516 glyphs, and the character set offers users multiple figure styles via OpenType features. The default numeral versions are proportional oldstyle figures. Recia is optimised for use in running text, particularly in less-than-optimal printing environments were sturdy letterforms are needed.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

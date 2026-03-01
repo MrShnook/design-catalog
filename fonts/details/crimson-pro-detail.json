@@ -1,0 +1,27 @@
+{
+  "name": "Crimson Pro",
+  "url": "https://www.fontshare.com/fonts/crimson-pro",
+  "category": "Serif",
+  "designer": "Jacques Le Bailly",
+  "foundry": "Jacques Le Bailly",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 832,
+  "supported_languages": 0,
+  "version": "1.003",
+  "fontshare_debut": "22 May 2022",
+  "tags": [
+    "Magazines",
+    "Publishing",
+    "Editorial"
+  ],
+  "description": "Crimson Pro a professionally produced redesign of Crimson by Jacques Le Bailly (@Fonthausen), commissioned by Google. This new Crimson is a fresh take on the original version and the result of months of painstaking work to perfect colour, glyph balance and legibility.\n\nCrimson Pro is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

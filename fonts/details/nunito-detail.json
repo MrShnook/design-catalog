@@ -1,0 +1,28 @@
+{
+  "name": "Nunito",
+  "url": "https://www.fontshare.com/fonts/nunito",
+  "category": "Sans",
+  "designer": "Vernon Adams",
+  "foundry": "Vernon Adams",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 1118,
+  "supported_languages": 0,
+  "version": "3.602",
+  "fontshare_debut": "23 May 2022",
+  "tags": [
+    "Headline",
+    "Films",
+    "friendly",
+    "Invitation"
+  ],
+  "description": "Nunito is a well balanced Sans Serif with rounded terminals. Nunito has been designed mainly to be used as a display font but is useable as a text font too. Nunito has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.\n\nNunito is licensed under the SIL Open Font License. You can find more details about this project here.",
+  "features": {},
+  "languages_list": ""
+}

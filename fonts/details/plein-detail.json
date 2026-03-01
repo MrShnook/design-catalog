@@ -1,0 +1,42 @@
+{
+  "name": "Plein",
+  "url": "https://www.fontshare.com/fonts/plein",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 10,
+    "total_variable": 2
+  },
+  "glyphs": 449,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Magazines",
+    "Newspapers",
+    "Poster"
+  ],
+  "description": "Plein is a family of humanist-style sans serif fonts. The typeface’s clear and open forms are very legible and pleasant to read, too. The fonts’ letters are drawn with virtually monolinear strokes. The family has ten font styles available; there are five weights, ranging from Light to Black, and each weight has an upright and and italic font on offer. In Plein’s upright fonts, the lowercase ‘a’ and ‘g’ have double-storey forms; in the italics, these are single-storey. The stem of the ‘f’ in Plein’s italics descends below the baseline. The default numerals in the fonts are proportional oldstyle figures. Lining figures are also available, via an OpenType feature. The fonts also include case-sensitive punctuation, which can be substituted into all-caps text. Humanist sans serif typefaces are used in a wide variety of design projects today. Therefore, Plein is an excellent choice for work in branding and corporate design, but you could also use it to set texts of medium length in editorial design work. It might even be worth trying it out on signage and in navigation design projects. Plein comes from Inga Plönnigs, an independent type designer in Berlin and a graduate of the Type & Media program at the Royal Academy of Art (KABK) in The Hague.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

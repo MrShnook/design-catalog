@@ -1,0 +1,30 @@
+{
+  "name": "Segment",
+  "url": "https://www.fontshare.com/fonts/segment",
+  "category": "Display",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Regular"
+    ],
+    "variable": [],
+    "total_static": 1,
+    "total_variable": 0
+  },
+  "glyphs": 503,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Branding",
+    "Magazines",
+    "Packaging",
+    "Posters"
+  ],
+  "description": "Segment is an LCD-style display font from Frode Helland, an Oslo based designer. True to its name, all of the letterforms in the font are constructed out of segments. This is a perfect choice for use in poster design, as well as for identity work for small businesses inside of cities with good public transit systems. The font would also work well in headlines for articles that touch on digital subjects. Despite the late-twentieth century technology whose style this font is based on, Segment’s design language is actually older and more eclectic. To begin with, for an experimental display font, Segment is most unusual because its letters have serifs. Its old-fashioned style is also particularly apparent in the top-half of the “7”, which approximates a wavy horizontal stroke, as well as on the bottom of the “2” and in the Pound Sterling currency symbol. The capital “R” has a long, sweeping diagonal tail. As you would expect from a classic electronic display font, Segment’s characters are monospaced. All of its glyphs share a common width. The font is also caps-only; the lowercase slots are filled with duplicates of the uppercase letters. None of the base letters like “J” or “Q” have descenders, but the design leaves ample room above and below for the diacritic marks required by various European languages. There are five glyphs in Segment representing the base grids on which either all, or some, of the “segments” in the font have been designed. The character set also contains over a dozen different currency symbols and two OpenType Stylistic Sets, which each offer alternate forms for the font’s range of punctuation marks.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

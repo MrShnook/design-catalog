@@ -1,0 +1,28 @@
+{
+  "name": "Space Grotesk",
+  "url": "https://www.fontshare.com/fonts/space-grotesk",
+  "category": "Sans",
+  "designer": "Florian Karsten",
+  "foundry": "Florian Karsten",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 1001,
+  "supported_languages": 0,
+  "version": "2.0",
+  "fontshare_debut": "23 May 2022",
+  "tags": [
+    "Apps",
+    "Banners",
+    "Corporate",
+    "Modern"
+  ],
+  "description": "Space Grotesk is a proportional sans-serif typeface variant based on Colophon Foundry's fixed-width Space Mono family (2016). Originally designed by Florian Karsten in 2018, Space Grotesk retains the monospace's idiosyncratic details while optimising for improved readability at non-display sizes.\n\nSpace Grotesk includes Latin Vietnamese, Pinyin, and all Western, Central, and South-Eastern European language support, as well as several OpenType features (old-style and tabular figures, superscript and subscript numerals, fractions, stylistic alternates).\n\nSpace Grotesk is licensed under the SIL Open Font License. You can find more details about this project here or on its beautiful minisite.",
+  "features": {},
+  "languages_list": ""
+}

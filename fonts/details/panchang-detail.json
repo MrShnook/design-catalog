@@ -1,0 +1,38 @@
+{
+  "name": "Panchang",
+  "url": "https://www.fontshare.com/fonts/panchang",
+  "category": "Sans",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 7,
+    "total_variable": 1
+  },
+  "glyphs": 398,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Books",
+    "Editorial",
+    "Magazines",
+    "Posters"
+  ],
+  "description": "Ranging in weight from Light through ExtraBold, the Panchang family has six wide sans serif fonts on offer. The typeface features letters so wide that they are almost panoramic. The family supports all European languages written with the Latin script. Panchang’s lowercase letters have a tall x-height, and their ascenders are visibly taller than the capitals. The design’s broad letterforms look very industrial on the whole. Most terminals end with horizontal and vertical strokes, giving them a clean and streamlined look. There are a few exceptions to keep texts from becoming too monotonous. For instance, the diagonal stroke endings on the ‘C’, ‘S’, ‘c’, ‘e’, ‘g’, ‘s’, ‘6’ and ‘9’. Additionally, you will find these on the top half of the ‘G’, ‘f’ and ‘2’, as well as on the bottom of the ‘J’, ‘j’, ‘t’, ‘y’, ‘5’ and part of the ‘3’. Another surprise in the otherwise technical-looking typeface is the lowercase ‘y’, whose form is rounded. This allows it to take a wide stance, just like the rest of Panchang’s character set. A number of fine details stand out in the fonts: ‘a’ and the ‘g’ both take single-storey forms. The ampersand has a simplified form recalling the ‘Et’ ligature that caused the character to be invented in the first place. Panchang’s at-symbols align nicely in text, too. The typeface was designed by Hitesh Malaviya and Barbara Bigosińska.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

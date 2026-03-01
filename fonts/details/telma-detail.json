@@ -1,0 +1,36 @@
+{
+  "name": "Telma",
+  "url": "https://www.fontshare.com/fonts/telma",
+  "category": "Script",
+  "designer": "Indian Type Foundry",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "Closed Source / ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "variable": [
+      "Variable"
+    ],
+    "total_static": 5,
+    "total_variable": 1
+  },
+  "glyphs": 530,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Banners",
+    "Invitation",
+    "Logos",
+    "Poster"
+  ],
+  "description": "Telma is a family of informal script fonts. Their letterforms are drawn with a good degree of contrast between the thick and thick strokes. This contrast gives the whimsical structure seen in some of the characters a more formal nature. There are five weights in the Team family, ranging from Light through Black. Each time you move up the family’s weight scale, the fonts’ thick strokes get thicker, while the thins stay about the same weight. The fonts include a number of ligatures and alternate versions of letterforms, too; these are automatically substituted into text when the OpenType features for Ligatures and Contextual Alternates have been activated. Several of Telma’s uppercase letters have swash-like descenders, such as ‘G’, ‘K’, ‘Q’, and ‘R’. The out-strokes of the lowercase ‘f’, ‘h’, ‘k’, and ‘z’ also descend. Telma has a tall x-height, and the ascenders of the lowercase letters noticeably rise up above than the capitals’ height. The fonts’ numerals are proportionally-spaced oldstyle figures. Developed by the Czech designer Jitka Janečková, Telma is an optimal selection for use in greeting card design and packaging design. Script-fonts like Telma are also often put to good use as headlines in magazines that are printed on glossy paper, as well as in logos designed for small businesses.",
+  "features": {},
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cofán, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaraní, Guarani, Gwich"
+}

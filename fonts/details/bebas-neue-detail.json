@@ -1,0 +1,28 @@
+{
+  "name": "Bebas Neue",
+  "url": "https://www.fontshare.com/fonts/bebas-neue",
+  "category": "Sans",
+  "designer": "Ryoichi Tsunekawa",
+  "foundry": "Ryoichi Tsunekawa",
+  "source": "Open Source",
+  "license": "Open Source / SIL Open Font License",
+  "styles": {
+    "static": [],
+    "variable": [],
+    "total_static": 0,
+    "total_variable": 0
+  },
+  "glyphs": 508,
+  "supported_languages": 0,
+  "version": "2.0",
+  "fontshare_debut": "22 May 2022",
+  "tags": [
+    "Packaging",
+    "Websites",
+    "Menus",
+    "Credits"
+  ],
+  "description": "Bebas Neue is a display font for headlines, captions, and titling designed by Ryoichi Tsunekawa of Dharma Type.\n\nBebas Neue is licensed under the SIL Open Font License. You can find more details about this project here or visit http://bebasneue.com",
+  "features": {},
+  "languages_list": ""
+}
