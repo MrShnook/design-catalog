@@ -9,7 +9,9 @@
     "hover",
     "3d",
     "background",
-    "card"
+    "card",
+    "form",
+    "image"
   ],
   "animation_type": "hover",
   "animation_description": "Card tilts in 3D space following mouse position with perspective transform. Inner elements float upward with varying translateZ depths on hover. Smooth spring transition on enter/exit.",
@@ -19,8 +21,8 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "npx shadcn@latest add @aceternity/3d-card",
-  "install_command": "npx shadcn@latest add @aceternity/3d-card-demo",
+  "code_snippet": "npx shadcn@latest add @aceternity/3d-card\nCopy",
+  "install_command": "npx shadcn@latest add @aceternity/3d-card-demo`Copy",
   "use_cases": [
     "Feature cards",
     "Product showcases",

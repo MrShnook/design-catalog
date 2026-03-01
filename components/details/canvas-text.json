@@ -4,13 +4,15 @@
   "url": "https://ui.aceternity.com/components/canvas-text",
   "type": "component",
   "description": "Animated text component with colorful curved lines rendered on canvas, clipped to the text shape.",
-  "category": "Text Effects",
+  "category": "Decorative",
   "tags": [
-    "canvas",
-    "shader"
+    "text",
+    "background",
+    "animation",
+    "canvas"
   ],
   "animation_type": "load",
-  "animation_description": "Text rendered on HTML5 Canvas with animated particle or pixel effects. Characters appear with custom canvas-based animations.",
+  "animation_description": "Animated text rendered on HTML canvas with colorful curved lines tracing letter paths. Lines animate in with drawing motion.",
   "tech_stack": [
     "Framer Motion",
     "Tailwind CSS",
@@ -18,12 +20,12 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "// Install: npx shadcn@latest add @aceternity/canvas-text-demo\n// Key Props:\n//   text: `string` - -\n//   className: `string` - `\"\"`\n//   backgroundClassName: `string` - `\"bg-white dark:bg-neutral-950\"`\n//   colors: `string[]` - `[\"#ff6b6b\", \"#4ecdc4\", \"#45b7d1\", \"#96ceb4\", \"#ffeaa7\", ...]`\n//   animationDuration: `number` - `5`\n//   lineWidth: `number` - `1.5`",
-  "install_command": "npx shadcn@latest add @aceternity/canvas-text-demo",
+  "code_snippet": "<CanvasText\n  text=\"Colorful Text\"\n  colors={[\\\n    \"var(--color-blue-500)\",\\\n    \"var(--color-sky-500)\",\\\n    \"var(--color-violet-500)\",\\\n    \"var(--color-teal-500)\",\\\n  ]}\n/>CopySelect Language",
+  "install_command": "npx shadcn@latest add @aceternity/canvas-text-demo`Copy",
   "use_cases": [
     "Hero sections",
-    "Landing pages",
-    "Visual accents"
+    "Interactive art",
+    "Landing pages"
   ],
   "free": true
 }

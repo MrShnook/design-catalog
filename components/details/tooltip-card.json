@@ -4,11 +4,13 @@
   "url": "https://ui.aceternity.com/components/tooltip-card",
   "type": "component",
   "description": "A tooltip card container that follows mouse pointer when hovered over",
-  "category": "Tooltips",
+  "category": "Cards",
   "tags": [
     "hover",
+    "card",
     "interactive",
-    "card"
+    "particles",
+    "form"
   ],
   "animation_type": "hover",
   "animation_description": "Floating tooltip card appears and follows cursor position on hover with spring-based animation. Card has a smooth opacity and scale transition.",
@@ -18,12 +20,12 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "npx shadcn@latest add @aceternity/tooltip-card",
-  "install_command": "npx shadcn@latest add @aceternity/tooltip-card-demo",
+  "code_snippet": "npx shadcn@latest add @aceternity/tooltip-card\nCopy",
+  "install_command": "npx shadcn@latest add @aceternity/tooltip-card-demo`Copy",
   "use_cases": [
-    "Navigation hints",
-    "Info cards",
-    "Link previews"
+    "Feature cards",
+    "Product showcases",
+    "Team members"
   ],
   "free": true
 }

@@ -4,13 +4,16 @@
   "url": "https://ui.aceternity.com/components/dither-shader",
   "type": "component",
   "description": "A real-time ordered dithering effect for images, perfect for pixel art and retro aesthetics.",
-  "category": "Backgrounds",
+  "category": "Decorative",
   "tags": [
-    "canvas",
-    "shader"
+    "background",
+    "card",
+    "gradient",
+    "shader",
+    "image"
   ],
-  "animation_type": "continuous",
-  "animation_description": "WebGL shader-based dithering effect applied to content. Creates a retro pixel/dither aesthetic with animated noise patterns.",
+  "animation_type": "load",
+  "animation_description": "Real-time ordered dithering effect applied to images via WebGL shader. Creates a retro pixel art aesthetic with configurable dither patterns.",
   "tech_stack": [
     "Framer Motion",
     "Tailwind CSS",
@@ -18,12 +21,12 @@
   ],
   "inspired_by": "N/A",
   "dependencies": [],
-  "code_snippet": "// Install: npx shadcn@latest add @aceternity/dither-shader-demo\n// Key Props:\n//   src: `string` - -\n//   gridSize: `number` - `4`\n//   ditherMode: `\"bayer\" - \"halftone\"\n//   colorMode: `\"original\" - \"grayscale\"\n//   invert: `boolean` - `false`\n//   pixelRatio: `number` - `1`",
-  "install_command": "npx shadcn@latest add @aceternity/dither-shader-demo",
+  "code_snippet": "npx shadcn@latest add @aceternity/dither-shader\nCopy",
+  "install_command": "npx shadcn@latest add @aceternity/dither-shader-demo`Copy",
   "use_cases": [
+    "Visual accents",
     "Hero sections",
-    "Landing pages",
-    "Visual accents"
+    "Background effects"
   ],
   "free": true
 }
