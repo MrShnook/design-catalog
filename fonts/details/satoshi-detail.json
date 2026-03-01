@@ -1,0 +1,63 @@
+{
+  "name": "Satoshi",
+  "url": "https://www.fontshare.com/fonts/satoshi",
+  "category": "Sans",
+  "designer": "Deni Anggara",
+  "foundry": "Indian Type Foundry",
+  "source": "Closed Source",
+  "license": "ITF Free Font License",
+  "styles": {
+    "static": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "variable": [
+      "Variable",
+      "Variable Italic"
+    ],
+    "total_static": 10,
+    "total_variable": 2
+  },
+  "glyphs": 504,
+  "supported_languages": 135,
+  "version": "1.0",
+  "fontshare_debut": "12 Mar 2021",
+  "tags": [
+    "Branding",
+    "Logos",
+    "Magazines"
+  ],
+  "description": "Satoshi is a modernist sans serif typeface. Its design combines typically grotesk-style letterforms, with some characters that are quite geometrically-designed. In terms of its appearance, Satoshi was inspired by Modernism and Industrial-Era graphic and typographic design. The family has tem weights on offer, ranging from Light to Black with complimentary italics. It is an excellent choice for use in branding, editorial, and poster design.\n\nSatoshi\u2019s lowercase \u2018a\u2019 and \u2018g\u2019 are double-storied; however, single-storied alternates are available, through an OpenType feature. The fonts\u2019 other OpenType features include 10 ligatures per font, as well as alternate versions of the \u2018G\u2019 and \u2019t\u2019. The default numeral style in each of the fonts is proportional lining figures; three other styles of numbers are included, too. There are tabular lining figures, as well as numerators and denominators for typesetting fractions. The fonts\u2019 lining figures have the same height as the uppercase letters. The lowercase\u2019s ascenders are drawn to be slightly taller than the common height of the capital letters and numerals. Each Satoshi font contains ten directional-arrow glyphs, as well as six glyphs of circles, squares, and triangles. There is also a peace sign in the character set, a smiling-face emoji, a check mark, and two versions of the numbers one through nine, each enclosed inside of differently-filled circles.\n\nSatoshi was designed by Deni Anggara for the Indian Type Foundry.",
+  "features": {
+    "double_storied_a_g": true,
+    "single_storied_alternates": true,
+    "ligatures_per_font": 10,
+    "alternate_characters": [
+      "G",
+      "t"
+    ],
+    "numeral_styles": [
+      "Proportional lining (default)",
+      "Tabular lining",
+      "Numerators",
+      "Denominators"
+    ],
+    "special_glyphs": [
+      "10 directional arrows",
+      "6 geometric shapes (circles, squares, triangles)",
+      "Peace sign",
+      "Smiling-face emoji",
+      "Check mark",
+      "Circled numbers 1-9 (two styles)"
+    ]
+  },
+  "languages_list": "Afar, Afrikaans, Albanian, Aranese, Aromanian, Aymara, Azeri (Latin), Basque, Bemba, Bislama, Bosnian, Breton, Catalan, Chamorro, Cheyenne, Chichewa, Chuukese, Cof\u00e1n, Cornish, Crimean Tatar, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Finnish, French, Frisian, Friulian, Ga, Galician, Ganda, German, Gikuyu, Greenlandic, Guaran\u00ed, Guarani, Gwich'in, Haitian, Hawaiian, Hungarian, Icelandic, Ido, Igbo, Indonesian, Interlingua, Irish Gaelic, Italian, Javanese, Karelian, Kashubian, Kinyarwanda, Kiribati, Kirundi, Kituba, Kurdish (Latin), Ladin, Latvian, Lithuanian, Luxemburgish, Malagasy, Malay, Maltese, Maninka, Manx, M\u0101ori, Marshallese, N\u00e1huatl, Nauruan, Navajo, Ndebele (Northern), Ndebele (Southern), Norfuk, Norn, Norwegian (Bokm\u00e5l), Norwegian (Nynorsk), Nyanja, Occitan, Oromo, Otomi, Palauan, Papiamento, Pedi, Polish, Portuguese, Quechua, Rarotongan, Rhaeto-Romanic, Romaji, Romani, Romanian, S\u00e1mi (Inari), S\u00e1mi (Lule), S\u00e1mi (Northern), S\u00e1mi (Southern), Samoan, Sango, Sardinian, Scottish Gaelic, Serbian (Latin), Seychelles Creole, Shona, Silesian, Slovak, Slovene, Somali (Latin), Sorbian, Sotho, Spanish, Swahili, Swati, Swedish, Tagalog (Filipino), Tahitian, Tetum, Tok Pisin, Tokelauan, Tongan, Tsonga, Tswana, Turkish, Tuvalu, Twi, Ulithian, Umbundu, Veps, Vietnamese, Welsh, Wolof, Xhosa, Zulu"
+}
