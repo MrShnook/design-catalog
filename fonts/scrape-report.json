@@ -1,12 +1,19 @@
 {
   "total": 100,
-  "scraped": 98,
+  "scraped": 99,
   "skipped": 1,
-  "failed": 1,
-  "failures": [
-    "roundo"
-  ],
+  "failed": 0,
+  "failures": [],
   "skipped_fonts": [
     "satoshi"
-  ]
+  ],
+  "notes": "roundo scraped separately with wait_for=8000 due to initial timeout",
+  "screenshots": {
+    "total": 100,
+    "success": 95,
+    "skipped": 5,
+    "failed": 0,
+    "failures": [],
+    "notes": "5 skipped = already existed from prior runs"
+  }
 }
