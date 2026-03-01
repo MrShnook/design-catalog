@@ -1,0 +1,144 @@
+{
+  "pass": "5-firecrawl-js",
+  "total": 34,
+  "success": 0,
+  "failed": 34,
+  "failed_details": [
+    {
+      "slug": "laser-flow",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "ghost-cursor",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "shape-blur",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "ribbons",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "splash-cursor",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "meta-balls",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "circular-gallery",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "flying-posters",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "infinite-menu",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "liquid-ether",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "prism",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "dark-veil",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "floating-lines",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "pixel-blast",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "color-bends",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "aurora",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "plasma",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "particles",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "gradient-blinds",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "grainient",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "grid-scan",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "pixel-snow",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "prismatic-burst",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "galaxy",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "faulty-terminal",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "ripple-grid",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "threads",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "hyperspeed",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "iridescence",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "grid-distortion",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "ballpit",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "orb",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "liquid-chrome",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    },
+    {
+      "slug": "balatro",
+      "error": "'Firecrawl' object has no attribute 'scrape_url'"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "pass": "4-direct-html",
+  "total": 34,
+  "success": 0,
+  "failed": 34,
+  "failed_details": [
+    {
+      "slug": "laser-flow",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "ghost-cursor",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "shape-blur",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "ribbons",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "splash-cursor",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "meta-balls",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "circular-gallery",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "flying-posters",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "infinite-menu",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "liquid-ether",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "prism",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "dark-veil",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "floating-lines",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "pixel-blast",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "color-bends",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "aurora",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "plasma",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "particles",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "gradient-blinds",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "grainient",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "grid-scan",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "pixel-snow",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "prismatic-burst",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "galaxy",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "faulty-terminal",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "ripple-grid",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "threads",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "hyperspeed",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "iridescence",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "grid-distortion",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "ballpit",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "orb",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "liquid-chrome",
+      "error": "No code blocks found"
+    },
+    {
+      "slug": "balatro",
+      "error": "No code blocks found"
+    }
+  ]
+}

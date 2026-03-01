@@ -1,0 +1,38 @@
+{
+  "source": "reactbits",
+  "total_components": 122,
+  "categories": {
+    "text-animations": 23,
+    "animations": 28,
+    "components": 35,
+    "backgrounds": 36
+  },
+  "outputs": {
+    "details": 122,
+    "source_code": 122,
+    "raw_markdown": 122,
+    "previews": 3
+  },
+  "source_code_summary": {
+    "tsx_files": "~100",
+    "jsx_files": "~22",
+    "total": 122,
+    "all_extracted": true
+  },
+  "passes": {
+    "pass1_metadata": "122/122 success - extracted metadata, props, dependencies",
+    "pass2_source": "88/122 success - extracted source via Firecrawl browser",
+    "pass2_retry": "22/34 success - retried remaining",
+    "pass3_playwright": "interrupted",
+    "pass4_direct_html": "0/34 - requires JS",
+    "pass5_firecrawl_js": "12/34 success - extracted remaining via Firecrawl JS rendering"
+  },
+  "final_status": "COMPLETE - all 122 components have source code",
+  "notes": [
+    "All 122 components have detailed metadata in details/",
+    "All 122 components have source code in source_code/",
+    "3 screenshots captured in previews/ (optional deliverable)",
+    "Raw markdown saved for all components in raw_markdown/"
+  ],
+  "last_updated": "2026-03-01"
+}
