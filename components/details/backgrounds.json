@@ -17,7 +17,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/background-with-full-video",
   "use_cases": [
     "Hero sections",
     "Landing pages",
@@ -26,17 +26,14 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Background with full video",
-    "Background with shooting stars",
-    "Background with dots",
-    "Background with Noise Grid",
-    "Download the noise.webp file from here",
-    "Background with dots masked",
-    "Background with dots masked vertical",
-    "Background with skewed rectangles",
-    "Background with skewed lines",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Background With Full Video",
+    "Background With Shooting Stars",
+    "Background With Dots",
+    "Background With Noise Grid",
+    "Background With Dots Masked",
+    "Background With Dots Masked Vertical",
+    "Background With Skewed Rectangles",
+    "Background With Skewed Lines"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/backgrounds/background-with-full-video",
@@ -48,5 +45,15 @@
     "https://ui.aceternity.com/blocks/backgrounds/background-with-skewed-rectangles",
     "https://ui.aceternity.com/blocks/backgrounds/background-with-skewed-lines"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/background-with-full-video",
+    "https://ui.aceternity.com/live-preview/background-with-shooting-stars",
+    "https://ui.aceternity.com/live-preview/background-dots",
+    "https://ui.aceternity.com/live-preview/background-noise-grid",
+    "https://ui.aceternity.com/live-preview/background-dots-masked",
+    "https://ui.aceternity.com/live-preview/background-dots-masked-vertical",
+    "https://ui.aceternity.com/live-preview/background-with-skewed-rectangles",
+    "https://ui.aceternity.com/live-preview/background-with-skewed-lines"
+  ]
 }

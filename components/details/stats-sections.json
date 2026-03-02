@@ -15,7 +15,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/stats-for-changelog",
   "use_cases": [
     "Feature sections",
     "Dashboards",
@@ -27,9 +27,7 @@
     "Stats For Changelog",
     "Stats With Grid Background",
     "Stats With Gradient",
-    "Stats With Number Ticker",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Stats With Number Ticker"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/stats-sections/stats-for-changelog",
@@ -37,5 +35,11 @@
     "https://ui.aceternity.com/blocks/stats-sections/stats-with-gradient",
     "https://ui.aceternity.com/blocks/stats-sections/stats-with-number-ticker"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/stats-for-changelog",
+    "https://ui.aceternity.com/live-preview/stats-with-grid-background",
+    "https://ui.aceternity.com/live-preview/stats-with-gradient",
+    "https://ui.aceternity.com/live-preview/stats-with-number-ticker"
+  ]
 }

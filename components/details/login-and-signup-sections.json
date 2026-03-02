@@ -20,7 +20,7 @@
     "motion"
   ],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/login-form-with-gradient",
   "use_cases": [
     "Sign-up forms",
     "Contact forms",
@@ -30,13 +30,10 @@
   "full_source_available": false,
   "block_variants": [
     "Login Form With Gradient",
-    "Install dependencies",
     "Premium Auth Split",
     "Registration Form With Images",
     "Login With Socials And Email",
-    "Login Signup Minimal",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Login Signup Minimal"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/login-and-signup-sections/login-form-with-gradient",
@@ -45,5 +42,12 @@
     "https://ui.aceternity.com/blocks/login-and-signup-sections/login-with-socials-and-email",
     "https://ui.aceternity.com/blocks/login-and-signup-sections/login-signup-minimal"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/login-form-with-gradient",
+    "https://ui.aceternity.com/live-preview/premium-auth-split",
+    "https://ui.aceternity.com/live-preview/registration-form-with-images",
+    "https://ui.aceternity.com/live-preview/login-with-socials-and-email",
+    "https://ui.aceternity.com/live-preview/login-signup-minimal"
+  ]
 }

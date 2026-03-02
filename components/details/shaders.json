@@ -18,7 +18,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/lines-gradient-shader",
   "use_cases": [
     "Hero sections",
     "Landing pages",
@@ -29,14 +29,17 @@
   "block_variants": [
     "Lines Gradient Shader",
     "Dot Distortion Shader",
-    "Spotlight Shader",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Spotlight Shader"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/shaders/lines-gradient-shader",
     "https://ui.aceternity.com/blocks/shaders/dot-distortion-shader",
     "https://ui.aceternity.com/blocks/shaders/spotlight-shader"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/lines-gradient-shader",
+    "https://ui.aceternity.com/live-preview/dot-distortion-shader",
+    "https://ui.aceternity.com/live-preview/spotlight-shader"
+  ]
 }

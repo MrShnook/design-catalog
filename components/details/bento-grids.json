@@ -20,7 +20,7 @@
     "cobeCopy"
   ],
   "code_snippet": "npm i cobeCopy",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/bento-grid-with-skeletons",
   "use_cases": [
     "Feature sections",
     "Dashboards",
@@ -29,7 +29,25 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Oops! Something went wrong"
+    "Bento Grid With Skeletons",
+    "Three Column Bento Grid",
+    "Three Column With Images",
+    "Symmetric Bento Grid",
+    "Masonry Bento Grid With Images"
   ],
-  "premium": true
+  "premium": true,
+  "block_urls": [
+    "https://ui.aceternity.com/blocks/bento-grids/bento-grid-with-skeletons",
+    "https://ui.aceternity.com/blocks/bento-grids/three-column-bento-grid",
+    "https://ui.aceternity.com/blocks/bento-grids/three-column-with-images",
+    "https://ui.aceternity.com/blocks/bento-grids/symmetric-bento-grid",
+    "https://ui.aceternity.com/blocks/bento-grids/masonry-bento-grid-with-images"
+  ],
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/bento-grid-with-skeletons",
+    "https://ui.aceternity.com/live-preview/three-column-bento-grid",
+    "https://ui.aceternity.com/live-preview/three-columns-with-images",
+    "https://ui.aceternity.com/live-preview/bento-grid-example-three",
+    "https://ui.aceternity.com/live-preview/masonry-bento-grid-with-images"
+  ]
 }

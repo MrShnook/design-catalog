@@ -19,7 +19,7 @@
     "shadcn@latest"
   ],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/features-section-with-skeletons",
   "use_cases": [
     "Feature sections",
     "Dashboards",
@@ -30,16 +30,13 @@
   "block_variants": [
     "Features Section With Skeletons",
     "Features Grid With Large Skeletons",
-    "Install the following dependency",
     "Bento Grid",
-    "Simple with card gradient",
-    "Simple with hover effects",
-    "Features with sticky scroll",
+    "Simple With Card Gradient",
+    "Simple With Hover Effects",
+    "Features With Sticky Scroll",
     "Feature Section Bento Skeletons",
     "Features With Isometric Blocks",
-    "Features With Stacked Isometric Boxes",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Features With Stacked Isometric Boxes"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/feature-sections/features-section-with-skeletons",
@@ -52,5 +49,16 @@
     "https://ui.aceternity.com/blocks/feature-sections/features-with-isometric-blocks",
     "https://ui.aceternity.com/blocks/feature-sections/features-with-stacked-isometric-boxes"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/features-section-with-skeletons",
+    "https://ui.aceternity.com/live-preview/features-grid-with-large-skeletons",
+    "https://ui.aceternity.com/live-preview/features-section-demo-3",
+    "https://ui.aceternity.com/live-preview/features-section-demo-1",
+    "https://ui.aceternity.com/live-preview/features-section-demo-2",
+    "https://ui.aceternity.com/live-preview/features-with-sticky-scroll",
+    "https://ui.aceternity.com/live-preview/feature-section-bento-skeletons",
+    "https://ui.aceternity.com/live-preview/features-with-isometric-blocks",
+    "https://ui.aceternity.com/live-preview/features-with-stacked-isometric-boxes"
+  ]
 }

@@ -17,7 +17,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/simple-blog-with-grid",
   "use_cases": [
     "Feature sections",
     "Dashboards",
@@ -26,14 +26,16 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Simple Blog with Grid",
-    "Blog with Search",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Simple Blog With Grid",
+    "Blog With Search"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/blog-sections/simple-blog-with-grid",
     "https://ui.aceternity.com/blocks/blog-sections/blog-with-search"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/simple-blog-with-grid",
+    "https://ui.aceternity.com/live-preview/blog-with-search"
+  ]
 }

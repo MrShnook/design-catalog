@@ -1,19 +1,28 @@
 // Aceternity UI Block: Blog Sections
 // URL: https://ui.aceternity.com/blocks/blog-sections
-// Type: Premium Block Collection (requires all-access pass)
+// Type: Premium Block Collection
 //
 // Description: Blog sections with search and filters
 //
-// Available Variants (4):
-//   • Simple Blog with Grid
-//   • Blog with Search
-//   • Build websites faster and 10x better than your competitors withAceternity UI Pro
-//   • Build faster with
-
-All-Access
+// Category: Layout
+// Tags: 3d
 //
-// Note: Source code for premium blocks requires Aceternity UI all-access pass.
+// Available Variants (2):
+//   1. Simple Blog With Grid
+//      URL: https://ui.aceternity.com/blocks/blog-sections/simple-blog-with-grid
+//   2. Blog With Search
+//      URL: https://ui.aceternity.com/blocks/blog-sections/blog-with-search
+//
+// Live Previews:
+//   https://ui.aceternity.com/live-preview/simple-blog-with-grid
+//   https://ui.aceternity.com/live-preview/blog-with-search
+//
+// Installation (requires all-access pass):
+//   npx shadcn@latest add @aceternity/simple-blog-with-grid
+//   npx shadcn@latest add @aceternity/blog-with-search
+//
+// Note: Source code for this block collection requires the Aceternity UI all-access pass.
+// Each variant can be installed individually via the shadcn CLI after purchasing.
 // Purchase at: https://ui.aceternity.com/pricing
 //
-// Each variant can be installed individually via:
-//   npx shadcn@latest add @aceternity/{variant-slug}
+// Tech Stack: Framer Motion, Tailwind CSS

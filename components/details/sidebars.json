@@ -17,7 +17,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/simple-sidebar-with-hover",
   "use_cases": [
     "App navigation",
     "Dashboards",
@@ -26,14 +26,16 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Simple Sidebar with Hover",
-    "Collapsible Sidebar",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Simple Sidebar With Hover",
+    "Collapsible Sidebar"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/sidebars/simple-sidebar-with-hover",
     "https://ui.aceternity.com/blocks/sidebars/collapsible-sidebar"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/simple-sidebar-with-hover",
+    "https://ui.aceternity.com/live-preview/collapsible-sidebar"
+  ]
 }

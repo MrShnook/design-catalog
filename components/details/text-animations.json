@@ -18,7 +18,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/text-animation-flipping-words-demo",
   "use_cases": [
     "Headlines",
     "Hero text",
@@ -29,14 +29,17 @@
   "block_variants": [
     "Text Animation Flipping Words",
     "Text Animation Typewriter Effect",
-    "Text Animation Blur Fade In",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Text Animation Blur Fade In"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/text-animations/text-animation-flipping-words",
     "https://ui.aceternity.com/blocks/text-animations/text-animation-typewriter-effect",
     "https://ui.aceternity.com/blocks/text-animations/text-animation-blur-fade-in"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/text-animation-flipping-words-demo",
+    "https://ui.aceternity.com/live-preview/text-animation-typewriter-effect-demo",
+    "https://ui.aceternity.com/live-preview/text-animation-blur-fade-in-demo"
+  ]
 }

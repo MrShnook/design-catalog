@@ -17,7 +17,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/chat-conversation",
   "use_cases": [
     "Feature sections",
     "Dashboards",
@@ -33,9 +33,7 @@
     "Uptime Status Illustration",
     "Rotating Tabs With Text",
     "Flipping Images With Bar",
-    "Isometric Box",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Isometric Box"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/illustrations/chat-conversation",
@@ -47,5 +45,15 @@
     "https://ui.aceternity.com/blocks/illustrations/flipping-images-with-bar",
     "https://ui.aceternity.com/blocks/illustrations/isometric-box"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/chat-conversation",
+    "https://ui.aceternity.com/live-preview/folder-with-files",
+    "https://ui.aceternity.com/live-preview/collaborative-cursors",
+    "https://ui.aceternity.com/live-preview/testimonials-hover-illustration",
+    "https://ui.aceternity.com/live-preview/uptime-status-illustration",
+    "https://ui.aceternity.com/live-preview/rotating-tabs-with-text",
+    "https://ui.aceternity.com/live-preview/flipping-images-with-bar",
+    "https://ui.aceternity.com/live-preview/isometric-box"
+  ]
 }

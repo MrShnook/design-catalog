@@ -16,7 +16,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/contact-form-grid-with-details",
   "use_cases": [
     "Sign-up forms",
     "Contact forms",
@@ -25,17 +25,19 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Contact Form Grid with Details",
-    "Download the world map SVG from here world-map.svg",
+    "Contact Form Grid With Details",
     "Simple Centered Contact Form",
-    "Contact Section With Shader",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Contact Section With Shader"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/contact-sections/contact-form-grid-with-details",
     "https://ui.aceternity.com/blocks/contact-sections/simple-centered-contact-form",
     "https://ui.aceternity.com/blocks/contact-sections/contact-section-with-shader"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/contact-form-grid-with-details",
+    "https://ui.aceternity.com/live-preview/simple-centered-contact-form",
+    "https://ui.aceternity.com/live-preview/contact-section-with-shader"
+  ]
 }

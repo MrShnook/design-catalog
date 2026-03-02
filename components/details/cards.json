@@ -18,7 +18,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/cards-demo-3",
   "use_cases": [
     "Feature cards",
     "Product showcases",
@@ -30,9 +30,7 @@
     "Feature Block Animated Card",
     "Expandable Card On Click",
     "Background Overlay Card",
-    "Content Card",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Content Card"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/cards/feature-block-animated-card",
@@ -40,5 +38,11 @@
     "https://ui.aceternity.com/blocks/cards/background-overlay-card",
     "https://ui.aceternity.com/blocks/cards/content-card"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/cards-demo-3",
+    "https://ui.aceternity.com/live-preview/expandable-card-on-click",
+    "https://ui.aceternity.com/live-preview/cards-demo-1",
+    "https://ui.aceternity.com/live-preview/cards-demo-2"
+  ]
 }

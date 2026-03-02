@@ -15,7 +15,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/simple-cta-with-images",
   "use_cases": [
     "Feature sections",
     "Dashboards",
@@ -24,12 +24,10 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Simple CTA With Images",
-    "CTA With Masonry Images",
-    "CTA With Background Noise",
-    "CTA With Dashed Grid Lines",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Simple Cta With Images",
+    "Cta With Masonry Images",
+    "Cta With Background Noise",
+    "Cta With Dashed Grid Lines"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/cta-sections/simple-cta-with-images",
@@ -37,5 +35,11 @@
     "https://ui.aceternity.com/blocks/cta-sections/cta-with-background-noise",
     "https://ui.aceternity.com/blocks/cta-sections/cta-with-dashed-grid-lines"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/simple-cta-with-images",
+    "https://ui.aceternity.com/live-preview/cta-with-masonry-images",
+    "https://ui.aceternity.com/live-preview/cta-with-background-noise",
+    "https://ui.aceternity.com/live-preview/cta-with-dashed-grid-lines"
+  ]
 }

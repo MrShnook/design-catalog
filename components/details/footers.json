@@ -17,7 +17,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/simple-footer-with-four-grids",
   "use_cases": [
     "Feature sections",
     "Dashboards",
@@ -26,16 +26,19 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Simple Footer with Four Grids",
+    "Simple Footer With Four Grids",
     "Centered With Logo",
-    "Huge footer with Grid",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Huge Footer With Grid"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/footers/simple-footer-with-four-grids",
     "https://ui.aceternity.com/blocks/footers/centered-with-logo",
     "https://ui.aceternity.com/blocks/footers/huge-footer-with-grid"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/simple-footer-with-four-grids",
+    "https://ui.aceternity.com/live-preview/centered-with-logo",
+    "https://ui.aceternity.com/live-preview/footer-with-grid"
+  ]
 }

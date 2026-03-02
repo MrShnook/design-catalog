@@ -1,20 +1,32 @@
 // Aceternity UI Block: Text Animations
 // URL: https://ui.aceternity.com/blocks/text-animations
-// Type: Premium Block Collection (requires all-access pass)
+// Type: Premium Block Collection
 //
 // Description: Text animations components for headings and paragraphs
 //
-// Available Variants (5):
-//   • Text Animation Flipping Words
-//   • Text Animation Typewriter Effect
-//   • Text Animation Blur Fade In
-//   • Build websites faster and 10x better than your competitors withAceternity UI Pro
-//   • Build faster with
-
-All-Access
+// Category: Text Effects
+// Tags: animation, text
 //
-// Note: Source code for premium blocks requires Aceternity UI all-access pass.
+// Available Variants (3):
+//   1. Text Animation Flipping Words
+//      URL: https://ui.aceternity.com/blocks/text-animations/text-animation-flipping-words
+//   2. Text Animation Typewriter Effect
+//      URL: https://ui.aceternity.com/blocks/text-animations/text-animation-typewriter-effect
+//   3. Text Animation Blur Fade In
+//      URL: https://ui.aceternity.com/blocks/text-animations/text-animation-blur-fade-in
+//
+// Live Previews:
+//   https://ui.aceternity.com/live-preview/text-animation-flipping-words-demo
+//   https://ui.aceternity.com/live-preview/text-animation-typewriter-effect-demo
+//   https://ui.aceternity.com/live-preview/text-animation-blur-fade-in-demo
+//
+// Installation (requires all-access pass):
+//   npx shadcn@latest add @aceternity/text-animation-flipping-words
+//   npx shadcn@latest add @aceternity/text-animation-typewriter-effect
+//   npx shadcn@latest add @aceternity/text-animation-blur-fade-in
+//
+// Note: Source code for this block collection requires the Aceternity UI all-access pass.
+// Each variant can be installed individually via the shadcn CLI after purchasing.
 // Purchase at: https://ui.aceternity.com/pricing
 //
-// Each variant can be installed individually via:
-//   npx shadcn@latest add @aceternity/{variant-slug}
+// Tech Stack: Framer Motion, Tailwind CSS

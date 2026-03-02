@@ -18,7 +18,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/pricing-minimal",
   "use_cases": [
     "Feature sections",
     "Dashboards",
@@ -29,11 +29,9 @@
   "block_variants": [
     "Pricing Minimal",
     "Pricing Page With Featured And Enterprise",
-    "Pricing with Switch and Add On",
+    "Pricing With Switch And Add On",
     "Simple Pricing With Three Tiers",
-    "Pricing with switch",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Pricing With Switch"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/pricing-sections/pricing-minimal",
@@ -42,5 +40,12 @@
     "https://ui.aceternity.com/blocks/pricing-sections/simple-pricing-with-three-tiers",
     "https://ui.aceternity.com/blocks/pricing-sections/pricing-with-switch"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/pricing-minimal",
+    "https://ui.aceternity.com/live-preview/pricing-page-with-featured-and-enterprise",
+    "https://ui.aceternity.com/live-preview/pricing-with-switch-and-add-on",
+    "https://ui.aceternity.com/live-preview/simple-pricing-with-three-tiers",
+    "https://ui.aceternity.com/live-preview/pricing-with-switch"
+  ]
 }

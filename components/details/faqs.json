@@ -15,7 +15,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/frequently-asked-questions-accordion",
   "use_cases": [
     "Feature sections",
     "Dashboards",
@@ -24,16 +24,19 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Frequently asked questions with accordion",
-    "Simple FAQs with Background",
-    "FAQs with grid",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Frequently Asked Questions With Accordion",
+    "Simple Faqs With Background",
+    "Faqs With Grid"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/faqs/frequently-asked-questions-with-accordion",
     "https://ui.aceternity.com/blocks/faqs/simple-faqs-with-background",
     "https://ui.aceternity.com/blocks/faqs/faqs-with-grid"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/frequently-asked-questions-accordion",
+    "https://ui.aceternity.com/live-preview/simple-faqs-with-background",
+    "https://ui.aceternity.com/live-preview/faqs-with-grid"
+  ]
 }

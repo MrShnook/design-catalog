@@ -17,7 +17,7 @@
   "inspired_by": "N/A",
   "dependencies": [],
   "code_snippet": "// No code snippet found",
-  "install_command": "",
+  "install_command": "npx shadcn@latest add @aceternity/simple-navbar-with-hover-effects",
   "use_cases": [
     "App navigation",
     "Dashboards",
@@ -26,14 +26,12 @@
   "free": false,
   "full_source_available": false,
   "block_variants": [
-    "Simple Navbar with Hover Effects",
-    "Navbar with Children",
+    "Simple Navbar With Hover Effects",
+    "Navbar With Children",
     "Navbar Classic",
     "Navbar Mega",
     "Navbar Pill",
-    "Navbar Underline",
-    "Build websites faster and 10x better than your competitors withAceternity UI Pro",
-    "Build faster with\n\nAll-Access"
+    "Navbar Underline"
   ],
   "block_urls": [
     "https://ui.aceternity.com/blocks/navbars/simple-navbar-with-hover-effects",
@@ -43,5 +41,13 @@
     "https://ui.aceternity.com/blocks/navbars/navbar-pill",
     "https://ui.aceternity.com/blocks/navbars/navbar-underline"
   ],
-  "premium": true
+  "premium": true,
+  "preview_urls": [
+    "https://ui.aceternity.com/live-preview/simple-navbar-with-hover-effects",
+    "https://ui.aceternity.com/live-preview/navbar-with-children",
+    "https://ui.aceternity.com/live-preview/navbar-classic",
+    "https://ui.aceternity.com/live-preview/navbar-mega",
+    "https://ui.aceternity.com/live-preview/navbar-pill",
+    "https://ui.aceternity.com/live-preview/navbar-underline"
+  ]
 }
